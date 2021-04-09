@@ -41,6 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: player
+  - name: Signs
+    uniqueID: 3228993167
+    locked: 0
+  - name: Player
     uniqueID: 1346937017
     locked: 0
