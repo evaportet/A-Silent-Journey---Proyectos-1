@@ -10937,8 +10937,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogBox: {fileID: 1004567799}
   dialogText: {fileID: 530018525}
-  dialog: House
-  playerInRange: 0
+  dialog: Happy Birthday Joan!
+  playerInRange: 1
 --- !u!1 &1721864695
 GameObject:
   m_ObjectHideFlags: 0
@@ -11235,6 +11235,11 @@ PrefabInstance:
     - target: {fileID: 2989061261426095933, guid: 7605249866b8d7c48a10ae9aeffd7b5f,
         type: 3}
       propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2989061261426095933, guid: 7605249866b8d7c48a10ae9aeffd7b5f,
+        type: 3}
+      propertyPath: m_Enabled
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3414592422229349039, guid: 7605249866b8d7c48a10ae9aeffd7b5f,
