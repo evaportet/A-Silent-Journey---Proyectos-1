@@ -1,7 +1,2137 @@
 fileFormatVersion: 2
 guid: 6561e1235cf0b8841bf5a99f7165ffcd
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 1576510633614032784
+    second: orcos_0
+  - first:
+      213: 2991311552309752554
+    second: orcos_1
+  - first:
+      213: 1644129448978635475
+    second: orcos_2
+  - first:
+      213: 6007109927398838115
+    second: orcos_3
+  - first:
+      213: -1337352670721948394
+    second: orcos_4
+  - first:
+      213: 937230965927608766
+    second: orcos_5
+  - first:
+      213: 2069520521431625326
+    second: orcos_6
+  - first:
+      213: -8947649838206662028
+    second: orcos_7
+  - first:
+      213: -7730906142493337511
+    second: orcos_8
+  - first:
+      213: -2194669878155165417
+    second: orcos_9
+  - first:
+      213: 932180998027935967
+    second: orcos_10
+  - first:
+      213: -4478934427956852311
+    second: orcos_11
+  - first:
+      213: 1066504673293585922
+    second: orcos_12
+  - first:
+      213: 8413309086935979702
+    second: orcos_13
+  - first:
+      213: 4314633996814245416
+    second: orcos_14
+  - first:
+      213: 306731470599773031
+    second: orcos_15
+  - first:
+      213: -4985915131735924090
+    second: orcos_16
+  - first:
+      213: 1764842021638749594
+    second: orcos_17
+  - first:
+      213: -2970736212490179372
+    second: orcos_18
+  - first:
+      213: 5486705190137669915
+    second: orcos_19
+  - first:
+      213: -240598809510528393
+    second: orcos_20
+  - first:
+      213: -4016707340219952079
+    second: orcos_21
+  - first:
+      213: -2818118213663450779
+    second: orcos_22
+  - first:
+      213: 12882307434307139
+    second: orcos_23
+  - first:
+      213: -7623774061568197428
+    second: orcos_24
+  - first:
+      213: 5961288311594192528
+    second: orcos_25
+  - first:
+      213: -5048518474471872038
+    second: orcos_26
+  - first:
+      213: -8123770853411905503
+    second: orcos_27
+  - first:
+      213: -1807983658711269632
+    second: orcos_28
+  - first:
+      213: 8545711852752887802
+    second: orcos_29
+  - first:
+      213: 4481685696647645610
+    second: orcos_30
+  - first:
+      213: 5648415901564867695
+    second: orcos_31
+  - first:
+      213: 3718870056442851204
+    second: orcos_32
+  - first:
+      213: 330757076134129750
+    second: orcos_33
+  - first:
+      213: -833904387516319833
+    second: orcos_34
+  - first:
+      213: -7348921395528364593
+    second: orcos_35
+  - first:
+      213: 959615496881057160
+    second: orcos_36
+  - first:
+      213: -2087646799329020209
+    second: orcos_37
+  - first:
+      213: 1562399583612015924
+    second: orcos_38
+  - first:
+      213: -4315239813348547804
+    second: orcos_39
+  - first:
+      213: -1276312075110173461
+    second: orcos_40
+  - first:
+      213: 4843587034958212145
+    second: orcos_41
+  - first:
+      213: 5403225191014563545
+    second: orcos_42
+  - first:
+      213: -2271903939977504514
+    second: orcos_43
+  - first:
+      213: -2183131015805022769
+    second: orcos_44
+  - first:
+      213: 4812015101577352080
+    second: orcos_45
+  - first:
+      213: -5766956412077552028
+    second: orcos_46
+  - first:
+      213: -7488612805070092494
+    second: orcos_47
+  - first:
+      213: 7178104213338701935
+    second: orcos_48
+  - first:
+      213: -216307035200519122
+    second: orcos_49
+  - first:
+      213: 8907285580479996665
+    second: orcos_50
+  - first:
+      213: 3033508312692143097
+    second: orcos_51
+  - first:
+      213: 7388336490454640595
+    second: orcos_52
+  - first:
+      213: 721223184268941540
+    second: orcos_53
+  - first:
+      213: 6667793245899966120
+    second: orcos_54
+  - first:
+      213: 1635139266160216421
+    second: orcos_55
+  - first:
+      213: -7135730683901854100
+    second: orcos_56
+  - first:
+      213: -4914954807144122408
+    second: orcos_57
+  - first:
+      213: -1205442514106837083
+    second: orcos_58
+  - first:
+      213: -6888309401818106054
+    second: orcos_59
+  - first:
+      213: -7448482650210506496
+    second: orcos_60
+  - first:
+      213: -4862066544531428636
+    second: orcos_61
+  - first:
+      213: 5491944788293404016
+    second: orcos_62
+  - first:
+      213: 7303577420515981705
+    second: orcos_63
+  - first:
+      213: 1538248056373387657
+    second: orcos_64
+  - first:
+      213: 4848961546350323499
+    second: orcos_65
+  - first:
+      213: -6496461719704134834
+    second: orcos_66
+  - first:
+      213: 7905675324441832784
+    second: orcos_67
+  - first:
+      213: -5556715448490789451
+    second: orcos_68
+  - first:
+      213: 3835568800031841568
+    second: orcos_69
+  - first:
+      213: -749477569322413557
+    second: orcos_70
+  - first:
+      213: -5003507985125685338
+    second: orcos_71
+  - first:
+      213: 8446693215068203058
+    second: orcos_72
+  - first:
+      213: -7545831277438212138
+    second: orcos_73
+  - first:
+      213: 2897038016429518967
+    second: orcos_74
+  - first:
+      213: 1532298370596227698
+    second: orcos_75
+  - first:
+      213: -5578219482304926004
+    second: orcos_76
+  - first:
+      213: -4945112960841289202
+    second: orcos_77
+  - first:
+      213: 766102161145016704
+    second: orcos_78
+  - first:
+      213: -1696518843139877108
+    second: orcos_79
+  - first:
+      213: -2560452190939254288
+    second: orcos_80
+  - first:
+      213: 414236465847066584
+    second: orcos_81
+  - first:
+      213: 200801158598250010
+    second: orcos_82
+  - first:
+      213: -4570968631395118862
+    second: orcos_83
+  - first:
+      213: 6768017755932811534
+    second: orcos_84
+  - first:
+      213: -7428890270091541072
+    second: orcos_85
+  - first:
+      213: 4875221622511880654
+    second: orcos_86
+  - first:
+      213: -2915548797012880897
+    second: orcos_87
+  - first:
+      213: 2722071604355482170
+    second: orcos_88
+  - first:
+      213: -254397760078046044
+    second: orcos_89
+  - first:
+      213: -7789916941440823405
+    second: orcos_90
+  - first:
+      213: 7710754099859217014
+    second: orcos_91
+  - first:
+      213: -1995293954090907033
+    second: orcos_92
+  - first:
+      213: 1801955529868470351
+    second: orcos_93
+  - first:
+      213: 7688180907218253118
+    second: orcos_94
+  - first:
+      213: 9083031308036062298
+    second: orcos_95
+  - first:
+      213: -8923601964573937338
+    second: orcos_96
+  - first:
+      213: 6795126617318932815
+    second: orcos_97
+  - first:
+      213: 1348980532190243942
+    second: orcos_98
+  - first:
+      213: 2354050009411861494
+    second: orcos_99
+  - first:
+      213: -7988779457954523921
+    second: orcos_100
+  - first:
+      213: 1403362573073615825
+    second: orcos_101
+  - first:
+      213: 1627126061068985224
+    second: orcos_102
+  - first:
+      213: 256941449427881854
+    second: orcos_103
+  - first:
+      213: -2784043200018234849
+    second: orcos_104
+  - first:
+      213: -2638343591883481015
+    second: orcos_105
+  - first:
+      213: 8565125815334426044
+    second: orcos_106
+  - first:
+      213: -2155682329287931000
+    second: orcos_107
+  - first:
+      213: 9060333206327859745
+    second: orcos_108
+  - first:
+      213: -175253052283616167
+    second: orcos_109
+  - first:
+      213: 3128360033565311041
+    second: orcos_110
+  - first:
+      213: -8316669000738522775
+    second: orcos_111
+  - first:
+      213: -2973717227397156732
+    second: orcos_112
+  - first:
+      213: 5378143605780069308
+    second: orcos_113
+  - first:
+      213: 7537216346130993630
+    second: orcos_114
+  - first:
+      213: -2621667489059741185
+    second: orcos_115
+  - first:
+      213: 1112954364821715959
+    second: orcos_116
+  - first:
+      213: 4482000061814718304
+    second: orcos_117
+  - first:
+      213: 6412961129537852840
+    second: orcos_118
+  - first:
+      213: -6693328423705468642
+    second: orcos_119
+  - first:
+      213: 728710890862806288
+    second: orcos_120
+  - first:
+      213: 5532543527600639976
+    second: orcos_121
+  - first:
+      213: 511424088478636886
+    second: orcos_122
+  - first:
+      213: 5070457410765794618
+    second: orcos_123
+  - first:
+      213: 5247474746780843244
+    second: orcos_124
+  - first:
+      213: 5341103488581361692
+    second: orcos_125
+  - first:
+      213: 5394489662598451432
+    second: orcos_126
+  - first:
+      213: -8908070090582034827
+    second: orcos_127
+  - first:
+      213: 9127179872699461104
+    second: orcos_128
+  - first:
+      213: 349974912189301417
+    second: orcos_129
+  - first:
+      213: 2658627670356402289
+    second: orcos_130
+  - first:
+      213: 436310411801783291
+    second: orcos_131
+  - first:
+      213: -6180680538947940771
+    second: orcos_132
+  - first:
+      213: -5166868155022774709
+    second: orcos_133
+  - first:
+      213: -1248259254332660767
+    second: orcos_134
+  - first:
+      213: -7498474994278710035
+    second: orcos_135
+  - first:
+      213: 5902207308602283721
+    second: orcos_136
+  - first:
+      213: 2133906097516394397
+    second: orcos_137
+  - first:
+      213: 2930168496468463782
+    second: orcos_138
+  - first:
+      213: -8649271831260018800
+    second: orcos_139
+  - first:
+      213: 3478772184087777556
+    second: orcos_140
+  - first:
+      213: 7820387185300358115
+    second: orcos_141
+  - first:
+      213: 6405552530717557626
+    second: orcos_142
+  - first:
+      213: 2222416228362567046
+    second: orcos_143
+  - first:
+      213: -4325051180271650110
+    second: orcos_144
+  - first:
+      213: 8869176050574271343
+    second: orcos_145
+  - first:
+      213: -8049783013341542111
+    second: orcos_146
+  - first:
+      213: -4586222354077448561
+    second: orcos_147
+  - first:
+      213: -9082137890130401937
+    second: orcos_148
+  - first:
+      213: -948814909674699465
+    second: orcos_149
+  - first:
+      213: -7615834725783304248
+    second: orcos_150
+  - first:
+      213: -4086814409296456534
+    second: orcos_151
+  - first:
+      213: 2046281729636387174
+    second: orcos_152
+  - first:
+      213: -6179935705637665153
+    second: orcos_153
+  - first:
+      213: 6228276064544385339
+    second: orcos_154
+  - first:
+      213: -5302152176661645945
+    second: orcos_155
+  - first:
+      213: 6886783192089132899
+    second: orcos_156
+  - first:
+      213: -1221929027602416111
+    second: orcos_157
+  - first:
+      213: 4903827137811544643
+    second: orcos_158
+  - first:
+      213: 5101504518585100816
+    second: orcos_159
+  - first:
+      213: 2009457533843211586
+    second: orcos_160
+  - first:
+      213: 2472580748485138538
+    second: orcos_161
+  - first:
+      213: -1012925654417391549
+    second: orcos_162
+  - first:
+      213: -3039044429095469893
+    second: orcos_163
+  - first:
+      213: -8201468127052773294
+    second: orcos_164
+  - first:
+      213: -1653469285748095444
+    second: orcos_165
+  - first:
+      213: -7417502701143102838
+    second: orcos_166
+  - first:
+      213: 9128111317568344751
+    second: orcos_167
+  - first:
+      213: 4095297705872853161
+    second: orcos_168
+  - first:
+      213: -7599169581641845916
+    second: orcos_169
+  - first:
+      213: -6571408975707547072
+    second: orcos_170
+  - first:
+      213: -1384686923186499742
+    second: orcos_171
+  - first:
+      213: 3546874802164069837
+    second: orcos_172
+  - first:
+      213: -4086305591971169765
+    second: orcos_173
+  - first:
+      213: 1910667715377147697
+    second: orcos_174
+  - first:
+      213: 6376278952327353195
+    second: orcos_175
+  - first:
+      213: 538247763404540843
+    second: orcos_176
+  - first:
+      213: -974444699081012410
+    second: orcos_177
+  - first:
+      213: 3655173465832169652
+    second: orcos_178
+  - first:
+      213: 728220636894131255
+    second: orcos_179
+  - first:
+      213: 6589329616729144091
+    second: orcos_180
+  - first:
+      213: 3550817792819121271
+    second: orcos_181
+  - first:
+      213: 7295722958993383874
+    second: orcos_182
+  - first:
+      213: -8844673302834505252
+    second: orcos_183
+  - first:
+      213: -2446125212659005701
+    second: orcos_184
+  - first:
+      213: -1622166289987393401
+    second: orcos_185
+  - first:
+      213: 2823052344217226601
+    second: orcos_186
+  - first:
+      213: 745673498134635399
+    second: orcos_187
+  - first:
+      213: -3260774899531168879
+    second: orcos_188
+  - first:
+      213: 1825121008424967608
+    second: orcos_189
+  - first:
+      213: 8903415275085364420
+    second: orcos_190
+  - first:
+      213: 1191718691339320431
+    second: orcos_191
+  - first:
+      213: -6105697909495062842
+    second: orcos_192
+  - first:
+      213: 1606433158878771093
+    second: orcos_193
+  - first:
+      213: 2447259986547387844
+    second: orcos_194
+  - first:
+      213: 7164144791997910857
+    second: orcos_195
+  - first:
+      213: 2573373001663867267
+    second: orcos_196
+  - first:
+      213: -8957460974817811940
+    second: orcos_197
+  - first:
+      213: -6853880418450089142
+    second: orcos_198
+  - first:
+      213: -6120261477873853563
+    second: orcos_199
+  - first:
+      213: 987737372192095382
+    second: orcos_200
+  - first:
+      213: 1734707547602439755
+    second: orcos_201
+  - first:
+      213: -6446689665618059330
+    second: orcos_202
+  - first:
+      213: -256458633832847305
+    second: orcos_203
+  - first:
+      213: 136300951618638567
+    second: orcos_204
+  - first:
+      213: -7543678689759518501
+    second: orcos_205
+  - first:
+      213: 9210440869343616297
+    second: orcos_206
+  - first:
+      213: 5223733172829341534
+    second: orcos_207
+  - first:
+      213: -264657633686575455
+    second: orcos_208
+  - first:
+      213: -8777372884240717423
+    second: orcos_209
+  - first:
+      213: -4608152361235382461
+    second: orcos_210
+  - first:
+      213: -5199659911121250873
+    second: orcos_211
+  - first:
+      213: 5450876733962297333
+    second: orcos_212
+  - first:
+      213: 3587637611462233401
+    second: orcos_213
+  - first:
+      213: 4151753753249473801
+    second: orcos_214
+  - first:
+      213: 2417873490573302137
+    second: orcos_215
+  - first:
+      213: -94941136671236985
+    second: orcos_216
+  - first:
+      213: -2009501474350996586
+    second: orcos_217
+  - first:
+      213: -5812504421539131998
+    second: orcos_218
+  - first:
+      213: -1663958625838106612
+    second: orcos_219
+  - first:
+      213: -3804167169508480806
+    second: orcos_220
+  - first:
+      213: -120752792266395615
+    second: orcos_221
+  - first:
+      213: -5588826751458320874
+    second: orcos_222
+  - first:
+      213: 634620085406851215
+    second: orcos_223
+  - first:
+      213: 2384272946937832595
+    second: orcos_224
+  - first:
+      213: 3432232059501435960
+    second: orcos_225
+  - first:
+      213: 4671105266915339808
+    second: orcos_226
+  - first:
+      213: 2100779710243624547
+    second: orcos_227
+  - first:
+      213: 2086093547566652316
+    second: orcos_228
+  - first:
+      213: 8868099274227458423
+    second: orcos_229
+  - first:
+      213: 5942253255753216689
+    second: orcos_230
+  - first:
+      213: 4116010380649035166
+    second: orcos_231
+  - first:
+      213: 4691710670804759131
+    second: orcos_232
+  - first:
+      213: -8146491937466222358
+    second: orcos_233
+  - first:
+      213: 8213028364406153050
+    second: orcos_234
+  - first:
+      213: 1349261313129778789
+    second: orcos_235
+  - first:
+      213: -6460991592109095331
+    second: orcos_236
+  - first:
+      213: 5495045107379323462
+    second: orcos_237
+  - first:
+      213: 5320371091680683109
+    second: orcos_238
+  - first:
+      213: 4172141555220154067
+    second: orcos_239
+  - first:
+      213: 7290994198929026171
+    second: orcos_240
+  - first:
+      213: 5115873006513538564
+    second: orcos_241
+  - first:
+      213: -1805976126551212731
+    second: orcos_242
+  - first:
+      213: 6969714214114496863
+    second: orcos_243
+  - first:
+      213: 4377711013459170938
+    second: orcos_244
+  - first:
+      213: -2675783214034827022
+    second: orcos_245
+  - first:
+      213: 1652607415939162613
+    second: orcos_246
+  - first:
+      213: -8823925082441123192
+    second: orcos_247
+  - first:
+      213: 6231868671010165062
+    second: orcos_248
+  - first:
+      213: -5031850756827701250
+    second: orcos_249
+  - first:
+      213: 5942603093470955001
+    second: orcos_250
+  - first:
+      213: 5864085725212792
+    second: orcos_251
+  - first:
+      213: -765403813462470786
+    second: orcos_252
+  - first:
+      213: -9198403395740887321
+    second: orcos_253
+  - first:
+      213: 1445499651475050008
+    second: orcos_254
+  - first:
+      213: 4948412725043217166
+    second: orcos_255
+  - first:
+      213: -1407479305223591143
+    second: orcos_256
+  - first:
+      213: -8887279287559250254
+    second: orcos_257
+  - first:
+      213: 5438386537752247804
+    second: orcos_258
+  - first:
+      213: -6035750453547710702
+    second: orcos_259
+  - first:
+      213: 9218348168324840912
+    second: orcos_260
+  - first:
+      213: 2826640335300012153
+    second: orcos_261
+  - first:
+      213: 3746545458243483736
+    second: orcos_262
+  - first:
+      213: -4515699100145489775
+    second: orcos_263
+  - first:
+      213: 2523890440317218889
+    second: orcos_264
+  - first:
+      213: -7185687603090582478
+    second: orcos_265
+  - first:
+      213: -2634236611408526158
+    second: orcos_266
+  - first:
+      213: 5023487710611212911
+    second: orcos_267
+  - first:
+      213: 6529429599967097902
+    second: orcos_268
+  - first:
+      213: 4126331425402353036
+    second: orcos_269
+  - first:
+      213: -3910523136167321251
+    second: orcos_270
+  - first:
+      213: 1029496422238554202
+    second: orcos_271
+  - first:
+      213: 9046936651882207283
+    second: orcos_272
+  - first:
+      213: 6661341630272205622
+    second: orcos_273
+  - first:
+      213: -2807168356491347584
+    second: orcos_274
+  - first:
+      213: -4985830037857850914
+    second: orcos_275
+  - first:
+      213: 6635288926549981480
+    second: orcos_276
+  - first:
+      213: -3774222605652841251
+    second: orcos_277
+  - first:
+      213: -95346514547479245
+    second: orcos_278
+  - first:
+      213: -1274294253220409253
+    second: orcos_279
+  - first:
+      213: -3105595100752090316
+    second: orcos_280
+  - first:
+      213: -4300082266208269528
+    second: orcos_281
+  - first:
+      213: 519148930888320793
+    second: orcos_282
+  - first:
+      213: 4879737672876082128
+    second: orcos_283
+  - first:
+      213: -3014545426839526805
+    second: orcos_284
+  - first:
+      213: 946544088966830046
+    second: orcos_285
+  - first:
+      213: 3005072297317070728
+    second: orcos_286
+  - first:
+      213: -6742364236657855126
+    second: orcos_287
+  - first:
+      213: 919120290536822339
+    second: orcos_288
+  - first:
+      213: 2363597234218467543
+    second: orcos_289
+  - first:
+      213: -5044265187444775603
+    second: orcos_290
+  - first:
+      213: 3206558523476084131
+    second: orcos_291
+  - first:
+      213: -5922145599178803489
+    second: orcos_292
+  - first:
+      213: -1440588689525484675
+    second: orcos_293
+  - first:
+      213: 699875651395353706
+    second: orcos_294
+  - first:
+      213: 2920858920729995254
+    second: orcos_295
+  - first:
+      213: 4663590234882319179
+    second: orcos_296
+  - first:
+      213: -5843219807619428655
+    second: orcos_297
+  - first:
+      213: 5576921720997421931
+    second: orcos_298
+  - first:
+      213: -4877202502553923461
+    second: orcos_299
+  - first:
+      213: 1414694667509638076
+    second: orcos_300
+  - first:
+      213: -4309004967838053416
+    second: orcos_301
+  - first:
+      213: 7131435813337152299
+    second: orcos_302
+  - first:
+      213: -193076683576365433
+    second: orcos_303
+  - first:
+      213: -8275839877181270670
+    second: orcos_304
+  - first:
+      213: -4757460245682291871
+    second: orcos_305
+  - first:
+      213: -3286755189734015703
+    second: orcos_306
+  - first:
+      213: 3317489998725172759
+    second: orcos_307
+  - first:
+      213: -6514419957709051456
+    second: orcos_308
+  - first:
+      213: 4114567219498491502
+    second: orcos_309
+  - first:
+      213: -6774010068056970411
+    second: orcos_310
+  - first:
+      213: 7273489434874492302
+    second: orcos_311
+  - first:
+      213: 4499993515460714834
+    second: orcos_312
+  - first:
+      213: 4901604615114354719
+    second: orcos_313
+  - first:
+      213: -3055218000575070813
+    second: orcos_314
+  - first:
+      213: -7895657857665884086
+    second: orcos_315
+  - first:
+      213: 3442595221430085858
+    second: orcos_316
+  - first:
+      213: 3396549097943620886
+    second: orcos_317
+  - first:
+      213: -627541551926319382
+    second: orcos_318
+  - first:
+      213: 3339336169290572447
+    second: orcos_319
+  - first:
+      213: 1908830208353433792
+    second: orcos_320
+  - first:
+      213: -1901247986739974243
+    second: orcos_321
+  - first:
+      213: 492140662541162635
+    second: orcos_322
+  - first:
+      213: -3755022387495613460
+    second: orcos_323
+  - first:
+      213: -1727614339613876676
+    second: orcos_324
+  - first:
+      213: -8041569215708066849
+    second: orcos_325
+  - first:
+      213: 8960956634363941769
+    second: orcos_326
+  - first:
+      213: 4963281244739077823
+    second: orcos_327
+  - first:
+      213: 7930901256979576434
+    second: orcos_328
+  - first:
+      213: 162714623345066086
+    second: orcos_329
+  - first:
+      213: -4607800808639784068
+    second: orcos_330
+  - first:
+      213: 2158671909765278833
+    second: orcos_331
+  - first:
+      213: 1938985029159452264
+    second: orcos_332
+  - first:
+      213: -393970339039239299
+    second: orcos_333
+  - first:
+      213: -2111377699696100765
+    second: orcos_334
+  - first:
+      213: 5067040846943417448
+    second: orcos_335
+  - first:
+      213: -4878985965957178292
+    second: orcos_336
+  - first:
+      213: 6388624600708829525
+    second: orcos_337
+  - first:
+      213: 3804640761130289051
+    second: orcos_338
+  - first:
+      213: -3594408124462485940
+    second: orcos_339
+  - first:
+      213: 6096080458408517273
+    second: orcos_340
+  - first:
+      213: 7630321983009622713
+    second: orcos_341
+  - first:
+      213: 2381338542956224713
+    second: orcos_342
+  - first:
+      213: -5553672916925570995
+    second: orcos_343
+  - first:
+      213: -6618729030027154504
+    second: orcos_344
+  - first:
+      213: 2967235819369164326
+    second: orcos_345
+  - first:
+      213: -3937196459989688379
+    second: orcos_346
+  - first:
+      213: -5330297436675013359
+    second: orcos_347
+  - first:
+      213: -2334869143448368635
+    second: orcos_348
+  - first:
+      213: 3345477945460734727
+    second: orcos_349
+  - first:
+      213: -4343691159823127507
+    second: orcos_350
+  - first:
+      213: 2804368386208838070
+    second: orcos_351
+  - first:
+      213: 6577811964019514576
+    second: orcos_352
+  - first:
+      213: -8298017693129206120
+    second: orcos_353
+  - first:
+      213: -4278928508324895621
+    second: orcos_354
+  - first:
+      213: 2404216600519451643
+    second: orcos_355
+  - first:
+      213: -806963695881908209
+    second: orcos_356
+  - first:
+      213: -3418400241970205079
+    second: orcos_357
+  - first:
+      213: -5659986108037160048
+    second: orcos_358
+  - first:
+      213: 700100441907531614
+    second: orcos_359
+  - first:
+      213: 997980987343983987
+    second: orcos_360
+  - first:
+      213: 7770596049454089421
+    second: orcos_361
+  - first:
+      213: -8568685366460586702
+    second: orcos_362
+  - first:
+      213: 7189225403171034185
+    second: orcos_363
+  - first:
+      213: 1193792496407825882
+    second: orcos_364
+  - first:
+      213: 2339998270723173765
+    second: orcos_365
+  - first:
+      213: -7438782775054022356
+    second: orcos_366
+  - first:
+      213: -6155074581321887872
+    second: orcos_367
+  - first:
+      213: 2758195988852688723
+    second: orcos_368
+  - first:
+      213: 7497619778862393991
+    second: orcos_369
+  - first:
+      213: -2762419698892112178
+    second: orcos_370
+  - first:
+      213: -959947707769089445
+    second: orcos_371
+  - first:
+      213: 2377792515669957583
+    second: orcos_372
+  - first:
+      213: -4794381976301076500
+    second: orcos_373
+  - first:
+      213: 7246527059000954746
+    second: orcos_374
+  - first:
+      213: 4069140889353725329
+    second: orcos_375
+  - first:
+      213: -3883436944486389060
+    second: orcos_376
+  - first:
+      213: -4092764305499329279
+    second: orcos_377
+  - first:
+      213: -6868431483149635438
+    second: orcos_378
+  - first:
+      213: -6038614012041730031
+    second: orcos_379
+  - first:
+      213: -1350736260932453141
+    second: orcos_380
+  - first:
+      213: 3591388408125177700
+    second: orcos_381
+  - first:
+      213: 4729398736715542749
+    second: orcos_382
+  - first:
+      213: 6266136747819253134
+    second: orcos_383
+  - first:
+      213: -6004684490132705261
+    second: orcos_384
+  - first:
+      213: -3568492609563034976
+    second: orcos_385
+  - first:
+      213: 6012120022786368564
+    second: orcos_386
+  - first:
+      213: 8550787304456859700
+    second: orcos_387
+  - first:
+      213: 3342060490262701738
+    second: orcos_388
+  - first:
+      213: -6214728999343967353
+    second: orcos_389
+  - first:
+      213: -6447874275990143208
+    second: orcos_390
+  - first:
+      213: 747695557707019772
+    second: orcos_391
+  - first:
+      213: 5060935845449853956
+    second: orcos_392
+  - first:
+      213: -8561326309698107774
+    second: orcos_393
+  - first:
+      213: 8832999324489912774
+    second: orcos_394
+  - first:
+      213: -2402926866269142394
+    second: orcos_395
+  - first:
+      213: -6278359240909943108
+    second: orcos_396
+  - first:
+      213: -1915736583800043853
+    second: orcos_397
+  - first:
+      213: 3568699249303945941
+    second: orcos_398
+  - first:
+      213: -2595056139472612384
+    second: orcos_399
+  - first:
+      213: 7246086419186910267
+    second: orcos_400
+  - first:
+      213: 5931544318675379535
+    second: orcos_401
+  - first:
+      213: -668680431659355916
+    second: orcos_402
+  - first:
+      213: -8587154471613316637
+    second: orcos_403
+  - first:
+      213: -2868193608022505572
+    second: orcos_404
+  - first:
+      213: 3726800292312339765
+    second: orcos_405
+  - first:
+      213: 7052596986371239779
+    second: orcos_406
+  - first:
+      213: 1583564636200096301
+    second: orcos_407
+  - first:
+      213: 653427706030909280
+    second: orcos_408
+  - first:
+      213: 6318048706412464792
+    second: orcos_409
+  - first:
+      213: -1811443946139219514
+    second: orcos_410
+  - first:
+      213: -4354389862091997577
+    second: orcos_411
+  - first:
+      213: 1847995410207718511
+    second: orcos_412
+  - first:
+      213: -1825079787054728054
+    second: orcos_413
+  - first:
+      213: 3306041328031970658
+    second: orcos_414
+  - first:
+      213: -5699240911856830658
+    second: orcos_415
+  - first:
+      213: -7214801727328434824
+    second: orcos_416
+  - first:
+      213: 5674943020994553100
+    second: orcos_417
+  - first:
+      213: 2005930395765233670
+    second: orcos_418
+  - first:
+      213: 5651510534175409595
+    second: orcos_419
+  - first:
+      213: -7921818425698894093
+    second: orcos_420
+  - first:
+      213: 7573459773724000823
+    second: orcos_421
+  - first:
+      213: -6490021770928059541
+    second: orcos_422
+  - first:
+      213: -9055273427088461621
+    second: orcos_423
+  - first:
+      213: -2437781390080300767
+    second: orcos_424
+  - first:
+      213: 1014595472238889111
+    second: orcos_425
+  - first:
+      213: -4064779702102736960
+    second: orcos_426
+  - first:
+      213: 2662808596645197021
+    second: orcos_427
+  - first:
+      213: 6444777291161035077
+    second: orcos_428
+  - first:
+      213: 786555800360569772
+    second: orcos_429
+  - first:
+      213: 1021161009764260224
+    second: orcos_430
+  - first:
+      213: 3050889536604874523
+    second: orcos_431
+  - first:
+      213: -6171913139722059583
+    second: orcos_432
+  - first:
+      213: 5378974861789993569
+    second: orcos_433
+  - first:
+      213: 9142639679017936960
+    second: orcos_434
+  - first:
+      213: -7240797998634750400
+    second: orcos_435
+  - first:
+      213: -2546617391292322712
+    second: orcos_436
+  - first:
+      213: 354479537166860426
+    second: orcos_437
+  - first:
+      213: -7243788349105121422
+    second: orcos_438
+  - first:
+      213: 154388713207636208
+    second: orcos_439
+  - first:
+      213: 1282909684406806155
+    second: orcos_440
+  - first:
+      213: -6402125921749851937
+    second: orcos_441
+  - first:
+      213: -7920627646253444365
+    second: orcos_442
+  - first:
+      213: -3726412778124263232
+    second: orcos_443
+  - first:
+      213: 1609846454681314263
+    second: orcos_444
+  - first:
+      213: -1569690995730469071
+    second: orcos_445
+  - first:
+      213: -7540873504337543896
+    second: orcos_446
+  - first:
+      213: -3192200370183181549
+    second: orcos_447
+  - first:
+      213: 6214497748881111819
+    second: orcos_448
+  - first:
+      213: 888409569088866790
+    second: orcos_449
+  - first:
+      213: -1538967312508115411
+    second: orcos_450
+  - first:
+      213: 6311363713496471746
+    second: orcos_451
+  - first:
+      213: -3738055940707982997
+    second: orcos_452
+  - first:
+      213: -6448089471253581610
+    second: orcos_453
+  - first:
+      213: 4315830345654966384
+    second: orcos_454
+  - first:
+      213: 5317685817526342366
+    second: orcos_455
+  - first:
+      213: -1500946750810046711
+    second: orcos_456
+  - first:
+      213: 20875077221241373
+    second: orcos_457
+  - first:
+      213: 4817848028059350291
+    second: orcos_458
+  - first:
+      213: 6334732654530023125
+    second: orcos_459
+  - first:
+      213: -6755138839969981266
+    second: orcos_460
+  - first:
+      213: -5112057752191950507
+    second: orcos_461
+  - first:
+      213: 9212147252376625946
+    second: orcos_462
+  - first:
+      213: 2361508330332370209
+    second: orcos_463
+  - first:
+      213: 5208796227581771260
+    second: orcos_464
+  - first:
+      213: 671554280796749200
+    second: orcos_465
+  - first:
+      213: -8154456754444322638
+    second: orcos_466
+  - first:
+      213: 1408094345228276992
+    second: orcos_467
+  - first:
+      213: -3028764989800588204
+    second: orcos_468
+  - first:
+      213: 8466265490549815378
+    second: orcos_469
+  - first:
+      213: 4079464564516915946
+    second: orcos_470
+  - first:
+      213: 3950900559277293120
+    second: orcos_471
+  - first:
+      213: -4042742716285656730
+    second: orcos_472
+  - first:
+      213: 2428298774814863094
+    second: orcos_473
+  - first:
+      213: -4246877637739784628
+    second: orcos_474
+  - first:
+      213: 3236540106348994234
+    second: orcos_475
+  - first:
+      213: 4914206487536127909
+    second: orcos_476
+  - first:
+      213: -4912795875689021778
+    second: orcos_477
+  - first:
+      213: -1944438634796415056
+    second: orcos_478
+  - first:
+      213: -2793341645068375334
+    second: orcos_479
+  - first:
+      213: 4030093059211936678
+    second: orcos_480
+  - first:
+      213: 658995337511489658
+    second: orcos_481
+  - first:
+      213: -494502601232454266
+    second: orcos_482
+  - first:
+      213: -4779217183803617219
+    second: orcos_483
+  - first:
+      213: 1484169522517065175
+    second: orcos_484
+  - first:
+      213: 5940647627395262225
+    second: orcos_485
+  - first:
+      213: 5607720923597248559
+    second: orcos_486
+  - first:
+      213: 109125714798486465
+    second: orcos_487
+  - first:
+      213: 7658407409587143296
+    second: orcos_488
+  - first:
+      213: -8425103957111395162
+    second: orcos_489
+  - first:
+      213: 7120687262993788192
+    second: orcos_490
+  - first:
+      213: 602193303668605313
+    second: orcos_491
+  - first:
+      213: 786300113086859489
+    second: orcos_492
+  - first:
+      213: -318128084262570451
+    second: orcos_493
+  - first:
+      213: -1264799142693746611
+    second: orcos_494
+  - first:
+      213: 4071731402091171332
+    second: orcos_495
+  - first:
+      213: -3866146318339163581
+    second: orcos_496
+  - first:
+      213: 780191653497515381
+    second: orcos_497
+  - first:
+      213: 5363110797930466610
+    second: orcos_498
+  - first:
+      213: -7985468422507278674
+    second: orcos_499
+  - first:
+      213: -5787188856784800352
+    second: orcos_500
+  - first:
+      213: 3662471998068023292
+    second: orcos_501
+  - first:
+      213: -3189270325943511084
+    second: orcos_502
+  - first:
+      213: 6989165462033530467
+    second: orcos_503
+  - first:
+      213: -2935773286218963840
+    second: orcos_504
+  - first:
+      213: 936214638171315069
+    second: orcos_505
+  - first:
+      213: 7991231213159417112
+    second: orcos_506
+  - first:
+      213: -8019194738393806921
+    second: orcos_507
+  - first:
+      213: -4144281389066168105
+    second: orcos_508
+  - first:
+      213: -7315410943347826655
+    second: orcos_509
+  - first:
+      213: -6505384089920302233
+    second: orcos_510
+  - first:
+      213: 8102010998339700214
+    second: orcos_511
+  - first:
+      213: 5953845267251353778
+    second: orcos_512
+  - first:
+      213: -6783432317058131983
+    second: orcos_513
+  - first:
+      213: -19440016727899561
+    second: orcos_514
+  - first:
+      213: 7162410208514505872
+    second: orcos_515
+  - first:
+      213: 8823370058665447228
+    second: orcos_516
+  - first:
+      213: -610472398475351364
+    second: orcos_517
+  - first:
+      213: 1892416174408761671
+    second: orcos_518
+  - first:
+      213: 7506159358895137427
+    second: orcos_519
+  - first:
+      213: -5407749255081222879
+    second: orcos_520
+  - first:
+      213: -1302715143661884315
+    second: orcos_521
+  - first:
+      213: -5410639565797229106
+    second: orcos_522
+  - first:
+      213: 7654103320855537565
+    second: orcos_523
+  - first:
+      213: -5391096016944156965
+    second: orcos_524
+  - first:
+      213: -1207005702366988187
+    second: orcos_525
+  - first:
+      213: -4695996832831050267
+    second: orcos_526
+  - first:
+      213: -5305244434163445707
+    second: orcos_527
+  - first:
+      213: 7965850799527583825
+    second: orcos_528
+  - first:
+      213: 779337702409420596
+    second: orcos_529
+  - first:
+      213: -5741755475765235842
+    second: orcos_530
+  - first:
+      213: 7555397857385670294
+    second: orcos_531
+  - first:
+      213: -9124963506496024275
+    second: orcos_532
+  - first:
+      213: 3187461202194936709
+    second: orcos_533
+  - first:
+      213: 4335904742179286882
+    second: orcos_534
+  - first:
+      213: -2163756780599956063
+    second: orcos_535
+  - first:
+      213: 3912559033853350725
+    second: orcos_536
+  - first:
+      213: 6692429317397939876
+    second: orcos_537
+  - first:
+      213: -3561076354681857539
+    second: orcos_538
+  - first:
+      213: -4064490797008945470
+    second: orcos_539
+  - first:
+      213: -3962317352840374713
+    second: orcos_540
+  - first:
+      213: -1413398937128843448
+    second: orcos_541
+  - first:
+      213: 3195804773751418222
+    second: orcos_542
+  - first:
+      213: -3811859568696180985
+    second: orcos_543
+  - first:
+      213: 7751558138344505025
+    second: orcos_544
+  - first:
+      213: 7490353906048681931
+    second: orcos_545
+  - first:
+      213: -4792992716852813040
+    second: orcos_546
+  - first:
+      213: -914896960434930382
+    second: orcos_547
+  - first:
+      213: 1290156472061617138
+    second: orcos_548
+  - first:
+      213: -1100933113182490405
+    second: orcos_549
+  - first:
+      213: -4616070828498796714
+    second: orcos_550
+  - first:
+      213: 8114061228988024145
+    second: orcos_551
+  - first:
+      213: -7627351368682152020
+    second: orcos_552
+  - first:
+      213: -1211297975316797171
+    second: orcos_553
+  - first:
+      213: 6656625193739307270
+    second: orcos_554
+  - first:
+      213: -7096187208130257832
+    second: orcos_555
+  - first:
+      213: 1302538982761805062
+    second: orcos_556
+  - first:
+      213: 8319925913529771897
+    second: orcos_557
+  - first:
+      213: 8285428143129154402
+    second: orcos_558
+  - first:
+      213: -4763263060566107764
+    second: orcos_559
+  - first:
+      213: -2920749069850645630
+    second: orcos_560
+  - first:
+      213: 8819263888481497926
+    second: orcos_561
+  - first:
+      213: 1349798755110425805
+    second: orcos_562
+  - first:
+      213: -8105600062717356186
+    second: orcos_563
+  - first:
+      213: 8636305052723995184
+    second: orcos_564
+  - first:
+      213: 5991958406648187838
+    second: orcos_565
+  - first:
+      213: 2218987433517148392
+    second: orcos_566
+  - first:
+      213: 3469873747754990208
+    second: orcos_567
+  - first:
+      213: -9055389948612805769
+    second: orcos_568
+  - first:
+      213: 7410007730987228400
+    second: orcos_569
+  - first:
+      213: 2304005304393254862
+    second: orcos_570
+  - first:
+      213: 3717499968563963818
+    second: orcos_571
+  - first:
+      213: 4577223387215913633
+    second: orcos_572
+  - first:
+      213: -2091257661193795630
+    second: orcos_573
+  - first:
+      213: 3211323621948945642
+    second: orcos_574
+  - first:
+      213: 2353626974079721521
+    second: orcos_575
+  - first:
+      213: 7371244174658120766
+    second: orcos_576
+  - first:
+      213: 702300500147939050
+    second: orcos_577
+  - first:
+      213: 1426886826667375078
+    second: orcos_578
+  - first:
+      213: -1932169845468770085
+    second: orcos_579
+  - first:
+      213: 2816743086034935906
+    second: orcos_580
+  - first:
+      213: -397565655147895528
+    second: orcos_581
+  - first:
+      213: -8166677819410038673
+    second: orcos_582
+  - first:
+      213: 3863318801651832301
+    second: orcos_583
+  - first:
+      213: -6401969413251010338
+    second: orcos_584
+  - first:
+      213: 3248792746260536046
+    second: orcos_585
+  - first:
+      213: 1430187754888777712
+    second: orcos_586
+  - first:
+      213: 6843598978237348795
+    second: orcos_587
+  - first:
+      213: 8217848962418213990
+    second: orcos_588
+  - first:
+      213: 4731573287789664081
+    second: orcos_589
+  - first:
+      213: -4977534035338592929
+    second: orcos_590
+  - first:
+      213: 8352412080641162750
+    second: orcos_591
+  - first:
+      213: 3382986263254495664
+    second: orcos_592
+  - first:
+      213: 6323815885823010793
+    second: orcos_593
+  - first:
+      213: -6466422942424796692
+    second: orcos_594
+  - first:
+      213: 7327094373055227873
+    second: orcos_595
+  - first:
+      213: -991020238394785514
+    second: orcos_596
+  - first:
+      213: -7642942199472550543
+    second: orcos_597
+  - first:
+      213: -8786655490351919971
+    second: orcos_598
+  - first:
+      213: 5268042624609705590
+    second: orcos_599
+  - first:
+      213: 4791317092154487799
+    second: orcos_600
+  - first:
+      213: -2285240818498871751
+    second: orcos_601
+  - first:
+      213: 3768473944956501030
+    second: orcos_602
+  - first:
+      213: 7105038416266815258
+    second: orcos_603
+  - first:
+      213: -4539919883040521496
+    second: orcos_604
+  - first:
+      213: -6279789698172527018
+    second: orcos_605
+  - first:
+      213: 7541562667630011949
+    second: orcos_606
+  - first:
+      213: 1737727926494968721
+    second: orcos_607
+  - first:
+      213: -8180403606806369215
+    second: orcos_608
+  - first:
+      213: 6860770903339811271
+    second: orcos_609
+  - first:
+      213: -8984650285654832729
+    second: orcos_610
+  - first:
+      213: -5243731030765766387
+    second: orcos_611
+  - first:
+      213: -2758760276170274947
+    second: orcos_612
+  - first:
+      213: 5595162878858303177
+    second: orcos_613
+  - first:
+      213: 7109064166146041725
+    second: orcos_614
+  - first:
+      213: 405710095161931853
+    second: orcos_615
+  - first:
+      213: -3785108350170557521
+    second: orcos_616
+  - first:
+      213: -7814108544091003961
+    second: orcos_617
+  - first:
+      213: -9115081335223110947
+    second: orcos_618
+  - first:
+      213: -3475729602590369692
+    second: orcos_619
+  - first:
+      213: 2580963258987159916
+    second: orcos_620
+  - first:
+      213: -2470569586306904298
+    second: orcos_621
+  - first:
+      213: -2547728993513790977
+    second: orcos_622
+  - first:
+      213: -8702631031640127625
+    second: orcos_623
+  - first:
+      213: 3996822449830313187
+    second: orcos_624
+  - first:
+      213: 1138403209187369202
+    second: orcos_625
+  - first:
+      213: 4914448329360581898
+    second: orcos_626
+  - first:
+      213: -7864008348053061111
+    second: orcos_627
+  - first:
+      213: -992309141427317119
+    second: orcos_628
+  - first:
+      213: 4016599610867180361
+    second: orcos_629
+  - first:
+      213: -7470736883234371292
+    second: orcos_630
+  - first:
+      213: 5793147668924365421
+    second: orcos_631
+  - first:
+      213: 8277051606787739927
+    second: orcos_632
+  - first:
+      213: 2770200736933505094
+    second: orcos_633
+  - first:
+      213: -5466040949018243895
+    second: orcos_634
+  - first:
+      213: 4749684125479028232
+    second: orcos_635
+  - first:
+      213: -7104396111321411145
+    second: orcos_636
+  - first:
+      213: 3135554850875546767
+    second: orcos_637
+  - first:
+      213: 6322058684922710246
+    second: orcos_638
+  - first:
+      213: 3664714473968887202
+    second: orcos_639
+  - first:
+      213: 3549522878254514469
+    second: orcos_640
+  - first:
+      213: -3139232878926030687
+    second: orcos_641
+  - first:
+      213: 4219167157640484051
+    second: orcos_642
+  - first:
+      213: 3512435389937959081
+    second: orcos_643
+  - first:
+      213: 8127959278553701824
+    second: orcos_644
+  - first:
+      213: 5125732407718093327
+    second: orcos_645
+  - first:
+      213: 7814592639864822477
+    second: orcos_646
+  - first:
+      213: 8897700160436081124
+    second: orcos_647
+  - first:
+      213: 7028855760890487278
+    second: orcos_648
+  - first:
+      213: -2281822858329226882
+    second: orcos_649
+  - first:
+      213: 7204264229308043861
+    second: orcos_650
+  - first:
+      213: -3246705986850167746
+    second: orcos_651
+  - first:
+      213: 7656476015050281537
+    second: orcos_652
+  - first:
+      213: -4181018646300701048
+    second: orcos_653
+  - first:
+      213: 4428573184821145106
+    second: orcos_654
+  - first:
+      213: 3924179548893196950
+    second: orcos_655
+  - first:
+      213: 8161756746525630200
+    second: orcos_656
+  - first:
+      213: -6206212820520184317
+    second: orcos_657
+  - first:
+      213: 8831843561161201836
+    second: orcos_658
+  - first:
+      213: 4601619500523458350
+    second: orcos_659
+  - first:
+      213: -3611064753661142892
+    second: orcos_660
+  - first:
+      213: -8894393108869180958
+    second: orcos_661
+  - first:
+      213: -4032919636586066076
+    second: orcos_662
+  - first:
+      213: -1831248627436151550
+    second: orcos_663
+  - first:
+      213: 7903452675199751028
+    second: orcos_664
+  - first:
+      213: -4952936099534735573
+    second: orcos_665
+  - first:
+      213: 6388541400071629026
+    second: orcos_666
+  - first:
+      213: 5815264938890786326
+    second: orcos_667
+  - first:
+      213: 8477033686915356004
+    second: orcos_668
+  - first:
+      213: 4995115248126382439
+    second: orcos_669
+  - first:
+      213: 2121702421344819997
+    second: orcos_670
+  - first:
+      213: 1077799914795200899
+    second: orcos_671
+  - first:
+      213: 4894584811435677760
+    second: orcos_672
+  - first:
+      213: 572882366392832480
+    second: orcos_673
+  - first:
+      213: 1035917688782799069
+    second: orcos_674
+  - first:
+      213: 3833046771287966164
+    second: orcos_675
+  - first:
+      213: 9108196732880918114
+    second: orcos_676
+  - first:
+      213: -1947920167270662847
+    second: orcos_677
+  - first:
+      213: -7910716287238116410
+    second: orcos_678
+  - first:
+      213: 4138175413743583278
+    second: orcos_679
+  - first:
+      213: 5768307231144153127
+    second: orcos_680
+  - first:
+      213: 5340142978178868336
+    second: orcos_681
+  - first:
+      213: -8628081834488479387
+    second: orcos_682
+  - first:
+      213: 2394193186757110916
+    second: orcos_683
+  - first:
+      213: 3238022083488623160
+    second: orcos_684
+  - first:
+      213: -4269339768568367048
+    second: orcos_685
+  - first:
+      213: -8858832305238081386
+    second: orcos_686
+  - first:
+      213: -1768768535160681433
+    second: orcos_687
+  - first:
+      213: -7248657067292355726
+    second: orcos_688
+  - first:
+      213: -2995566245880485549
+    second: orcos_689
+  - first:
+      213: 3119557263104884943
+    second: orcos_690
+  - first:
+      213: -3151642335047005309
+    second: orcos_691
+  - first:
+      213: 483061520203651757
+    second: orcos_692
+  - first:
+      213: -266061745465378513
+    second: orcos_693
+  - first:
+      213: -5810914050951479859
+    second: orcos_694
+  - first:
+      213: -5517242815402809322
+    second: orcos_695
+  - first:
+      213: -1205392958008795420
+    second: orcos_696
+  - first:
+      213: 6558354700609509605
+    second: orcos_697
+  - first:
+      213: 7815613966878659283
+    second: orcos_698
+  - first:
+      213: 6746886945888257328
+    second: orcos_699
+  - first:
+      213: 9145226215285906118
+    second: orcos_700
+  - first:
+      213: 4698794463758218513
+    second: orcos_701
+  - first:
+      213: 7757950357562293638
+    second: orcos_702
+  - first:
+      213: -7990002308285893994
+    second: orcos_703
+  - first:
+      213: 7599914629251245886
+    second: orcos_704
+  - first:
+      213: -2463346355917569766
+    second: orcos_705
+  - first:
+      213: -2568934814228901311
+    second: orcos_706
+  - first:
+      213: 492756752924209706
+    second: orcos_707
+  - first:
+      213: -2703211573468300710
+    second: orcos_708
+  - first:
+      213: 3007789572963576905
+    second: orcos_709
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -31,7 +2161,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: -1
     mipBias: -100
     wrapU: 1
@@ -40,7 +2170,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -64,7 +2194,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 3
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -76,7 +2206,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 3
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -85,7 +2215,3745 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: orcos_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fb03d8114e0e510800000000000000
+      internalID: 1576510633614032784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2f1f71206438920800000000000000
+      internalID: 2991311552309752554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da512bd50f11d610800000000000000
+      internalID: 1644129448978635475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f8455e6aa8d5350800000000000000
+      internalID: 6007109927398838115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615c232e4d4c07de0800000000000000
+      internalID: -1337352670721948394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb18c9c0996b10d00800000000000000
+      internalID: 937230965927608766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e205f03f968bc10800000000000000
+      internalID: 2069520521431625326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a4c1bf0ef83d380800000000000000
+      internalID: -8947649838206662028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9589cc0d2dd46b490800000000000000
+      internalID: -7730906142493337511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711cf49af57fa81e0800000000000000
+      internalID: -2194669878155165417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd003d5cda5cfec00800000000000000
+      internalID: 932180998027935967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a94d514ed0a7d1c0800000000000000
+      internalID: -4478934427956852311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e45fa895cfcce00800000000000000
+      internalID: 1066504673293585922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b69268f90412c470800000000000000
+      internalID: 8413309086935979702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82edfeb92c8a0eb30800000000000000
+      internalID: 4314633996814245416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b588ab5aab14400800000000000000
+      internalID: 306731470599773031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682a2acaa987ecab0800000000000000
+      internalID: -4985915131735924090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9db578d77afd7810800000000000000
+      internalID: 1764842021638749594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc22258723d5c6d0800000000000000
+      internalID: -2970736212490179372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19a275fc41b42c40800000000000000
+      internalID: 5486705190137669915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a3eb158a839acf0800000000000000
+      internalID: -240598809510528393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1345c7b94f9c148c0800000000000000
+      internalID: -4016707340219952079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569188b6a6804e8d0800000000000000
+      internalID: -2818118213663450779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e528ee364cd2000800000000000000
+      internalID: 12882307434307139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccf36c22e9e23690800000000000000
+      internalID: -7623774061568197428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e82489220cab250800000000000000
+      internalID: 5961288311594192528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad96b17123f00f9b0800000000000000
+      internalID: -5048518474471872038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12026bd4371924f80800000000000000
+      internalID: -8123770853411905503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00fbdc60170c8e6e0800000000000000
+      internalID: -1807983658711269632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff5e2827a7789670800000000000000
+      internalID: 8545711852752887802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9c1a76565223e30800000000000000
+      internalID: 4481685696647645610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64117cf554336e40800000000000000
+      internalID: 5648415901564867695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fec18ec941c9330800000000000000
+      internalID: 3718870056442851204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650fbedeec5179400800000000000000
+      internalID: 330757076134129750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a73375b0606d64f0800000000000000
+      internalID: -833904387516319833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd83415de2630a90800000000000000
+      internalID: -7348921395528364593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d2e8cc53d315d00800000000000000
+      internalID: 959615496881057160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6338dfb403703e0800000000000000
+      internalID: -2087646799329020209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4359962b422cea510800000000000000
+      internalID: 1562399583612015924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423acbcb0403d14c0800000000000000
+      internalID: -4315239813348547804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4348c0ee0a94ee0800000000000000
+      internalID: -1276312075110173461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c2f51feb0e73340800000000000000
+      internalID: 4843587034958212145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de7dd70fac1cfa40800000000000000
+      internalID: 5403225191014563545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef894d557639870e0800000000000000
+      internalID: -2271903939977504514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdcdc868e5f3b1e0800000000000000
+      internalID: -2183131015805022769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093555f5d36b7c240800000000000000
+      internalID: 4812015101577352080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ec4f6a2b7a7ffa0800000000000000
+      internalID: -5766956412077552028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2370b55845a131890800000000000000
+      internalID: -7488612805070092494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60c9c430cfbd9360800000000000000
+      internalID: 7178104213338701935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e248474c5e58ffcf0800000000000000
+      internalID: -216307035200519122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f22879ea090d9b70800000000000000
+      internalID: 8907285580479996665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3b539fcbf291a20800000000000000
+      internalID: 3033508312692143097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7ea9a94e4a88660800000000000000
+      internalID: 7388336490454640595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e850263aac420a00800000000000000
+      internalID: 721223184268941540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6cd9131a2c88c50800000000000000
+      internalID: 6667793245899966120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569c5cdcf7e21b610800000000000000
+      internalID: 1635139266160216421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ebc2defbac8fc90800000000000000
+      internalID: -7135730683901854100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d77319b4a29acbb0800000000000000
+      internalID: -4914954807144122408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7128d8b68654fe0800000000000000
+      internalID: -1205442514106837083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37f5a9481fc760a0800000000000000
+      internalID: -6888309401818106054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009ea8e4e7ca1a890800000000000000
+      internalID: -7448482650210506496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eaa4e2fc38768cb0800000000000000
+      internalID: -4862066544531428636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0754948ffae473c40800000000000000
+      internalID: 5491944788293404016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9893b6bc7f48b5560800000000000000
+      internalID: 7303577420515981705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98122901574f85510800000000000000
+      internalID: 1538248056373387657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b276db3e5d8fa4340800000000000000
+      internalID: 4848961546350323499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b9c145c7ee7d5a0800000000000000
+      internalID: -6496461719704134834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d2dee42d996bd60800000000000000
+      internalID: 7905675324441832784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5f7c68db492e2b0800000000000000
+      internalID: -5556715448490789451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d187d708daa3530800000000000000
+      internalID: 3835568800031841568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b021a612f125995f0800000000000000
+      internalID: -749477569322413557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7c0cb4ff7ff8ab0800000000000000
+      internalID: -5003507985125685338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238a7d20abea83570800000000000000
+      internalID: 8446693215068203058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d76345ce62d74790800000000000000
+      internalID: -7545831277438212138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770751e0ab8543820800000000000000
+      internalID: 2897038016429518967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a4c45ef31d34510800000000000000
+      internalID: 1532298370596227698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce2d0e7fee2692b0800000000000000
+      internalID: -5578219482304926004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02ffd266fd6f5bb0800000000000000
+      internalID: -4945112960841289202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08135b84bddb1aa00800000000000000
+      internalID: 766102161145016704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0714e7c911c478e0800000000000000
+      internalID: -1696518843139877108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1f1b65c42777cd0800000000000000
+      internalID: -2560452190939254288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfd3d7fed9afb500800000000000000
+      internalID: 414236465847066584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e4cb0079369c200800000000000000
+      internalID: 200801158598250010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f09d3e6f38a090c0800000000000000
+      internalID: -4570968631395118862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0169ef5a44dced50800000000000000
+      internalID: 6768017755932811534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b586d7c8a747e890800000000000000
+      internalID: -7428890270091541072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9cf135c3448a340800000000000000
+      internalID: 4875221622511880654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1dabcf0d3e987d0800000000000000
+      internalID: -2915548797012880897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3249c6b3bdb6c520800000000000000
+      internalID: 2722071604355482170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac94e6c592387cf0800000000000000
+      internalID: -254397760078046044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f4f9380d7a4e390800000000000000
+      internalID: -7789916941440823405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ade70200a120b60800000000000000
+      internalID: 7710754099859217014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a4de368ba4f44e0800000000000000
+      internalID: -1995293954090907033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f486cdad105d10910800000000000000
+      internalID: 1801955529868470351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e353fa72dc7e1ba60800000000000000
+      internalID: 7688180907218253118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cbd37c9d86d0e70800000000000000
+      internalID: 9083031308036062298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641b790ea4ff82480800000000000000
+      internalID: -8923601964573937338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41c81508a32d4e50800000000000000
+      internalID: 6795126617318932815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ced1695aa88b210800000000000000
+      internalID: 1348980532190243942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbbf72e2044ba020800000000000000
+      internalID: 2354050009411861494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4deabc867222190800000000000000
+      internalID: -7988779457954523921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db812b23deb97310800000000000000
+      internalID: 1403362573073615825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8832cca1886b49610800000000000000
+      internalID: 1627126061068985224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_103
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f093d03e6d09300800000000000000
+      internalID: 256941449427881854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_104
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f124297c5771d59d0800000000000000
+      internalID: -2784043200018234849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9406b525b78b26bd0800000000000000
+      internalID: -2638343591883481015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5598f8c807dd670800000000000000
+      internalID: 8565125815334426044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_107
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bc432c75a7512e0800000000000000
+      internalID: -2155682329287931000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a19d52c05ccbd70800000000000000
+      internalID: 9060333206327859745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_109
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95405d80740619df0800000000000000
+      internalID: -175253052283616167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_110
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140803230ea2a6b20800000000000000
+      internalID: 3128360033565311041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_111
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9693a708b91459c80800000000000000
+      internalID: -8316669000738522775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_112
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4807886efeb3bb6d0800000000000000
+      internalID: -2973717227397156732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_113
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbb3f856d1103aa40800000000000000
+      internalID: 5378143605780069308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1d76a3552999860800000000000000
+      internalID: 7537216346130993630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_115
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff167631f47fd9bd0800000000000000
+      internalID: -2621667489059741185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb3b6e1912027f00800000000000000
+      internalID: 1112954364821715959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_117
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fbebf3f43433e30800000000000000
+      internalID: 4482000061814718304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5dd748b2a6ff850800000000000000
+      internalID: 6412961129537852840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_119
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11a20ce2458c13a0800000000000000
+      internalID: -6693328423705468642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01506d1c1b6ec1a00800000000000000
+      internalID: 728710890862806288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_121
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efc503960b87cc40800000000000000
+      internalID: 5532543527600639976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_122
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bd853bf71f81700800000000000000
+      internalID: 511424088478636886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_123
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d21719622ed5640800000000000000
+      internalID: 5070457410765794618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_124
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec74b9da76c2d840800000000000000
+      internalID: 5247474746780843244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_125
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10ed7113596f1a40800000000000000
+      internalID: 5341103488581361692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_126
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e092b354c31dda40800000000000000
+      internalID: 5394489662598451432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_127
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5767398137d206480800000000000000
+      internalID: -8908070090582034827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fda8518cb14aae70800000000000000
+      internalID: 9127179872699461104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_129
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a28751145c5bd400800000000000000
+      internalID: 349974912189301417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_130
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1702e99b7c755e420800000000000000
+      internalID: 2658627670356402289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_131
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbef3302061e0600800000000000000
+      internalID: 436310411801783291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_132
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e86d5ebcfc93aa0800000000000000
+      internalID: -6180680538947940771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ee69ac9c89b48b0800000000000000
+      internalID: -5166868155022774709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e368ed52da4daee0800000000000000
+      internalID: -1248259254332660767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de44ed8a8b010f790800000000000000
+      internalID: -7498474994278710035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_136
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c614f3a64ad8e150800000000000000
+      internalID: 5902207308602283721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_137
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97318e2a482d9d10800000000000000
+      internalID: 2133906097516394397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a01b0c09bc0aa820800000000000000
+      internalID: 2930168496468463782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_139
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09744f3681d97f780800000000000000
+      internalID: -8649271831260018800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_140
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411df0fbed4174030800000000000000
+      internalID: 3478772184087777556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_141
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e348d9f5b8978c60800000000000000
+      internalID: 7820387185300358115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_142
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73468fa61815e850800000000000000
+      internalID: 6405552530717557626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_143
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d3d9ae8cb97de10800000000000000
+      internalID: 2222416228362567046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_144
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca368cddd45af3c0800000000000000
+      internalID: -4325051180271650110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_145
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63a1e880a4a51b70800000000000000
+      internalID: 8869176050574271343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129cdcabffc694090800000000000000
+      internalID: -8049783013341542111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_147
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86024c51177a50c0800000000000000
+      internalID: -4586222354077448561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6569a945b3c5f180800000000000000
+      internalID: -9082137890130401937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_149
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735ce3fddd125d2f0800000000000000
+      internalID: -948814909674699465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c70a95daae1f4690800000000000000
+      internalID: -7615834725783304248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_151
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4dfe692f7b847c0800000000000000
+      internalID: -4086814409296456534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_152
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6694955346ad56c10800000000000000
+      internalID: 2046281729636387174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_153
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76c6bae7357c3aa0800000000000000
+      internalID: -6179935705637665153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_154
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b396c36f4184f6650800000000000000
+      internalID: 6228276064544385339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_155
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785b405ffa8fa66b0800000000000000
+      internalID: -5302152176661645945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_156
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f7a9153d4c29f50800000000000000
+      internalID: 6886783192089132899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_157
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ef4010606da0fe0800000000000000
+      internalID: -1221929027602416111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_158
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a7d2ddcc4ed0440800000000000000
+      internalID: 4903827137811544643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01aa05aa45f2cc640800000000000000
+      internalID: 5101504518585100816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24505fffaf603eb10800000000000000
+      internalID: 2009457533843211586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a681de7271f505220800000000000000
+      internalID: 2472580748485138538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_162
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3404298eb7d51f1f0800000000000000
+      internalID: -1012925654417391549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_163
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc722b713523d5d0800000000000000
+      internalID: -3039044429095469893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258c45211388e2e80800000000000000
+      internalID: -8201468127052773294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_165
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2647ffe172bd09e0800000000000000
+      internalID: -1653469285748095444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_166
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a6dd9c79cbf0990800000000000000
+      internalID: -7417502701143102838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_167
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa252e961e09dae70800000000000000
+      internalID: 9128111317568344751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_168
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a80600d09b65d830800000000000000
+      internalID: 4095297705872853161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_169
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463b84217835a8690800000000000000
+      internalID: -7599169581641845916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_170
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a53297a5aadc4a0800000000000000
+      internalID: -6571408975707547072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f075a649a98cce0800000000000000
+      internalID: -1384686923186499742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5f5c527d7093130800000000000000
+      internalID: 3546874802164069837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_173
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1abddad6b68a47c0800000000000000
+      internalID: -4086305591971169765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_174
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13facdaf92e048a10800000000000000
+      internalID: 1910667715377147697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_175
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6395469ce71d7850800000000000000
+      internalID: 6376278952327353195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_176
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab40e23d7d387700800000000000000
+      internalID: 538247763404540843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orcos_177
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b830285b31a72f0800000000000000
+      internalID: -974444699081012410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
