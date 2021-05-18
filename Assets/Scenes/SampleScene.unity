@@ -176,11 +176,11 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 40642362}
-  m_BodyType: 1
+  m_BodyType: 0
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 1
-  m_Mass: 2.5821724
+  m_UseAutoMass: 0
+  m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 0
@@ -11581,6 +11581,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneToLoad: Dungeon1
+  playerPosition: {x: 0, y: 0}
+  playerStorage: {fileID: 0}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -59346,14 +59348,6 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 9037601987798247396}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1469746734}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: -6.93, z: 0}
-  m_LocalScale: {x: 0.433715, y: 0.433715, z: 0.433715}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1493391097 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 7224904971924599149, guid: 7605249866b8d7c48a10ae9aeffd7b5f,
@@ -59515,7 +59509,7 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1521783578}
-  m_BodyType: 1
+  m_BodyType: 0
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
@@ -59941,7 +59935,7 @@ PrefabInstance:
     - target: {fileID: 9037601987118410192, guid: 3f4d2a84745747c43be814ccc360808f,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -13.43
+      value: 3.27
       objectReference: {fileID: 0}
     - target: {fileID: 9037601987118410192, guid: 3f4d2a84745747c43be814ccc360808f,
         type: 3}
