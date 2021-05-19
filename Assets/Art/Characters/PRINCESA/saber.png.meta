@@ -1,7 +1,1225 @@
 fileFormatVersion: 2
-guid: eec83c7e5ffb4384ab56317a6ed11252
+guid: d80cc6af46286cd44b0363f8ce9f96e6
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -4990633130888122203
+    second: saber 1_0
+  - first:
+      213: -1650101417924664281
+    second: saber 1_1
+  - first:
+      213: -1415928813056685489
+    second: saber 1_2
+  - first:
+      213: -3886888775095923423
+    second: saber 1_3
+  - first:
+      213: 675535058158894161
+    second: saber 1_4
+  - first:
+      213: 8949899262142560540
+    second: saber 1_5
+  - first:
+      213: 1891689802237243067
+    second: saber 1_6
+  - first:
+      213: -3043830861925680693
+    second: saber 1_7
+  - first:
+      213: -763597239234448716
+    second: saber 1_8
+  - first:
+      213: 3620526981409373208
+    second: saber 1_9
+  - first:
+      213: 4158902435432646467
+    second: saber 1_10
+  - first:
+      213: 4722391987835558744
+    second: saber 1_11
+  - first:
+      213: -8254095963726365393
+    second: saber 1_12
+  - first:
+      213: -7752900823824163848
+    second: saber 1_13
+  - first:
+      213: -1202358650038968857
+    second: saber 1_14
+  - first:
+      213: 7239007553981333584
+    second: saber 1_15
+  - first:
+      213: -1308131584717744427
+    second: saber 1_16
+  - first:
+      213: 3322052882536932790
+    second: saber 1_17
+  - first:
+      213: 4923143813240003200
+    second: saber 1_18
+  - first:
+      213: 6249892666034270789
+    second: saber 1_19
+  - first:
+      213: -2728727743388238417
+    second: saber 1_20
+  - first:
+      213: -8936990092164772880
+    second: saber 1_21
+  - first:
+      213: 8350987517491633037
+    second: saber 1_22
+  - first:
+      213: -9082931468718243913
+    second: saber 1_23
+  - first:
+      213: 8430338651572674755
+    second: saber 1_24
+  - first:
+      213: -2537224398808226866
+    second: saber 1_25
+  - first:
+      213: 3931052320695783945
+    second: saber 1_26
+  - first:
+      213: -1459008218993812354
+    second: saber 1_27
+  - first:
+      213: 964585707065383160
+    second: saber 1_28
+  - first:
+      213: 3624597144405227304
+    second: saber 1_29
+  - first:
+      213: -242485704531232776
+    second: saber 1_30
+  - first:
+      213: -7906397011197728955
+    second: saber 1_31
+  - first:
+      213: -9088095185472434574
+    second: saber 1_32
+  - first:
+      213: 5565846569840100122
+    second: saber 1_33
+  - first:
+      213: 3693054770249739458
+    second: saber 1_34
+  - first:
+      213: -4694891871331852642
+    second: saber 1_35
+  - first:
+      213: 264913099551089635
+    second: saber 1_36
+  - first:
+      213: -6061549708864955543
+    second: saber 1_37
+  - first:
+      213: -6908424563808836721
+    second: saber 1_38
+  - first:
+      213: -1657084921006009678
+    second: saber 1_39
+  - first:
+      213: -4600793619164100800
+    second: saber 1_40
+  - first:
+      213: -4430236462849502705
+    second: saber 1_41
+  - first:
+      213: 3611034567754886466
+    second: saber 1_42
+  - first:
+      213: -6573705360610145467
+    second: saber 1_43
+  - first:
+      213: -6966754690805860645
+    second: saber 1_44
+  - first:
+      213: 4952012682279325364
+    second: saber 1_45
+  - first:
+      213: -7348848699719957247
+    second: saber 1_46
+  - first:
+      213: -5390592009187385721
+    second: saber 1_47
+  - first:
+      213: -8993766280171586633
+    second: saber 1_48
+  - first:
+      213: 749013199029728773
+    second: saber 1_49
+  - first:
+      213: -2685971895528364702
+    second: saber 1_50
+  - first:
+      213: -7217207921190272673
+    second: saber 1_51
+  - first:
+      213: -483356979145654181
+    second: saber 1_52
+  - first:
+      213: -6026627981556428587
+    second: saber 1_53
+  - first:
+      213: 8452404804278909254
+    second: saber 1_54
+  - first:
+      213: 777367888619372375
+    second: saber 1_55
+  - first:
+      213: -6667032127574225597
+    second: saber 1_56
+  - first:
+      213: -1400555494864434087
+    second: saber 1_57
+  - first:
+      213: 2260802668302659420
+    second: saber 1_58
+  - first:
+      213: -3367702029838874227
+    second: saber 1_59
+  - first:
+      213: 2457903602058912848
+    second: saber 1_60
+  - first:
+      213: -6146385832542339635
+    second: saber 1_61
+  - first:
+      213: -3730010247629564221
+    second: saber 1_62
+  - first:
+      213: -6061444756298528446
+    second: saber 1_63
+  - first:
+      213: -7224105503932826928
+    second: saber 1_64
+  - first:
+      213: 5503653788171212280
+    second: saber 1_65
+  - first:
+      213: -2617594528307443364
+    second: saber 1_66
+  - first:
+      213: -213747581982832585
+    second: saber 1_67
+  - first:
+      213: 8946605095100144675
+    second: saber 1_68
+  - first:
+      213: 7552450059962130635
+    second: saber 1_69
+  - first:
+      213: -1432955112781522146
+    second: saber 1_70
+  - first:
+      213: 6116157207852253100
+    second: saber 1_71
+  - first:
+      213: -6748600752908809762
+    second: saber 1_72
+  - first:
+      213: -398455799846261749
+    second: saber 1_73
+  - first:
+      213: -5326930767971856927
+    second: saber 1_74
+  - first:
+      213: -1637368191311862626
+    second: saber 1_75
+  - first:
+      213: -4821385086530368502
+    second: saber 1_76
+  - first:
+      213: 4864370050428093718
+    second: saber 1_77
+  - first:
+      213: -8331529558829877307
+    second: saber 1_78
+  - first:
+      213: 497836193178966278
+    second: saber 1_79
+  - first:
+      213: -3263849419730784108
+    second: saber 1_80
+  - first:
+      213: 4156000243501747233
+    second: saber 1_81
+  - first:
+      213: 6021213770574298194
+    second: saber 1_82
+  - first:
+      213: -2103285274574503317
+    second: saber 1_83
+  - first:
+      213: -5158428827438945191
+    second: saber 1_84
+  - first:
+      213: -8279120826816419207
+    second: saber 1_85
+  - first:
+      213: -5459128886182861247
+    second: saber 1_86
+  - first:
+      213: 3824656900126390700
+    second: saber 1_87
+  - first:
+      213: -3726800788075324671
+    second: saber 1_88
+  - first:
+      213: 3833443359007354954
+    second: saber 1_89
+  - first:
+      213: 6992640201622187701
+    second: saber 1_90
+  - first:
+      213: 7728084329111708426
+    second: saber 1_91
+  - first:
+      213: 6097548324019369277
+    second: saber 1_92
+  - first:
+      213: -6057871206070745965
+    second: saber 1_93
+  - first:
+      213: 7164181619972634707
+    second: saber 1_94
+  - first:
+      213: -3519276780035225945
+    second: saber 1_95
+  - first:
+      213: -651720605485942333
+    second: saber 1_96
+  - first:
+      213: 1493218482691738156
+    second: saber 1_97
+  - first:
+      213: 3554898080528402140
+    second: saber 1_98
+  - first:
+      213: 7226730092611396019
+    second: saber 1_99
+  - first:
+      213: -2603211414114871245
+    second: saber 1_100
+  - first:
+      213: -8033818261288286363
+    second: saber 1_101
+  - first:
+      213: -2387309703067009725
+    second: saber 1_102
+  - first:
+      213: -5806291510872006094
+    second: saber 1_103
+  - first:
+      213: -1646191290560487015
+    second: saber 1_104
+  - first:
+      213: -1751452081204558067
+    second: saber 1_105
+  - first:
+      213: 3674631174947556039
+    second: saber 1_106
+  - first:
+      213: -7521099579456755530
+    second: saber 1_107
+  - first:
+      213: -6673895938264776831
+    second: saber 1_108
+  - first:
+      213: -691796614891638524
+    second: saber 1_109
+  - first:
+      213: -5897552881265550760
+    second: saber 1_110
+  - first:
+      213: -42572198744984930
+    second: saber 1_111
+  - first:
+      213: 7610317276583639627
+    second: saber 1_112
+  - first:
+      213: -4824030139117900713
+    second: saber 1_113
+  - first:
+      213: 375905183262197629
+    second: saber 1_114
+  - first:
+      213: 4175352528712135902
+    second: saber 1_115
+  - first:
+      213: 228525103036501745
+    second: saber 1_116
+  - first:
+      213: 9066988206022906306
+    second: saber 1_117
+  - first:
+      213: -4656029193001282614
+    second: saber 1_118
+  - first:
+      213: -2617555952955649635
+    second: saber 1_119
+  - first:
+      213: -7853186728404462343
+    second: saber 1_120
+  - first:
+      213: -5916860939869064495
+    second: saber 1_121
+  - first:
+      213: -3400713181333303457
+    second: saber 1_122
+  - first:
+      213: 5959865323336982931
+    second: saber 1_123
+  - first:
+      213: -9002972809466683228
+    second: saber 1_124
+  - first:
+      213: -6673373538000483584
+    second: saber 1_125
+  - first:
+      213: 1157603649559104781
+    second: saber 1_126
+  - first:
+      213: -6441429226186109919
+    second: saber 1_127
+  - first:
+      213: 2096115474766161172
+    second: saber 1_128
+  - first:
+      213: -4223447055794980619
+    second: saber 1_129
+  - first:
+      213: 4365006691027861917
+    second: saber 1_130
+  - first:
+      213: 921295344637851126
+    second: saber 1_131
+  - first:
+      213: -6210664608890199177
+    second: saber 1_132
+  - first:
+      213: -7385977858808504523
+    second: saber 1_133
+  - first:
+      213: -2192328028792117162
+    second: saber 1_134
+  - first:
+      213: -3275627696250258885
+    second: saber 1_135
+  - first:
+      213: 4601758472528515966
+    second: saber 1_136
+  - first:
+      213: 8339415524129277721
+    second: saber 1_137
+  - first:
+      213: -7671428270712343333
+    second: saber 1_138
+  - first:
+      213: 2490710139237827231
+    second: saber 1_139
+  - first:
+      213: -4509253065338372103
+    second: saber 1_140
+  - first:
+      213: -4822941200953759703
+    second: saber 1_141
+  - first:
+      213: 6106975972017204872
+    second: saber 1_142
+  - first:
+      213: 3780596909394875241
+    second: saber 1_143
+  - first:
+      213: -2552022580711817281
+    second: saber 1_144
+  - first:
+      213: -5356846297701691034
+    second: saber 1_145
+  - first:
+      213: -6240509566222116275
+    second: saber 1_146
+  - first:
+      213: -137041296402877618
+    second: saber 1_147
+  - first:
+      213: -5473814757711195271
+    second: saber 1_148
+  - first:
+      213: -6083195016095743331
+    second: saber 1_149
+  - first:
+      213: -953633039839937673
+    second: saber 1_150
+  - first:
+      213: 7150724204718802323
+    second: saber 1_151
+  - first:
+      213: 9095173263252000286
+    second: saber 1_152
+  - first:
+      213: 2325216628491567571
+    second: saber 1_153
+  - first:
+      213: 1811226191047058959
+    second: saber 1_154
+  - first:
+      213: -8575285388380383477
+    second: saber 1_155
+  - first:
+      213: 63328985867913340
+    second: saber 1_156
+  - first:
+      213: -809447613242719879
+    second: saber 1_157
+  - first:
+      213: 7754402513527346185
+    second: saber 1_158
+  - first:
+      213: 7485335207429564673
+    second: saber 1_159
+  - first:
+      213: -6385647563407012717
+    second: saber 1_160
+  - first:
+      213: 6408141129191025757
+    second: saber 1_161
+  - first:
+      213: 3345009479951753762
+    second: saber 1_162
+  - first:
+      213: 8383423381734337515
+    second: saber 1_163
+  - first:
+      213: 1129911277186175854
+    second: saber 1_164
+  - first:
+      213: -6980357447830423784
+    second: saber 1_165
+  - first:
+      213: 4847895803898708581
+    second: saber 1_166
+  - first:
+      213: 189449770625851208
+    second: saber 1_167
+  - first:
+      213: 5508867842192510010
+    second: saber 1_168
+  - first:
+      213: 3709222973534346223
+    second: saber 1_169
+  - first:
+      213: -818701263683071905
+    second: saber 1_170
+  - first:
+      213: -5546474468844994444
+    second: saber 1_171
+  - first:
+      213: 4107130536037616414
+    second: saber 1_172
+  - first:
+      213: 8892267511896933606
+    second: saber 1_173
+  - first:
+      213: 3576324200193527830
+    second: saber 1_174
+  - first:
+      213: -3600118164917786503
+    second: saber 1_175
+  - first:
+      213: 78017775103270218
+    second: saber 1_176
+  - first:
+      213: -1182514582319707880
+    second: saber 1_177
+  - first:
+      213: 6076462309136147627
+    second: saber 1_178
+  - first:
+      213: -6139652192038132442
+    second: saber 1_179
+  - first:
+      213: 2644306515145727296
+    second: saber 1_180
+  - first:
+      213: 6099650267270296721
+    second: saber 1_181
+  - first:
+      213: 7328487547028082714
+    second: saber 1_182
+  - first:
+      213: -4715559711417503948
+    second: saber 1_183
+  - first:
+      213: 4975866176695823147
+    second: saber 1_184
+  - first:
+      213: 4133369422357775045
+    second: saber 1_185
+  - first:
+      213: 2097527796172108076
+    second: saber 1_186
+  - first:
+      213: 8205194457073395225
+    second: saber 1_187
+  - first:
+      213: 7843832294642280443
+    second: saber 1_188
+  - first:
+      213: -2683793774229840700
+    second: saber 1_189
+  - first:
+      213: -7523024501398904515
+    second: saber 1_190
+  - first:
+      213: -6358800648134098647
+    second: saber 1_191
+  - first:
+      213: -8412447609389462673
+    second: saber 1_192
+  - first:
+      213: 7882547077328358581
+    second: saber 1_193
+  - first:
+      213: -4125272576316441944
+    second: saber 1_194
+  - first:
+      213: 999500528615674553
+    second: saber 1_195
+  - first:
+      213: -7033892399822845344
+    second: saber 1_196
+  - first:
+      213: -1376165300022589752
+    second: saber 1_197
+  - first:
+      213: -482217927165864509
+    second: saber 1_198
+  - first:
+      213: -1666020425223159205
+    second: saber 1_199
+  - first:
+      213: 970284346019751210
+    second: saber 1_200
+  - first:
+      213: -6592519803075606729
+    second: saber 1_201
+  - first:
+      213: -1942551443324091669
+    second: saber 1_202
+  - first:
+      213: -5782747302072008860
+    second: saber 1_203
+  - first:
+      213: -9170835599933401869
+    second: saber 1_204
+  - first:
+      213: -736922239768001324
+    second: saber 1_205
+  - first:
+      213: 5554982156148999395
+    second: saber 1_206
+  - first:
+      213: 3617662658603050650
+    second: saber 1_207
+  - first:
+      213: -2561875749396871315
+    second: saber 1_208
+  - first:
+      213: -117213071515109419
+    second: saber 1_209
+  - first:
+      213: 4688134287959795697
+    second: saber 1_210
+  - first:
+      213: -8671306403910569040
+    second: saber 1_211
+  - first:
+      213: -8800003918806834277
+    second: saber 1_212
+  - first:
+      213: -5592160969097375685
+    second: saber 1_213
+  - first:
+      213: -3315600296719214952
+    second: saber 1_214
+  - first:
+      213: -5513954620742976516
+    second: saber 1_215
+  - first:
+      213: 2760658469017782703
+    second: saber 1_216
+  - first:
+      213: -675631855010520345
+    second: saber 1_217
+  - first:
+      213: -6513448892166465821
+    second: saber 1_218
+  - first:
+      213: 7859038247113674274
+    second: saber 1_219
+  - first:
+      213: 1247140122786502312
+    second: saber 1_220
+  - first:
+      213: 6072627936122861155
+    second: saber 1_221
+  - first:
+      213: -7313970220666619676
+    second: saber 1_222
+  - first:
+      213: -5204056927488155818
+    second: saber 1_223
+  - first:
+      213: 5710572958421765002
+    second: saber 1_0
+  - first:
+      213: -6210816378700116971
+    second: saber 1_1
+  - first:
+      213: -8816990954545475197
+    second: saber 1_2
+  - first:
+      213: 929971304412592143
+    second: saber 1_3
+  - first:
+      213: 4643377065977965837
+    second: saber 1_4
+  - first:
+      213: -5123425544745921406
+    second: saber 1_5
+  - first:
+      213: 688606905318593725
+    second: saber 1_6
+  - first:
+      213: 2713074625428113433
+    second: saber 1_7
+  - first:
+      213: -3752355727598376797
+    second: saber 1_8
+  - first:
+      213: 2058107786722900865
+    second: saber 1_9
+  - first:
+      213: 2242676311894933852
+    second: saber 1_10
+  - first:
+      213: 5897371913534842160
+    second: saber 1_11
+  - first:
+      213: -3596294079380123103
+    second: saber 1_12
+  - first:
+      213: 8275459613951376562
+    second: saber 1_13
+  - first:
+      213: 2740877129154601010
+    second: saber 1_14
+  - first:
+      213: 829512728566375394
+    second: saber 1_15
+  - first:
+      213: -3755716542939494797
+    second: saber 1_16
+  - first:
+      213: -3677018799441540867
+    second: saber 1_17
+  - first:
+      213: -3719632758373800107
+    second: saber 1_18
+  - first:
+      213: -1967614143749045426
+    second: saber 1_19
+  - first:
+      213: 1347592839084265261
+    second: saber 1_20
+  - first:
+      213: 7247347619605270766
+    second: saber 1_21
+  - first:
+      213: 4784454814077710299
+    second: saber 1_22
+  - first:
+      213: 50895243217643287
+    second: saber 1_23
+  - first:
+      213: -3124612859222762624
+    second: saber 1_24
+  - first:
+      213: -2113483384403029341
+    second: saber 1_25
+  - first:
+      213: -4944486802272609121
+    second: saber 1_26
+  - first:
+      213: 1397406801318733596
+    second: saber 1_27
+  - first:
+      213: 8887428507506751548
+    second: saber 1_28
+  - first:
+      213: -3425515367815516886
+    second: saber 1_29
+  - first:
+      213: -4925264111660426037
+    second: saber 1_30
+  - first:
+      213: -7386435715349612436
+    second: saber 1_31
+  - first:
+      213: -5501597460610078103
+    second: saber 1_32
+  - first:
+      213: -7144441917703749643
+    second: saber 1_33
+  - first:
+      213: -2703290135854116938
+    second: saber 1_34
+  - first:
+      213: 480845319242864086
+    second: saber 1_35
+  - first:
+      213: -7001867176723665972
+    second: saber 1_36
+  - first:
+      213: -892482738738339129
+    second: saber 1_37
+  - first:
+      213: 6205963044712781994
+    second: saber 1_38
+  - first:
+      213: -4971998268995040623
+    second: saber 1_39
+  - first:
+      213: 6611722014589887290
+    second: saber 1_40
+  - first:
+      213: 3252052623473382986
+    second: saber 1_41
+  - first:
+      213: 7687687855388611657
+    second: saber 1_42
+  - first:
+      213: -1206272578239727404
+    second: saber 1_43
+  - first:
+      213: 3244910624657132387
+    second: saber 1_44
+  - first:
+      213: -8761324747489528372
+    second: saber 1_45
+  - first:
+      213: -1037332178504967567
+    second: saber 1_46
+  - first:
+      213: 1258467141340816113
+    second: saber 1_47
+  - first:
+      213: -3539081424438097603
+    second: saber 1_48
+  - first:
+      213: -3995422457861597874
+    second: saber 1_49
+  - first:
+      213: -358099601523030345
+    second: saber 1_50
+  - first:
+      213: 5501878249772123719
+    second: saber 1_51
+  - first:
+      213: -3071464785810223397
+    second: saber 1_52
+  - first:
+      213: 1003015244000632194
+    second: saber 1_53
+  - first:
+      213: -620831726901556035
+    second: saber 1_54
+  - first:
+      213: -2795541603382765083
+    second: saber 1_55
+  - first:
+      213: -5367305130342656789
+    second: saber 1_56
+  - first:
+      213: 6079516840685984192
+    second: saber 1_57
+  - first:
+      213: -7965610364164172216
+    second: saber 1_58
+  - first:
+      213: -2164406197963539244
+    second: saber 1_59
+  - first:
+      213: -2939819145613121171
+    second: saber 1_60
+  - first:
+      213: -2305991402390382928
+    second: saber 1_61
+  - first:
+      213: 1821650384976017785
+    second: saber 1_62
+  - first:
+      213: -5383182959566185208
+    second: saber 1_63
+  - first:
+      213: 2211039573254703574
+    second: saber 1_64
+  - first:
+      213: 765770405470718874
+    second: saber 1_65
+  - first:
+      213: -7451416465848035560
+    second: saber 1_66
+  - first:
+      213: 3227137071663606875
+    second: saber 1_67
+  - first:
+      213: 1032080073666476517
+    second: saber 1_68
+  - first:
+      213: 3547804680811290572
+    second: saber 1_69
+  - first:
+      213: 7379814554390151368
+    second: saber 1_70
+  - first:
+      213: -1091332428705517364
+    second: saber 1_71
+  - first:
+      213: 6931638317814884602
+    second: saber 1_72
+  - first:
+      213: 2090760379682267946
+    second: saber 1_73
+  - first:
+      213: -7861606043430235774
+    second: saber 1_74
+  - first:
+      213: -6971023028844121541
+    second: saber 1_75
+  - first:
+      213: -1440285096932749799
+    second: saber 1_76
+  - first:
+      213: 4067502300653069354
+    second: saber 1_77
+  - first:
+      213: -5147970117203553950
+    second: saber 1_78
+  - first:
+      213: 2498715389321792086
+    second: saber 1_79
+  - first:
+      213: 8871953146528311623
+    second: saber 1_80
+  - first:
+      213: 2302562478295064593
+    second: saber 1_81
+  - first:
+      213: -8265266429593161663
+    second: saber 1_82
+  - first:
+      213: 5879706373375523756
+    second: saber 1_83
+  - first:
+      213: -3029649342682171698
+    second: saber 1_84
+  - first:
+      213: -8790542701393046747
+    second: saber 1_85
+  - first:
+      213: 1014522958476491028
+    second: saber 1_86
+  - first:
+      213: -3207952324609040222
+    second: saber 1_87
+  - first:
+      213: -6494479598106022111
+    second: saber 1_88
+  - first:
+      213: -7818151650814843721
+    second: saber 1_89
+  - first:
+      213: -2373715376970991128
+    second: saber 1_90
+  - first:
+      213: -5270155771928732257
+    second: saber 1_91
+  - first:
+      213: -8278414014641474317
+    second: saber 1_92
+  - first:
+      213: -4368225269128973336
+    second: saber 1_93
+  - first:
+      213: -2852765465606261534
+    second: saber 1_94
+  - first:
+      213: -4033413411180267715
+    second: saber 1_95
+  - first:
+      213: -1228717100130899232
+    second: saber 1_96
+  - first:
+      213: 1395893285812759656
+    second: saber 1_97
+  - first:
+      213: 5937127043628991825
+    second: saber 1_98
+  - first:
+      213: 1071282496426921581
+    second: saber 1_99
+  - first:
+      213: -2487359802458909367
+    second: saber 1_100
+  - first:
+      213: 373303434608744301
+    second: saber 1_101
+  - first:
+      213: -3845013766687151794
+    second: saber 1_102
+  - first:
+      213: 8655856867456878010
+    second: saber 1_103
+  - first:
+      213: -1128403479785087802
+    second: saber 1_104
+  - first:
+      213: -3358861027304324914
+    second: saber 1_105
+  - first:
+      213: -5933395822303249514
+    second: saber 1_106
+  - first:
+      213: 827724769071733949
+    second: saber 1_107
+  - first:
+      213: -7567212893786114114
+    second: saber 1_108
+  - first:
+      213: -7112924609663943364
+    second: saber 1_109
+  - first:
+      213: -315210520030638525
+    second: saber 1_110
+  - first:
+      213: -1112925984755346859
+    second: saber 1_111
+  - first:
+      213: 3563728959406510405
+    second: saber 1_112
+  - first:
+      213: 404398720906983828
+    second: saber 1_113
+  - first:
+      213: 2287577063408067214
+    second: saber 1_114
+  - first:
+      213: 7262697866259942223
+    second: saber 1_115
+  - first:
+      213: 5320246624421407834
+    second: saber 1_116
+  - first:
+      213: -4290702501277010578
+    second: saber 1_117
+  - first:
+      213: 2499539666289137869
+    second: saber 1_118
+  - first:
+      213: 7391554104123801913
+    second: saber 1_119
+  - first:
+      213: 431328280681805976
+    second: saber 1_120
+  - first:
+      213: -2393992738085410553
+    second: saber 1_121
+  - first:
+      213: 684045305664845751
+    second: saber 1_122
+  - first:
+      213: 2212791377897263173
+    second: saber 1_123
+  - first:
+      213: -1553358055364539625
+    second: saber 1_124
+  - first:
+      213: -2186588085040910299
+    second: saber 1_125
+  - first:
+      213: 4136228579317945511
+    second: saber 1_126
+  - first:
+      213: 8189811011985327951
+    second: saber 1_127
+  - first:
+      213: 2276467087490070069
+    second: saber 1_128
+  - first:
+      213: 4787555983249360469
+    second: saber 1_129
+  - first:
+      213: 193291476000083612
+    second: saber 1_130
+  - first:
+      213: -7220370105080930669
+    second: saber 1_131
+  - first:
+      213: 1300331402904118747
+    second: saber 1_132
+  - first:
+      213: -2435603791629893648
+    second: saber 1_133
+  - first:
+      213: 7416922069012307487
+    second: saber 1_134
+  - first:
+      213: 4050239778119682220
+    second: saber 1_135
+  - first:
+      213: -7853597050048950025
+    second: saber 1_136
+  - first:
+      213: 8232433551316058135
+    second: saber 1_137
+  - first:
+      213: 7551008466595952228
+    second: saber 1_138
+  - first:
+      213: 3335779521170512840
+    second: saber 1_139
+  - first:
+      213: 6491777843639844281
+    second: saber 1_140
+  - first:
+      213: 7230028131635807264
+    second: saber 1_141
+  - first:
+      213: 5712751894439220036
+    second: saber 1_142
+  - first:
+      213: 7518831865102765221
+    second: saber 1_143
+  - first:
+      213: -1856006262260749966
+    second: saber 1_144
+  - first:
+      213: -3643796220634229163
+    second: saber 1_145
+  - first:
+      213: -9019500213213958084
+    second: saber 1_146
+  - first:
+      213: -4995204593721462150
+    second: saber 1_147
+  - first:
+      213: -7657414727742734257
+    second: saber 1_148
+  - first:
+      213: 7153148822918721611
+    second: saber 1_149
+  - first:
+      213: 5187253219304823175
+    second: saber 1_150
+  - first:
+      213: 5814754017399698388
+    second: saber 1_151
+  - first:
+      213: 4452337692989048121
+    second: saber 1_152
+  - first:
+      213: 8658208204195300723
+    second: saber 1_153
+  - first:
+      213: 3347131313779658044
+    second: saber 1_154
+  - first:
+      213: -3748908645979236516
+    second: saber 1_155
+  - first:
+      213: -3223958503891061483
+    second: saber 1_156
+  - first:
+      213: 5604192084233595782
+    second: saber 1_157
+  - first:
+      213: 8436787554896320820
+    second: saber 1_158
+  - first:
+      213: -2104013481114604235
+    second: saber 1_159
+  - first:
+      213: 5072635040146640717
+    second: saber 1_160
+  - first:
+      213: 7502603858129941611
+    second: saber 1_161
+  - first:
+      213: -6880515369541937226
+    second: saber 1_162
+  - first:
+      213: -1101458494859883667
+    second: saber 1_163
+  - first:
+      213: -1435223033248264421
+    second: saber 1_164
+  - first:
+      213: -8540249978565697571
+    second: saber 1_165
+  - first:
+      213: 871459557218649383
+    second: saber 1_166
+  - first:
+      213: -956210764340748253
+    second: saber 1_167
+  - first:
+      213: 8568843515477732140
+    second: saber 1_168
+  - first:
+      213: -3021716180759937120
+    second: saber 1_169
+  - first:
+      213: 5815042614443994221
+    second: saber 1_170
+  - first:
+      213: 3037169397956323178
+    second: saber 1_171
+  - first:
+      213: 4260463272383688625
+    second: saber 1_172
+  - first:
+      213: -6960506927911558127
+    second: saber 1_173
+  - first:
+      213: -3096664619010548650
+    second: saber 1_174
+  - first:
+      213: -2443259461870046729
+    second: saber 1_175
+  - first:
+      213: 7949678874294475281
+    second: saber 1_176
+  - first:
+      213: -3734773185633212934
+    second: saber 1_177
+  - first:
+      213: 5032087019630633096
+    second: saber 1_178
+  - first:
+      213: 606533714590412515
+    second: saber 1_183
+  - first:
+      213: 2227342166828810064
+    second: saber 1_184
+  - first:
+      213: -3207234228149156892
+    second: saber 1_185
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -40,7 +1258,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -85,11 +1303,4274 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: saber 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b4eaa89d7004f40800000000000000
+      internalID: 5710572958421765002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51cc66ee86fbec9a0800000000000000
+      internalID: -6210816378700116971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3811c76f071c3a580800000000000000
+      internalID: -8816990954545475197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08b1d269fbe7ec00800000000000000
+      internalID: 929971304412592143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0defcff6d6907040800000000000000
+      internalID: 4643377065977965837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284d144bc9fe5e8b0800000000000000
+      internalID: -5123425544745921406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4556df45c6e8900800000000000000
+      internalID: 688606905318593725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918c4c15ff6c6a520800000000000000
+      internalID: 2713074625428113433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8a899b854fcebc0800000000000000
+      internalID: -3752355727598376797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b7511b02edf8c10800000000000000
+      internalID: 2058107786722900865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c514ea439369f1f10800000000000000
+      internalID: 2242676311894933852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0352c9e728ca7d150800000000000000
+      internalID: 5897371913534842160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12215bab695671ec0800000000000000
+      internalID: -3596294079380123103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcb9a27ca658d270800000000000000
+      internalID: 8275459613951376562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230a0482a3d890620800000000000000
+      internalID: 2740877129154601010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_15
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e32dd28e65038b00800000000000000
+      internalID: 829512728566375394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376880de3b301ebc0800000000000000
+      internalID: -3755716542939494797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df88ad232ea98fcc0800000000000000
+      internalID: -3677018799441540867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5572936b6b5316cc0800000000000000
+      internalID: -3719632758373800107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43cdc27c51a1b4e0800000000000000
+      internalID: -1967614143749045426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f4a7b1c8c93b210800000000000000
+      internalID: 1347592839084265261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee0585e0340c39460800000000000000
+      internalID: 7247347619605270766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf6205ed4cc56240800000000000000
+      internalID: 4784454814077710299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717aebc34f0d4b000800000000000000
+      internalID: 50895243217643287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bd861d82523a4d0800000000000000
+      internalID: -3124612859222762624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a297f14f066ba2e0800000000000000
+      internalID: -2113483384403029341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c1fe94377a16bb0800000000000000
+      internalID: -4944486802272609121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17615ff416946310800000000000000
+      internalID: 1397406801318733596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38be94d32d765b70800000000000000
+      internalID: 8887428507506751548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2de6b01cef1670d0800000000000000
+      internalID: -3425515367815516886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_30
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc1087b262f5abb0800000000000000
+      internalID: -4925264111660426037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68f3561adb1e7990800000000000000
+      internalID: -7386435715349612436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a252f124666a3b0800000000000000
+      internalID: -5501597460610078103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_33
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff7bd0cde7d9dc90800000000000000
+      internalID: -7144441917703749643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf099fa1fbfb7ad0800000000000000
+      internalID: -2703290135854116938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5516d254e4ca600800000000000000
+      internalID: 480845319242864086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb2be676ee54de90800000000000000
+      internalID: -7001867176723665972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2655d7da34d93f0800000000000000
+      internalID: -892482738738339129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa89e413282002650800000000000000
+      internalID: 6205963044712781994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a81b8cae9effab0800000000000000
+      internalID: -4971998268995040623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33a241542e81cb50800000000000000
+      internalID: 6611722014589887290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46120581ac912d20800000000000000
+      internalID: 3252052623473382986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_42
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944d5849f5720ba60800000000000000
+      internalID: 7687687855388611657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_43
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8f9bf2b75724fe0800000000000000
+      internalID: -1206272578239727404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b4496550d380d20800000000000000
+      internalID: 3244910624657132387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc53c08cf85896680800000000000000
+      internalID: -8761324747489528372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a112231e7aa91f0800000000000000
+      internalID: -1037332178504967567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_47
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2ee198239f67110800000000000000
+      internalID: 1258467141340816113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d390f210238a2eec0800000000000000
+      internalID: -3539081424438097603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e459a8771786d88c0800000000000000
+      internalID: -3995422457861597874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_50
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6c2094f46c70bf0800000000000000
+      internalID: -358099601523030345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_51
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7468d133e199a5c40800000000000000
+      internalID: 5501878249772123719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde09a5fc07ff55d0800000000000000
+      internalID: -3071464785810223397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d95fadc0d6bed00800000000000000
+      internalID: 1003015244000632194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc8dbc65dc5267f0800000000000000
+      internalID: -620831726901556035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_55
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e95b8f19bd3439d0800000000000000
+      internalID: -2795541603382765083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be45bc0db608385b0800000000000000
+      internalID: -5367305130342656789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9d71f1b58ce5450800000000000000
+      internalID: 6079516840685984192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84613d0d397747190800000000000000
+      internalID: -7965610364164172216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcbabcc70c76f1e0800000000000000
+      internalID: -2164406197963539244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6966d9101aa337d0800000000000000
+      internalID: -2939819145613121171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b69a6589097fffd0800000000000000
+      internalID: -2305991402390382928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_62
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979f275af5dc74910800000000000000
+      internalID: 1821650384976017785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_63
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d1f1e9e971b45b0800000000000000
+      internalID: -5383182959566185208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_64
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d98d2cf6c03fae10800000000000000
+      internalID: 2211039573254703574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_65
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bc695602090aa00800000000000000
+      internalID: 765770405470718874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81791af1430479890800000000000000
+      internalID: -7451416465848035560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_67
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ce00e811819cc20800000000000000
+      internalID: 3227137071663606875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_68
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e936aadb5fa25e00800000000000000
+      internalID: 1032080073666476517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf99346f855c3130800000000000000
+      internalID: 3547804680811290572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_70
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0ceaebc3e5a6660800000000000000
+      internalID: 7379814554390151368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_71
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0b42f20fecad0f0800000000000000
+      internalID: -1091332428705517364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8a7dc1350223060800000000000000
+      internalID: 6931638317814884602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a232c6dec7fd30d10800000000000000
+      internalID: 2090760379682267946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281d641c4f6f5e290800000000000000
+      internalID: -7861606043430235774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32bda44d73f14f90800000000000000
+      internalID: -6971023028844121541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ec806d554130ce0800000000000000
+      internalID: -1440285096932749799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_77
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24a289bacba27830800000000000000
+      internalID: 4067502300653069354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26191c9147cbe88b0800000000000000
+      internalID: -5147970117203553950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ac35768683da220800000000000000
+      internalID: 2498715389321792086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_80
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749aab291628f1b70800000000000000
+      internalID: 8871953146528311623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110abefdf5854ff10800000000000000
+      internalID: 2302562478295064593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140732a39ffdb4d80800000000000000
+      internalID: -8265266429593161663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_83
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabf5a86bc9e89150800000000000000
+      internalID: 5879706373375523756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_84
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6fe6f79f584f5d0800000000000000
+      internalID: -3029649342682171698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_85
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5239094ccf7b10680800000000000000
+      internalID: -8790542701393046747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419387c614f441e00800000000000000
+      internalID: 1014522958476491028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a02a437b501b73d0800000000000000
+      internalID: -3207952324609040222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f6ed9f639fed5a0800000000000000
+      internalID: -6494479598106022111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_89
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b42c05fe78508390800000000000000
+      internalID: -7818151650814843721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9f2cde07ede0fd0800000000000000
+      internalID: -2373715376970991128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d96377f35acd6b0800000000000000
+      internalID: -5270155771928732257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_92
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4fda9805a2d1d80800000000000000
+      internalID: -8278414014641474317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3bea6f242f063c0800000000000000
+      internalID: -4368225269128973336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e479037ce0f868d0800000000000000
+      internalID: -2852765465606261534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37bd4a5fdf6608c0800000000000000
+      internalID: -4033413411180267715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eaef35be48b2fee0800000000000000
+      internalID: -1228717100130899232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_97
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86ce8353c853f5310800000000000000
+      internalID: 1395893285812759656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_98
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1550fd50799e46250800000000000000
+      internalID: 5937127043628991825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ece9d21c5fdde00800000000000000
+      internalID: 1071282496426921581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_100
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945d9d1307f1b7dd0800000000000000
+      internalID: -2487359802458909367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_101
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d679945fe7d3e2500800000000000000
+      internalID: 373303434608744301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_102
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e492028d954c3aac0800000000000000
+      internalID: -3845013766687151794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab58463d5f7cf1870800000000000000
+      internalID: 8655856867456878010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_104
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc5810830b1750f0800000000000000
+      internalID: -1128403479785087802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_105
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec04f9111bde261d0800000000000000
+      internalID: -3358861027304324914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_106
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bf3d3afe758ada0800000000000000
+      internalID: -5933395822303249514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_107
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc1050ca4bac7b00800000000000000
+      internalID: 827724769071733949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_108
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb77f1647fbdbf690800000000000000
+      internalID: -7567212893786114114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3db8ded0c0d94d90800000000000000
+      internalID: -7112924609663943364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_110
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e8b1cb3b520abf0800000000000000
+      internalID: -315210520030638525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_111
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5521b51a6b71e80f0800000000000000
+      internalID: -1112925984755346859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_112
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541923d6b98e47130800000000000000
+      internalID: 3563728959406510405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_113
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499784b7e76bc9500800000000000000
+      internalID: 404398720906983828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_114
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82e4c4183b1fbf10800000000000000
+      internalID: 2287577063408067214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b496dda394ac460800000000000000
+      internalID: 7262697866259942223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ceb16fd1055d940800000000000000
+      internalID: 5320246624421407834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_117
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65f086eecc5474c0800000000000000
+      internalID: -4290702501277010578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc89927551620b220800000000000000
+      internalID: 2499539666289137869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_119
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931416aab43149660800000000000000
+      internalID: 7391554104123801913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_120
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8987e9739c26cf500800000000000000
+      internalID: 431328280681805976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709ed83e944d6ced0800000000000000
+      internalID: -2393992738085410553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b73d6ec4973e7900800000000000000
+      internalID: 684045305664845751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_123
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5401d99c80a65be10800000000000000
+      internalID: 2212791377897263173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_124
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b4105241d517ae0800000000000000
+      internalID: -1553358055364539625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_125
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520f801c8bda7a1e0800000000000000
+      internalID: -2186588085040910299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_126
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4901c6af5d66930800000000000000
+      internalID: 4136228579317945511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_127
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47c7f259bd08a170800000000000000
+      internalID: 8189811011985327951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_128
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536b6bc31c2a79f10800000000000000
+      internalID: 2276467087490070069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_129
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556cfdb1dc0d07240800000000000000
+      internalID: 4787555983249360469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_130
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e8815c295bea200800000000000000
+      internalID: 193291476000083612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_131
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e1dc305a71ccb90800000000000000
+      internalID: -7220370105080930669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_132
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5a2608584bb0210800000000000000
+      internalID: 1300331402904118747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_133
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff3e42814ff23ed0800000000000000
+      internalID: -2435603791629893648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_134
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1edb3243533ee660800000000000000
+      internalID: 7416922069012307487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_135
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca80bfd7e97553830800000000000000
+      internalID: 4050239778119682220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_136
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0d6c6d71b620390800000000000000
+      internalID: -7853597050048950025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_137
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710833792ba7f3270800000000000000
+      internalID: 8232433551316058135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_138
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4663b6381329ac860800000000000000
+      internalID: 7551008466595952228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_139
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb14600dc11b4e20800000000000000
+      internalID: 3335779521170512840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd77eacd8d671a50800000000000000
+      internalID: 6491777843639844281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_141
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024cb368748365460800000000000000
+      internalID: 7230028131635807264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_142
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4435dfd9495c74f40800000000000000
+      internalID: 5712751894439220036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_143
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac865daeb1485860800000000000000
+      internalID: 7518831865102765221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_144
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2792c0553242e36e0800000000000000
+      internalID: -1856006262260749966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_145
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5569f2b94a2ae6dc0800000000000000
+      internalID: -3643796220634229163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_146
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3072dbe75c44d280800000000000000
+      internalID: -9019500213213958084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7235d243e77daab0800000000000000
+      internalID: -4995204593721462150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_148
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40cc0730e56bb590800000000000000
+      internalID: -7657414727742734257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_149
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40f29794f6154360800000000000000
+      internalID: 7153148822918721611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7895aa8d153dcf740800000000000000
+      internalID: 5187253219304823175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_151
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3726f88f722b050800000000000000
+      internalID: 5814754017399698388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_152
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935c1b2da81e9cd30800000000000000
+      internalID: 4452337692989048121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_153
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3750f621d72282870800000000000000
+      internalID: 8658208204195300723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_154
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d4c6e2236637e20800000000000000
+      internalID: 3347131313779658044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_155
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c575405f27339fbc0800000000000000
+      internalID: -3748908645979236516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_156
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51539fc62d23243d0800000000000000
+      internalID: -3223958503891061483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_157
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bacc1220716cd40800000000000000
+      internalID: 5604192084233595782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_158
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4391807c49d751570800000000000000
+      internalID: 8436787554896320820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_159
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53de78fe2ea0dc2e0800000000000000
+      internalID: -2104013481114604235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fc32b61be956640800000000000000
+      internalID: 5072635040146640717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_161
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b647f4e557a9e1860800000000000000
+      internalID: 7502603858129941611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_162
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b756d6d9bf7380a0800000000000000
+      internalID: -6880515369541937226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_163
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b4a0fa555d6b0f0800000000000000
+      internalID: -1101458494859883667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_164
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f47c16140151ce0800000000000000
+      internalID: -1435223033248264421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_165
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfdd8684efea7980800000000000000
+      internalID: -8540249978565697571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_166
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7250320a9db081c00800000000000000
+      internalID: 871459557218649383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_167
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320a015406bdab2f0800000000000000
+      internalID: -956210764340748253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_168
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ba5f317c5aae670800000000000000
+      internalID: 8568843515477732140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_169
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aff0c1b425b016d0800000000000000
+      internalID: -3021716180759937120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_170
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c61bbc27e23b050800000000000000
+      internalID: 5815042614443994221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_171
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67afdfc971362a20800000000000000
+      internalID: 3037169397956323178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_172
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf2709f5c4302b30800000000000000
+      internalID: 4260463272383688625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_173
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114af21d3df476f90800000000000000
+      internalID: -6960506927911558127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_174
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c1b539fef6605d0800000000000000
+      internalID: -3096664619010548650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_175
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1bf11e67cc71ed0800000000000000
+      internalID: -2443259461870046729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_176
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11adfb421dee25e60800000000000000
+      internalID: 7949678874294475281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_177
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5ada9439b6b2cc0800000000000000
+      internalID: -3734773185633212934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_178
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88020f3bb7095d540800000000000000
+      internalID: 5032087019630633096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_183
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eea57a2337da6800800000000000000
+      internalID: 606533714590412515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f741756eb19ee10800000000000000
+      internalID: 2227342166828810064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_185
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e302bf467d9d73d0800000000000000
+      internalID: -3207234228149156892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_186
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21b85dda6aeb1d10800000000000000
+      internalID: 2097527796172108076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_187
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 640
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.53002644, y: 0.50000095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9162ddeb2e4bed170800000000000000
+      internalID: 8205194457073395225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_188
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 641
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.2597828, y: 0.46997643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7e3efd9e3eadc60800000000000000
+      internalID: 7843832294642280443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_190
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31ee8d1319d89790800000000000000
+      internalID: -7523024501398904515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_191
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 447
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921817a308001c7a0800000000000000
+      internalID: -6358800648134098647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_192
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bc1c6687bf04b80800000000000000
+      internalID: -8412447609389462673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_193
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc4375adce646d60800000000000000
+      internalID: 7882547077328358581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_195
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 447
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5600538, y: 0.5150142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2d3f86f60fedd00800000000000000
+      internalID: 999500528615674553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_197
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 447
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.6651478, y: 0.50000095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c64feb63f0e6ece0800000000000000
+      internalID: -1376165300022589752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_200
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2521afc874277d00800000000000000
+      internalID: 970284346019751210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_201
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73743f2fa2aa284a0800000000000000
+      internalID: -6592519803075606729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_202
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2cebe11cbaa05e0800000000000000
+      internalID: -1942551443324091669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_203
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f362297fd8fbfa0800000000000000
+      internalID: -5782747302072008860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_204
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 248
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.4849863, y: 0.6351218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4967c6c95aab080800000000000000
+      internalID: -9170835599933401869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_205
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 253
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.31983757, y: 0.5600538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d40b87902de5c5f0800000000000000
+      internalID: -736922239768001324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_210
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f72c2dcb499f0140800000000000000
+      internalID: 4688134287959795697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_211
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b33758a4c459a780800000000000000
+      internalID: -8671306403910569040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_212
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93297d6f0b10e580800000000000000
+      internalID: -8800003918806834277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_213
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3095262a37a462b0800000000000000
+      internalID: -5592160969097375685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_214
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 64
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.39566326, y: 0.49999917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8961fd0d81f9cf1d0800000000000000
+      internalID: -3315600296719214952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saber 1_216
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 63
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.3608837, y: 0.5347785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa98aff3044df4620800000000000000
+      internalID: 2760658469017782703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 9a77b832aa392194c8b1c8e7eeff9d4f
     internalID: 0
     vertices: []
     indices: 
