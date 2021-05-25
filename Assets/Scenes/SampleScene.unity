@@ -271,7 +271,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 40642362}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.12, y: -1.89, z: 0}
+  m_LocalPosition: {x: -12.53, y: -1.89, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -290,7 +290,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentState: 0
-  maxHealth: {fileID: 11400000, guid: a9c1606257f25e345837ed125ed3e57a, type: 2}
   health: 3
   enemyName: Oliver the Orc
   baseAtack: 2
@@ -314,7 +313,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   thrust: 2
   knockTime: 0.3
-  damage: 0
 --- !u!61 &40642370
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -325,7 +323,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: -0.0017826557, y: -0.45179653}
@@ -11894,6 +11892,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sceneToLoad: Dungeon1
   playerPosition: {x: 0, y: 0}
+  playerStorage: {fileID: 0}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -11988,7 +11987,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 4.21, y: -3.01, z: -10}
+  m_LocalPosition: {x: -5.36, y: -3.01, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -12090,7 +12089,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   thrust: 2
   knockTime: 0.4
-  damage: 1
 --- !u!1 &776106571
 GameObject:
   m_ObjectHideFlags: 0
@@ -12168,7 +12166,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   thrust: 2
   knockTime: 0.4
-  damage: 1
 --- !u!1 &916256384 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 9037601987118410186, guid: 3f4d2a84745747c43be814ccc360808f,
@@ -60331,7 +60328,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0.042187452, y: -0.6644801}
@@ -60408,7 +60405,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   thrust: 2
   knockTime: 0.3
-  damage: 0
 --- !u!114 &1345391906
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -60422,7 +60418,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentState: 0
-  maxHealth: {fileID: 11400000, guid: 02a11c2b5e35756469e60101f22caf2c, type: 2}
   health: 2
   enemyName: Sam the Skeleton
   baseAtack: 2
@@ -60645,7 +60640,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1521783578}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.9, y: -0.43, z: 0}
+  m_LocalPosition: {x: -8.14, y: -3.88, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -60711,7 +60706,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentState: 0
-  maxHealth: {fileID: 11400000, guid: 02a11c2b5e35756469e60101f22caf2c, type: 2}
   health: 2
   enemyName: Larry the log
   baseAtack: 1
@@ -60761,110 +60755,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   thrust: 1
   knockTime: 0.3
-  damage: 0
---- !u!1 &1568589893
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1568589894}
-  - component: {fileID: 1568589897}
-  - component: {fileID: 1568589896}
-  - component: {fileID: 1568589895}
-  m_Layer: 5
-  m_Name: HealthHolder
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &1568589894
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1568589893}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1891480616}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 153.69, y: -100.57}
-  m_SizeDelta: {x: 256, y: 192}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1568589895
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1568589893}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c891cb684c56d1246b1a5ad31611c4de, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  signal: {fileID: 11400000, guid: ed5fe91aaa417b940838f6bf2f767af2, type: 2}
-  signalEvent:
-    m_PersistentCalls:
-      m_Calls:
-      - m_Target: {fileID: 1568589893}
-        m_MethodName: SetActive
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
---- !u!114 &1568589896
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1568589893}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: -2069660456029034469, guid: fd0db93a552bea1418ada24f9f5aebaa,
-    type: 3}
-  m_Type: 0
-  m_PreserveAspect: 1
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
---- !u!222 &1568589897
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1568589893}
-  m_CullTransparentMesh: 0
 --- !u!1 &1571208121
 GameObject:
   m_ObjectHideFlags: 0
@@ -60943,7 +60833,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   thrust: 2
   knockTime: 0.4
-  damage: 1
 --- !u!1 &1692463052
 GameObject:
   m_ObjectHideFlags: 0
@@ -61028,7 +60917,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   thrust: 2
   knockTime: 0.4
-  damage: 1
 --- !u!1 &1721864695
 GameObject:
   m_ObjectHideFlags: 0
@@ -61095,12 +60983,6 @@ MonoBehaviour:
   m_FirstSelected: {fileID: 0}
   m_sendNavigationEvents: 1
   m_DragThreshold: 10
---- !u!224 &1891480616 stripped
-RectTransform:
-  m_CorrespondingSourceObject: {fileID: 7204769968835305667, guid: 466a5ce1190e0ac42bcc08ee91e71e5c,
-    type: 3}
-  m_PrefabInstance: {fileID: 7204769969300242591}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2127472662
 GameObject:
   m_ObjectHideFlags: 0
@@ -61510,7 +61392,7 @@ PrefabInstance:
     - target: {fileID: 9037601987118410192, guid: 3f4d2a84745747c43be814ccc360808f,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -3.75
+      value: -1.49
       objectReference: {fileID: 0}
     - target: {fileID: 9037601987118410192, guid: 3f4d2a84745747c43be814ccc360808f,
         type: 3}
