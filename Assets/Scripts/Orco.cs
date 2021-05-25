@@ -21,7 +21,7 @@ public class Orco :Enemy
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         CheckDistance();
     }
@@ -59,7 +59,7 @@ public class Orco :Enemy
             {
                 SetAnimFloat(Vector2.right);
             }
-            if(direction.x < 0)
+            else if(direction.x < 0)
             {
                 SetAnimFloat(Vector2.left);
             }
@@ -70,7 +70,7 @@ public class Orco :Enemy
             {
                 SetAnimFloat(Vector2.up);
             }
-            if (direction.y < 0)
+            else if (direction.y < 0)
             {
                 SetAnimFloat(Vector2.down);
             }

@@ -21,7 +21,7 @@ public class log : Enemy
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         CheckDistance();
     }
@@ -29,24 +29,29 @@ public class log : Enemy
     {
         if (Vector3.Distance(target.position, transform.position) <= chaseRadius && Vector3.Distance(target.position, transform.position) > atackRadius)
         {
-            ChangeState(EnemyState.walk);
-            transform.position = Vector3.MoveTowards(transform.position, target.position, moveSpeed * Time.deltaTime);
+            
+            
+            //transform.position = Vector3.MoveTowards(transform.position, target.position, moveSpeed * Time.deltaTime);
             if (currentState == EnemyState.idle || currentState == EnemyState.walk
                 && currentState != EnemyState.stagger)
             {
                // transform.position = Vector3.MoveTowards(transform.position, target.position, moveSpeed * Time.deltaTime);
-                anim.SetBool("wakeUp", true);
+               
                 Vector3 temp = Vector3.MoveTowards(transform.position, target.position, moveSpeed * Time.deltaTime);
+
                 changeAnim(temp - transform.position);
                 myRigidbody.MovePosition(temp);
-               
+                ChangeState(EnemyState.walk);
+                anim.SetBool("wakeUp", true);
                 
+                
+
             }
         }
-        else if (Vector3.Distance(target.position, transform.position) > chaseRadius && Vector3.Distance(target.position, transform.position) > atackRadius)
+        else if (Vector3.Distance(target.position, transform.position) > chaseRadius) //&& Vector3.Distance(target.position, transform.position) > atackRadius)
 
         {
-            ChangeState(EnemyState.stagger);
+            //ChangeState(EnemyState.stagger);
             anim.SetBool("wakeUp", false);
         }
     }
@@ -63,7 +68,7 @@ public class log : Enemy
             {
                 SetAnimFloat(Vector2.right);
             }
-            if (direction.x < 0)
+            else if (direction.x < 0)
             {
                 SetAnimFloat(Vector2.left);
             }
@@ -74,7 +79,7 @@ public class log : Enemy
             {
                 SetAnimFloat(Vector2.up);
             }
-            if (direction.y < 0)
+            else if (direction.y < 0)
             {
                 SetAnimFloat(Vector2.down);
             }
