@@ -43,7 +43,7 @@ SpriteAtlas:
     variantMultiplier: 1
     packables:
     - {fileID: 102900000, guid: 4e8b44eefcbd3ac4f9ee875252421e86, type: 3}
-    totalSpriteSurfaceArea: 17055095
+    totalSpriteSurfaceArea: 17060165
     bindAsDefault: 1
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
@@ -3327,6 +3327,7 @@ SpriteAtlas:
   - {fileID: 173205752914949783, guid: 3ac04c39fbd114c45896a9457e618ce7, type: 3}
   - {fileID: 21300000, guid: 852888693a30b214aa6b2fed548e0493, type: 3}
   - {fileID: 21300000, guid: 2f427eb98545f3a469a4c8a27621e81d, type: 3}
+  - {fileID: -2069660456029034469, guid: fd0db93a552bea1418ada24f9f5aebaa, type: 3}
   - {fileID: 21300000, guid: 0b899cfa9e00de54ba1ed58000500a78, type: 3}
   - {fileID: 3059174765694063163, guid: 8d9a248ce0e13be49ac638f78b34e4ea, type: 3}
   - {fileID: -34017176892466219, guid: 8d9a248ce0e13be49ac638f78b34e4ea, type: 3}
@@ -7913,6 +7914,7 @@ SpriteAtlas:
   - Dungeon tileset_52
   - princesa
   - tree
+  - objects_14
   - guerrero
   - log_8
   - log_9
