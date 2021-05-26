@@ -9,11 +9,11 @@ public class Orco :Enemy
     public float chaseRadius;
     public float atackRadius;
     public Transform homePosition;
-    public Animator anim; 
+    public Animator anim;
     // Start is called before the first frame update
     void Start()
     {
-        
+
         currentState = EnemyState.idle;
         myRigidbody = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
@@ -29,20 +29,29 @@ public class Orco :Enemy
     {
         if (Vector3.Distance(target.position, transform.position) <= chaseRadius && Vector3.Distance(target.position, transform.position) > atackRadius)
         {
+
+
             //transform.position = Vector3.MoveTowards(transform.position, target.position, moveSpeed * Time.deltaTime);
             if (currentState == EnemyState.idle || currentState == EnemyState.walk
                 && currentState != EnemyState.stagger)
             {
+                // transform.position = Vector3.MoveTowards(transform.position, target.position, moveSpeed * Time.deltaTime);
+
                 Vector3 temp = Vector3.MoveTowards(transform.position, target.position, moveSpeed * Time.deltaTime);
+
                 changeAnim(temp - transform.position);
                 myRigidbody.MovePosition(temp);
                 ChangeState(EnemyState.walk);
                 anim.SetBool("OrcoSize", true);
+
+
+
             }
         }
-        else if(Vector3.Distance(target.position, transform.position) > chaseRadius && Vector3.Distance(target.position, transform.position) > atackRadius)
-        
+        else if (Vector3.Distance(target.position, transform.position) > chaseRadius) //&& Vector3.Distance(target.position, transform.position) > atackRadius)
+
         {
+            //ChangeState(EnemyState.stagger);
             anim.SetBool("OrcoSize", false);
         }
     }
@@ -55,16 +64,16 @@ public class Orco :Enemy
     {
         if (Mathf.Abs(direction.x) > Mathf.Abs(direction.y))
         {
-            if(direction.x > 0 )
+            if (direction.x > 0)
             {
                 SetAnimFloat(Vector2.right);
             }
-            else if(direction.x < 0)
+            else if (direction.x < 0)
             {
                 SetAnimFloat(Vector2.left);
             }
         }
-        else if(Mathf.Abs(direction.x) < Mathf.Abs(direction.y))
+        else if (Mathf.Abs(direction.x) < Mathf.Abs(direction.y))
         {
             if (direction.y > 0)
             {
@@ -78,7 +87,7 @@ public class Orco :Enemy
     }
     private void ChangeState(EnemyState newState)
     {
-        if ( currentState != newState)
+        if (currentState != newState)
         {
             currentState = newState;
         }

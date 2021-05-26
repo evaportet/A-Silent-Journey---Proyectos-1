@@ -36,6 +36,7 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetButtonDown("attack")&& currentState != PlayerState.attack && currentState != PlayerState.stagger)
         {
             StartCoroutine(AttackCo());
+            
         }
         else if (currentState == PlayerState.walk || currentState == PlayerState.idle)
         {
@@ -43,13 +44,14 @@ public class PlayerMovement : MonoBehaviour
         }
         
     }
+        
     private IEnumerator AttackCo()
     {
         animator.SetBool("pattacking", true);
         currentState = PlayerState.attack;
         yield return null;
         animator.SetBool("pattacking", false);
-        yield return new WaitForSeconds(.3f);
+        yield return new WaitForSeconds(.6f);
         currentState = PlayerState.walk;
     }
     void UpdateAnimationAndMove ()
