@@ -43,7 +43,7 @@ SpriteAtlas:
     variantMultiplier: 1
     packables:
     - {fileID: 102900000, guid: 4e8b44eefcbd3ac4f9ee875252421e86, type: 3}
-    totalSpriteSurfaceArea: 17055095
+    totalSpriteSurfaceArea: 17059282
     bindAsDefault: 1
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
@@ -124,6 +124,7 @@ SpriteAtlas:
   - {fileID: -2431439944167368855, guid: 58a874d005558ea44be7f06cad7f042d, type: 3}
   - {fileID: 7274838496166343488, guid: 58a874d005558ea44be7f06cad7f042d, type: 3}
   - {fileID: -8506932439865520012, guid: 58a874d005558ea44be7f06cad7f042d, type: 3}
+  - {fileID: -3855957774892257989, guid: 9dcc2a91dfad2b14e837bd9b14c3ed67, type: 3}
   - {fileID: 21300000, guid: a71bb802aeb249540a4a58eb3e70b9dd, type: 3}
   - {fileID: 21300000, guid: 55ce56d2a53def54398246aaec4f8417, type: 3}
   - {fileID: -2560452190939254288, guid: 6561e1235cf0b8841bf5a99f7165ffcd, type: 3}
@@ -4710,6 +4711,7 @@ SpriteAtlas:
   - character_73
   - character_70
   - character_71
+  - objects_123
   - mago
   - elfa
   - orcos_80
