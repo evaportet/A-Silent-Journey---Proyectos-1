@@ -21,18 +21,23 @@ public class knockback : MonoBehaviour
                 hit.AddForce(difference, ForceMode2D.Impulse);
                 if (other.gameObject.CompareTag("enemy")&& other.isTrigger)
                 {
-                    
-                    other.GetComponent<Enemy>().Knock(hit, knockTime, damage);
                     hit.GetComponent<Enemy>().currentState = EnemyState.stagger;
+                    other.GetComponent<Enemy>().Knock(hit, knockTime, damage);
+                    
 
                 }
 
                 //hit.GetComponent<Enemy>().currentState = EnemyState.stagger;
                 if (other.gameObject.CompareTag("Player"))
                 {
+                    if (other.GetComponent<PlayerMovement>().currentState != PlayerState.stagger)
+                    {
+                        
+                        hit.GetComponent<PlayerMovement>().currentState = PlayerState.stagger;
+                        other.GetComponent<PlayerMovement>().Knock(knockTime, damage);
+                    }
                     
-                    other.GetComponent<PlayerMovement>().Knock( knockTime);
-                    hit.GetComponent<PlayerMovement>().currentState = PlayerState.stagger;
+
                 }
                   
                
