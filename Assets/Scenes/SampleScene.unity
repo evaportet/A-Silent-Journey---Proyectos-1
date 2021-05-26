@@ -135,6 +135,8 @@ GameObject:
   - component: {fileID: 40642364}
   - component: {fileID: 40642363}
   - component: {fileID: 40642368}
+  - component: {fileID: 40642369}
+  - component: {fileID: 40642370}
   m_Layer: 0
   m_Name: Orco
   m_TagString: enemy
@@ -155,10 +157,10 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.010494709, y: -1.1649891}
+  m_Offset: {x: -0.014704943, y: -0.84764314}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
+    pivot: {x: 0.5000001, y: 0.3571682}
     oldSize: {x: 4, y: 4}
     newSize: {x: 4, y: 4}
     adaptiveTilingThreshold: 0.5
@@ -166,7 +168,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.6280432, y: 1.5860589}
+  m_Size: {x: 0.85880804, y: 0.4263034}
   m_EdgeRadius: 0
 --- !u!50 &40642364
 Rigidbody2D:
@@ -176,7 +178,7 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 40642362}
-  m_BodyType: 1
+  m_BodyType: 0
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
@@ -186,7 +188,7 @@ Rigidbody2D:
   m_GravityScale: 0
   m_Material: {fileID: 0}
   m_Interpolate: 0
-  m_SleepingMode: 1
+  m_SleepingMode: 0
   m_CollisionDetection: 0
   m_Constraints: 4
 --- !u!95 &40642365
@@ -267,7 +269,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 40642362}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.94, y: -3.12, z: 0}
+  m_LocalPosition: {x: 7.93, y: -3.12, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -289,12 +291,52 @@ MonoBehaviour:
   health: 0
   enemyName: Oliver the Orc
   baseAtack: 2
-  moveSpeed: 3
+  moveSpeed: 1
   target: {fileID: 1469746740}
   chaseRadius: 6
   atackRadius: 1.6
   homePosition: {fileID: 0}
   anim: {fileID: 0}
+--- !u!61 &40642369
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 40642362}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.008309841, y: -0.2240169}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5000001, y: 0.3571682}
+    oldSize: {x: 4, y: 4}
+    newSize: {x: 4, y: 4}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.6409168, y: 1.6784472}
+  m_EdgeRadius: 0
+--- !u!114 &40642370
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 40642362}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbfe1d15b55fbce4ba8663625784ab87, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  thrust: 2
+  knockTime: 0.3
 --- !u!1 &135722952
 GameObject:
   m_ObjectHideFlags: 0
@@ -11875,7 +11917,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.00000035762787, y: -0.9668199}
+  m_Offset: {x: 0.00000035762787, y: -0.8878671}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -11886,7 +11928,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.1445758, y: 2.0663602}
+  m_Size: {x: 1.1445758, y: 1.9084547}
   m_EdgeRadius: 0
 --- !u!1 &965570904
 GameObject:
@@ -59569,7 +59611,7 @@ BoxCollider2D:
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
-  m_UsedByEffector: 0
+  m_UsedByEffector: 1
   m_UsedByComposite: 0
   m_Offset: {x: 0.042187452, y: -0.6644801}
   m_SpriteTilingProperty:
@@ -59745,7 +59787,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1345391901}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8.42, y: -5.54, z: 0}
+  m_LocalPosition: {x: -10.14, y: -3.56, z: 0}
   m_LocalScale: {x: 0.64842826, y: 0.64842826, z: 0.64842826}
   m_Children: []
   m_Father: {fileID: 0}
@@ -59880,7 +59922,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1521783578}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -8.14, y: -3.88, z: 0}
+  m_LocalPosition: {x: -7.72, y: -3.88, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -60623,12 +60665,22 @@ PrefabInstance:
     - target: {fileID: 9037601987118410197, guid: 3f4d2a84745747c43be814ccc360808f,
         type: 3}
       propertyPath: m_Offset.x
-      value: -0.016796961
+      value: -0.016796947
       objectReference: {fileID: 0}
     - target: {fileID: 9037601987118410197, guid: 3f4d2a84745747c43be814ccc360808f,
         type: 3}
       propertyPath: m_Size.x
       value: 0.8591447
+      objectReference: {fileID: 0}
+    - target: {fileID: 9037601987118410197, guid: 3f4d2a84745747c43be814ccc360808f,
+        type: 3}
+      propertyPath: m_Offset.y
+      value: -1.485858
+      objectReference: {fileID: 0}
+    - target: {fileID: 9037601987118410197, guid: 3f4d2a84745747c43be814ccc360808f,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 0.39097488
       objectReference: {fileID: 0}
     - target: {fileID: 9037601987118410198, guid: 3f4d2a84745747c43be814ccc360808f,
         type: 3}
