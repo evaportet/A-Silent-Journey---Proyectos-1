@@ -3565,6 +3565,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3317973457370629986, guid: 0ac912152526c844c81b9b8aa7f26270,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5108884219177737272, guid: 0ac912152526c844c81b9b8aa7f26270,
         type: 3}
       propertyPath: m_Name
@@ -3592,4 +3597,3 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sceneToLoad: SampleScene
   playerPosition: {x: -13.43, y: -1.49}
-  playerStorage: {fileID: 0}
