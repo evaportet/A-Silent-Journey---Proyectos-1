@@ -70555,6 +70555,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 39
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< Updated upstream
+=======
 --- !u!1 &1603828385 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5108884219177737272, guid: 0ac912152526c844c81b9b8aa7f26270,
@@ -70573,9 +70575,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0246922019a17ed4d9589c5975de6850, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneToLoad: 
-  playerPosition: {x: 0, y: 0}
+  sceneToLoad: House
+  playerPosition: {x: 0, y: -3.77}
   playerStorage: {fileID: 11400000, guid: aad11e60d3ab5e54eb27c49f87289e89, type: 2}
+>>>>>>> Stashed changes
 --- !u!1 &1692463052
 GameObject:
   m_ObjectHideFlags: 0

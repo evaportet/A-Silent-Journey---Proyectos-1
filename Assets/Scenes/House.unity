@@ -1460,6 +1460,8 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+<<<<<<< Updated upstream
+=======
     - target: {fileID: 3317973457370629986, guid: 0ac912152526c844c81b9b8aa7f26270,
         type: 3}
       propertyPath: m_Enabled
@@ -1470,6 +1472,17 @@ PrefabInstance:
       propertyPath: m_IsTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3317973457370629986, guid: 0ac912152526c844c81b9b8aa7f26270,
+        type: 3}
+      propertyPath: m_Offset.y
+      value: -0.106826544
+      objectReference: {fileID: 0}
+    - target: {fileID: 3317973457370629986, guid: 0ac912152526c844c81b9b8aa7f26270,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 0.97946787
+      objectReference: {fileID: 0}
+>>>>>>> Stashed changes
     - target: {fileID: 5108884219177737272, guid: 0ac912152526c844c81b9b8aa7f26270,
         type: 3}
       propertyPath: m_Name
@@ -1496,8 +1509,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneToLoad: SampleScene
-  playerPosition: {x: -13.43, y: -1.49}
-  playerStorage: {fileID: 0}
+  playerPosition: {x: 12.44837, y: -5.777}
+  playerStorage: {fileID: 11400000, guid: aad11e60d3ab5e54eb27c49f87289e89, type: 2}
 --- !u!1001 &1356541111
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1581,6 +1594,11 @@ PrefabInstance:
     - target: {fileID: 6976319221897975025, guid: e78b731efcd1a6e48b8da6f1fbd7d0f2,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6976319221897975028, guid: e78b731efcd1a6e48b8da6f1fbd7d0f2,
+        type: 3}
+      propertyPath: m_IsTrigger
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []

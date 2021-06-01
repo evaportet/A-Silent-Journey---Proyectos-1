@@ -28,7 +28,10 @@ public class PlayerMovement : MonoBehaviour
     {
         animator = GetComponent<Animator>();
         myRigidbody = GetComponent<Rigidbody2D>();
-        transform.position = startingPosition.initalValue;
+<<<<<<< Updated upstream
+=======
+       transform.position = startingPosition.initalValue;
+>>>>>>> Stashed changes
     }
 
     // Update is called once per frame
