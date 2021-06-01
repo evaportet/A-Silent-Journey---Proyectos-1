@@ -141,7 +141,7 @@ PrefabInstance:
     - target: {fileID: 6976319221897975025, guid: e78b731efcd1a6e48b8da6f1fbd7d0f2,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -4.08
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6976319221897975025, guid: e78b731efcd1a6e48b8da6f1fbd7d0f2,
         type: 3}
@@ -271,7 +271,7 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 231139410}
-  m_BodyType: 2
+  m_BodyType: 0
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
@@ -565,7 +565,7 @@ PrefabInstance:
     - target: {fileID: 1598723381142840429, guid: 0ac912152526c844c81b9b8aa7f26270,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -83.00391
       objectReference: {fileID: 0}
     - target: {fileID: 1598723381142840429, guid: 0ac912152526c844c81b9b8aa7f26270,
         type: 3}
@@ -610,7 +610,7 @@ PrefabInstance:
     - target: {fileID: 5108884219177737272, guid: 0ac912152526c844c81b9b8aa7f26270,
         type: 3}
       propertyPath: m_Name
-      value: scene transition Sample
+      value: scene transition
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0ac912152526c844c81b9b8aa7f26270, type: 3}
@@ -634,6 +634,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sceneToLoad: SampleScene
   playerPosition: {x: -13.43, y: -1.49}
+  playerStorage: {fileID: 0}
 --- !u!1 &946715252
 GameObject:
   m_ObjectHideFlags: 0
@@ -722,24 +723,6 @@ Tilemap:
   m_GameObject: {fileID: 946715252}
   m_Enabled: 1
   m_Tiles:
-  - first: {x: -1, y: -6, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 32
-      m_TileSpriteIndex: 32
-      m_TileMatrixIndex: 0
-      m_TileColorIndex: 0
-      m_TileObjectToInstantiateIndex: 65535
-      m_AllTileFlags: 1073741825
-  - first: {x: 0, y: -6, z: 0}
-    second:
-      serializedVersion: 2
-      m_TileIndex: 32
-      m_TileSpriteIndex: 32
-      m_TileMatrixIndex: 0
-      m_TileColorIndex: 0
-      m_TileObjectToInstantiateIndex: 65535
-      m_AllTileFlags: 1073741825
   - first: {x: -7, y: -5, z: 0}
     second:
       serializedVersion: 2
@@ -797,8 +780,8 @@ Tilemap:
   - first: {x: -1, y: -5, z: 0}
     second:
       serializedVersion: 2
-      m_TileIndex: 15
-      m_TileSpriteIndex: 15
+      m_TileIndex: 32
+      m_TileSpriteIndex: 32
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -806,8 +789,8 @@ Tilemap:
   - first: {x: 0, y: -5, z: 0}
     second:
       serializedVersion: 2
-      m_TileIndex: 15
-      m_TileSpriteIndex: 15
+      m_TileIndex: 32
+      m_TileSpriteIndex: 32
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_TileObjectToInstantiateIndex: 65535
@@ -2005,7 +1988,7 @@ Tilemap:
     m_Data: {fileID: 11400000, guid: 5b0b6bdb3b537cf44b8bad4eba7a4c3e, type: 2}
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: 6463cda7d9deb6046bffea141d56dd09, type: 2}
-  - m_RefCount: 4
+  - m_RefCount: 2
     m_Data: {fileID: 11400000, guid: 378c9b7123083a1469ff143caa2abce3, type: 2}
   - m_RefCount: 2
     m_Data: {fileID: 11400000, guid: 24aed9093cac65046a6572d42b718088, type: 2}
@@ -2114,7 +2097,7 @@ Tilemap:
   - m_RefCount: 1
     m_Data: {fileID: -6705671385285346568, guid: 3ac04c39fbd114c45896a9457e618ce7,
       type: 3}
-  - m_RefCount: 4
+  - m_RefCount: 2
     m_Data: {fileID: 3411474951321130408, guid: 3ac04c39fbd114c45896a9457e618ce7,
       type: 3}
   - m_RefCount: 2
@@ -2211,7 +2194,7 @@ Tilemap:
     m_Data: {fileID: -6684303520369805573, guid: 3ac04c39fbd114c45896a9457e618ce7,
       type: 3}
   m_TileMatrixArray:
-  - m_RefCount: 139
+  - m_RefCount: 137
     m_Data:
       e00: 1
       e01: 0
@@ -2230,7 +2213,7 @@ Tilemap:
       e32: 0
       e33: 1
   m_TileColorArray:
-  - m_RefCount: 139
+  - m_RefCount: 137
     m_Data: {r: 1, g: 1, b: 1, a: 1}
   m_TileObjectToInstantiateArray: []
   m_AnimationFrameRate: 1
@@ -2385,7 +2368,7 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1323883371}
-  m_BodyType: 2
+  m_BodyType: 0
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
@@ -2509,6 +2492,24 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       m_AllTileFlags: 1073741825
   - first: {x: -2, y: -6, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 33
+      m_TileSpriteIndex: 33
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      m_AllTileFlags: 1073741825
+  - first: {x: -1, y: -6, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 33
+      m_TileSpriteIndex: 33
+      m_TileMatrixIndex: 0
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      m_AllTileFlags: 1073741825
+  - first: {x: 0, y: -6, z: 0}
     second:
       serializedVersion: 2
       m_TileIndex: 33
@@ -3233,7 +3234,7 @@ Tilemap:
     m_Data: {fileID: 11400000, guid: 3f67283be4e25ee4c8f162e447bd664c, type: 2}
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: b03081e3e805bbd48b7abdd137534383, type: 2}
-  - m_RefCount: 15
+  - m_RefCount: 17
     m_Data: {fileID: 11400000, guid: ccab3ffc145f8e74cb645918a2bd2008, type: 2}
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: 7d35d3a6da8a61b47873aa392ffe139c, type: 2}
@@ -3333,7 +3334,7 @@ Tilemap:
   - m_RefCount: 1
     m_Data: {fileID: 4241448057504268673, guid: 3ac04c39fbd114c45896a9457e618ce7,
       type: 3}
-  - m_RefCount: 15
+  - m_RefCount: 17
     m_Data: {fileID: -3497959148370059021, guid: 3ac04c39fbd114c45896a9457e618ce7,
       type: 3}
   - m_RefCount: 1
@@ -3351,7 +3352,7 @@ Tilemap:
     m_Data: {fileID: 4632450837527124749, guid: 3ac04c39fbd114c45896a9457e618ce7,
       type: 3}
   m_TileMatrixArray:
-  - m_RefCount: 79
+  - m_RefCount: 81
     m_Data:
       e00: 1
       e01: 0
@@ -3370,7 +3371,7 @@ Tilemap:
       e32: 0
       e33: 1
   m_TileColorArray:
-  - m_RefCount: 79
+  - m_RefCount: 81
     m_Data: {r: 1, g: 1, b: 1, a: 1}
   m_TileObjectToInstantiateArray: []
   m_AnimationFrameRate: 1
@@ -3477,7 +3478,7 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1412277344}
-  m_BodyType: 2
+  m_BodyType: 0
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
