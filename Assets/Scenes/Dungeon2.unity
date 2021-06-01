@@ -187,7 +187,7 @@ PrefabInstance:
     - target: {fileID: 6976319221897975025, guid: e78b731efcd1a6e48b8da6f1fbd7d0f2,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: -3.95
       objectReference: {fileID: 0}
     - target: {fileID: 6976319221897975025, guid: e78b731efcd1a6e48b8da6f1fbd7d0f2,
         type: 3}
@@ -2382,12 +2382,12 @@ PrefabInstance:
     - target: {fileID: 1598723381142840429, guid: 0ac912152526c844c81b9b8aa7f26270,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -5.97
+      value: -5.8
       objectReference: {fileID: 0}
     - target: {fileID: 1598723381142840429, guid: 0ac912152526c844c81b9b8aa7f26270,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -83.00391
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1598723381142840429, guid: 0ac912152526c844c81b9b8aa7f26270,
         type: 3}
@@ -2432,7 +2432,7 @@ PrefabInstance:
     - target: {fileID: 5108884219177737272, guid: 0ac912152526c844c81b9b8aa7f26270,
         type: 3}
       propertyPath: m_Name
-      value: scene transition
+      value: scene transition Sample
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0ac912152526c844c81b9b8aa7f26270, type: 3}
@@ -2456,7 +2456,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   sceneToLoad: SampleScene
   playerPosition: {x: -13.43, y: -1.49}
-  playerStorage: {fileID: 0}
 --- !u!1 &1763607115
 GameObject:
   m_ObjectHideFlags: 0
@@ -2538,7 +2537,7 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1763607115}
-  m_BodyType: 0
+  m_BodyType: 2
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
@@ -3701,7 +3700,7 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1793931844}
-  m_BodyType: 0
+  m_BodyType: 2
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0

@@ -5,19 +5,16 @@ using UnityEngine.SceneManagement;
 
 public class SceneTransition : MonoBehaviour
 {
-    //variables
     public string sceneToLoad;
     public Vector2 playerPosition;
-    //public VectorValue playerStorage; 
-
+    public VectorValue playerStorage;
 
     public void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.CompareTag("Player") && !other.isTrigger)
+        if (other.CompareTag("Player") && other.isTrigger)
         {
-            //playerStorage.initialValue = playerPosition;
-            SceneManager.LoadScene("Dungeon1");
-
+            playerStorage.initalValue = playerPosition;
+            SceneManager.LoadScene(sceneToLoad);
         }
     }
 }
