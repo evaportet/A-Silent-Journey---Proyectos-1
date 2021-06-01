@@ -27,7 +27,6 @@ public class PlayerMovement : MonoBehaviour
     {
         animator = GetComponent<Animator>();
         myRigidbody = GetComponent<Rigidbody2D>();
-       transform.position = startingPosition.initalValue;
     }
 
     // Update is called once per frame
