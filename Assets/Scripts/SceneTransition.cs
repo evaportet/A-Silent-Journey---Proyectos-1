@@ -5,19 +5,77 @@ using UnityEngine.SceneManagement;
 
 public class SceneTransition : MonoBehaviour
 {
-    //variables
-    public string sceneToLoad;
+    public Transform target;
     public Vector2 playerPosition;
-    //public VectorValue playerStorage; 
+    public VectorValue playerStorage;
+    
 
+    //public Collider2D other;
 
     public void OnTriggerEnter2D(Collider2D other)
     {
         if (other.CompareTag("Player") && !other.isTrigger)
         {
-            //playerStorage.initialValue = playerPosition;
-            SceneManager.LoadScene("Dungeon1");
+            playerStorage.initialValue = playerPosition;
+            if (SceneManager.GetActiveScene() == SceneManager.GetSceneByName("SampleScene"))
+            {
+                if (target.transform.position.x == 12.5f)//(other.transform.position.x > 10 && other.transform.position.x < 14)
+                {
+                    SceneManager.LoadScene("House");
 
+                }
+                else if (target.transform.position.x == -15.15f)//(other.transform.position.x > 16 && other.transform.position.x < -14)
+                {
+                    SceneManager.LoadScene("Dungeon1");
+                }
+            }
+            else
+            {
+                SceneManager.LoadScene("SampleScene");
+            }
         }
+
+        
+        //StartCoroutine(WaitTime()); 
     }
+    private IEnumerator WaitTime()
+    {          
+
+         yield return new WaitForSeconds(2);        
+
+    }
+
+    //public void OnTriggerEnter2D(Collider2D other)
+    //{
+    //    do {
+    //        if (other.CompareTag("Player") && !other.isTrigger)
+    //        {
+    //            if (SceneManager.GetActiveScene() == SceneManager.GetSceneByName("SampleScene"))
+    //            {
+    //                if (other.transform.position.x > 10 && other.transform.position.x < 14)
+    //                {
+    //                    SceneManager.LoadScene("House");
+
+    //                }
+    //                if (other.transform.position.x > 16 && other.transform.position.x < -14)
+    //                {
+    //                    SceneManager.LoadScene("Dungeon1");
+    //                }
+    //            }
+    //            else
+    //            {
+    //                SceneManager.LoadScene("SampleScene");
+    //            }
+    //        }
+
+    //        playerStorage.initialValue = playerPosition;
+    //        WaitTime();
+    //    } while (other.GetComponent<PlayerMovement>().);
+            
+
+        
+        
+    //}
+
+        
 }
