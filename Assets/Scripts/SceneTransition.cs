@@ -16,7 +16,7 @@ public class SceneTransition : MonoBehaviour
     {
         if (other.CompareTag("Player") && !other.isTrigger)
         {
-            playerStorage.initialValue = playerPosition;
+            //playerStorage.initialValue = playerPosition;
             if (SceneManager.GetActiveScene() == SceneManager.GetSceneByName("SampleScene"))
             {
                 if (target.transform.position.x == 12.5f)//(other.transform.position.x > 10 && other.transform.position.x < 14)
@@ -28,11 +28,16 @@ public class SceneTransition : MonoBehaviour
                 {
                     SceneManager.LoadScene("Dungeon1");
                 }
+                else if(target.transform.position.x == 6.74f)
+                {
+                    SceneManager.LoadScene("Dungeon2");
+                }
             }
             else
             {
                 SceneManager.LoadScene("SampleScene");
             }
+            playerStorage.initialValue = playerPosition;
         }
 
         
