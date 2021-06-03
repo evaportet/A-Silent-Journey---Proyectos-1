@@ -32,6 +32,10 @@ public class SceneTransition : MonoBehaviour
                 {
                     SceneManager.LoadScene("Dungeon2");
                 }
+                else if (target.transform.position.x == -44.14f)
+                {
+                    SceneManager.LoadScene("Dungeon3");
+                }
             }
             else
             {
