@@ -36,6 +36,10 @@ public class SceneTransition : MonoBehaviour
                 {
                     SceneManager.LoadScene("Dungeon3");
                 }
+                else if (target.transform.position.x == -60.79f || target.transform.position.x == -67.43f)
+                {
+                    SceneManager.LoadScene("Cueva");
+                }
             }
             else
             {
