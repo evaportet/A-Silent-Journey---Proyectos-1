@@ -71684,12 +71684,12 @@ PrefabInstance:
     - target: {fileID: 2155208311398037535, guid: 6a59896d12aa20a489e6a5c01caa16d0,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 11.64
+      value: 12.04
       objectReference: {fileID: 0}
     - target: {fileID: 2155208311398037535, guid: 6a59896d12aa20a489e6a5c01caa16d0,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 6.02
+      value: 5.85
       objectReference: {fileID: 0}
     - target: {fileID: 2155208311398037535, guid: 6a59896d12aa20a489e6a5c01caa16d0,
         type: 3}
