@@ -43,7 +43,7 @@ SpriteAtlas:
     variantMultiplier: 1
     packables:
     - {fileID: 102900000, guid: 4e8b44eefcbd3ac4f9ee875252421e86, type: 3}
-    totalSpriteSurfaceArea: 17136152
+    totalSpriteSurfaceArea: 18798167
     bindAsDefault: 1
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
@@ -1053,6 +1053,7 @@ SpriteAtlas:
   - {fileID: 536419509007563539, guid: 4072b3f32db17104c99ffb25d78f5f67, type: 3}
   - {fileID: 1036803682579554421, guid: 4072b3f32db17104c99ffb25d78f5f67, type: 3}
   - {fileID: 5559694988392259305, guid: 4072b3f32db17104c99ffb25d78f5f67, type: 3}
+  - {fileID: 21300000, guid: c778000475cf5aa478cb5fbd87fc0072, type: 3}
   - {fileID: 1870113738697113790, guid: 18ff3344e6cbc8a40a920032217704fb, type: 3}
   - {fileID: -8124842742184827892, guid: 18ff3344e6cbc8a40a920032217704fb, type: 3}
   - {fileID: 1436389269998638158, guid: 18ff3344e6cbc8a40a920032217704fb, type: 3}
@@ -5769,6 +5770,7 @@ SpriteAtlas:
   - Inner_38
   - Inner_42
   - Inner_43
+  - menu_background
   - espada_210
   - espada_222
   - espada_223

@@ -9,11 +9,11 @@ EditorBuildSettings:
     path: Assets/Scenes/Main_Menu.unity
     guid: 3e7e8121800a32c4788163fcb54762c9
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 1
     path: Assets/Scenes/House.unity
     guid: d99b1a8e34c2a4344bd08a5f0283ffef
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/Scenes/Dungeon1.unity
     guid: d8407798a5e8f114fb19ff182ed793ce
@@ -26,10 +26,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Cueva.unity
     guid: 48ae8a6ef9c58684fb16a83de7a1bfeb
-  - enabled: 1
-    path: Assets/Scenes/Dungeon4_1.unity
-    guid: bb7280ab6eefc544a83be8d87d3bebeb
-  - enabled: 1
-    path: Assets/Scenes/Dungeon5.unity
-    guid: 550b885e10a071447b5196f1d0b0847b
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   m_configObjects: {}
