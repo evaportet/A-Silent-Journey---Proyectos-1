@@ -3,18 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Sign : MonoBehaviour
+public class Sign : Interactable
 {
-    public Transform Target;
-    public SignalSender contextOn;
-    public SignalSender contextOff;
-    public GameObject dialogBox;
-    
-    public Text dialogText;
-    
-    public string dialog;
-    
-    public bool playerInRange;
+    public Transform Target;    
+    public GameObject dialogBox;    
+    public Text dialogText;    
+    public string dialog;        
 
     // Start is called before the first frame update
     void Start()
@@ -47,16 +41,6 @@ public class Sign : MonoBehaviour
             }
         }
     }
-
-    private void OnTriggerEnter2D(Collider2D other)
-    {
-        if (other.CompareTag("Player")) 
-        {
-            playerInRange = true;
-            contextOn.Raise(); 
-            
-        }
-    }
     private void OnTriggerExit2D(Collider2D other)
     {
         if (other.CompareTag("Player"))
@@ -66,8 +50,10 @@ public class Sign : MonoBehaviour
             dialogBox.SetActive(false);
             //dialogText.text = dialog;                    
             contextOff.Raise();
-            
+
             //dialogBox.SetActive(false);
         }
     }
+
+
 }
