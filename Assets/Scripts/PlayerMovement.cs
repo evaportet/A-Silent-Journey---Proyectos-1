@@ -24,6 +24,10 @@ public class PlayerMovement : MonoBehaviour
     public VectorValue startingPosition;
     //public FloatValue initialHealth;
 
+    //muerte
+    public UnityEngine.UI.Image Oscuro;
+    float valorAlfaDeseado;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -51,7 +55,10 @@ public class PlayerMovement : MonoBehaviour
         {
             UpdateAnimationAndMove();
         }
-        
+
+        //manejar tela negra
+        float valorAlfa = Mathf.Lerp(Oscuro.color.a, valorAlfaDeseado, 0.04f);
+        Oscuro.color = new Color(0, 0, 0, valorAlfa);
     }
         
     private IEnumerator AttackCo()
@@ -99,7 +106,10 @@ public class PlayerMovement : MonoBehaviour
         else
         {
             
-            this.gameObject.SetActive(false);
+            //this.gameObject.SetActive(false);
+
+            //animacion muerte
+            animator.SetTrigger("death");
             
         }
         playerHealthSignal.Raise();
@@ -119,5 +129,9 @@ public class PlayerMovement : MonoBehaviour
 
         }
 
+    }
+
+    public void FadeOut() {
+        valorAlfaDeseado = 1;
     }
 }
