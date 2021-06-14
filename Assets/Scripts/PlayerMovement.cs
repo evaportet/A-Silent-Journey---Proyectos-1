@@ -83,12 +83,14 @@ public class PlayerMovement : MonoBehaviour
     }
     public void RaiseItem()
     {
-        if(playerInventory.currentItem != null)
-        {
+        //if (playerInventory.currentItem != null)
+        //{
             if (currentState != PlayerState.interact)
             {
+
                 animator.SetBool("Receive item", true);
                 currentState = PlayerState.interact;
+                
                 receivedItemSprite.sprite = playerInventory.currentItem.itemSprite;
             }
             else
@@ -98,11 +100,11 @@ public class PlayerMovement : MonoBehaviour
                 receivedItemSprite.sprite = null;
                 playerInventory.currentItem = null;
             }
-        }
-       
-        
+        //}
+
+
     }
-    void UpdateAnimationAndMove ()
+        void UpdateAnimationAndMove ()
     {
         if (change != Vector3.zero)
         {

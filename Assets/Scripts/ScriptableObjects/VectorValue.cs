@@ -11,8 +11,8 @@ public class VectorValue : ScriptableObject, ISerializationCallbackReceiver
     public double RuntimeValue;
     public void OnAfterDeserialize()
     {
-        initialValue.x = -91.44F;
-        initialValue.y = 22.66F;
+        initialValue.x = 0F;
+        initialValue.y = -3F;
     }
     public void OnBeforeSerialize() {
         

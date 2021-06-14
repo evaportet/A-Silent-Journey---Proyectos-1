@@ -14,17 +14,10 @@ public class TreasureChest : Interactable
     private Animator anim;
 
     // Start is called before the first frame update
-    public void OnDisable()
-    {
-        anim = GetComponent<Animator>();
-    }
-    public void OnEnable()
-    {
-        isOpen = false;
-    }
+    
     private void Start()
     {
-        isOpen = IntToBool(PlayerPrefs.GetInt("open"));
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -33,8 +26,11 @@ public class TreasureChest : Interactable
         if (Input.GetKeyDown(KeyCode.B) && playerInRange)
         {
             
+
             if (!isOpen)
             {
+
+                
                 if (dialogBox.activeInHierarchy)
                 {
                     //if(Target.position.x == -13.37F)
@@ -42,58 +38,87 @@ public class TreasureChest : Interactable
                 }
                 else
                 {
+                    
                     // Dialog window on
                     dialogBox.SetActive(true);
+                    
+
                 }
-                OpenChest();
+                // raise the context clue
                 
+                OpenChest();          
+
             }
             else
-            {
-                dialogBox.SetActive(false);
+            {            
+                
                 ChestAlreadyOpen();
+                
             }
             
 
         }
         else if (!playerInRange)
         {
+            contextOff.Raise();
+
             if (dialogBox.activeInHierarchy)
             {
                 //if(Target.position.x == -13.37F)
                 dialogBox.SetActive(false);
             }
+            
+            
         }
     }
     public void OpenChest()
     {
+        isOpen = true;
         // set chest to open       
         anim.SetBool("opened", true);
-        isOpen = true;
-        // dialog text = contents text
-        dialogText.text = contents.itemDescription;
-        // add contents to the inventory
         playerInventory.AddItem(contents);
         playerInventory.currentItem = contents;
         //Raise the signal to the player to animate
-        raiseItem.Raise();        
-        // raise the context clue
-        contextOn.Raise();
+        raiseItem.Raise();
+
+        //contextOff.Raise();
+
         
         
+        // dialog text = contents text
+       
+        dialogText.text = contents.itemDescription;
+        // add contents to the inventory
+        
+        playerInRange = false;
+
+
+
+
+
+
     }
 
     public void ChestAlreadyOpen()
     {
-        //raise the signal to the player to stop animating
-        raiseItem.Raise();
-        //Dialog off
+
+
         dialogBox.SetActive(false);
-           
-            
-            
+
+
+        playerInRange = false;
+        raiseItem.Raise();
         
-       
+        //raise the signal to the player to stop animating
+
+        //Dialog off
+        
+        
+
+
+
+
+
     }
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -103,18 +128,29 @@ public class TreasureChest : Interactable
             contextOn.Raise();
 
         }
+        if(other.CompareTag("Player") && isOpen)
+        {
+            playerInRange = false;
+        }
+        
+
+
     }
     private void OnTriggerExit2D(Collider2D other)
     {
-        if (other.CompareTag("Player")  && isOpen)
-        {
-            playerInRange = false;
-            //dialogBox1.SetActive(false);
+        playerInRange = false;
+        contextOff.Raise();
+        
+        //if (other.CompareTag("Player")  && isOpen)
+        //{
+        //    playerInRange = false;
+        //    //dialogBox1.SetActive(false);
 
-            //dialogText.text = dialog;                    
-            contextOff.Raise();
+        //    //dialogText.text = dialog;                    
+        //    contextOff.Raise();
 
-            //dialogBox.SetActive(false);
-        }
+        //    //dialogBox.SetActive(false);
+        //}
     }
+   
 }

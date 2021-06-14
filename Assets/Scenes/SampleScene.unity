@@ -69426,7 +69426,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -0.000015258789}
+  m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: -0.000030517578}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1311578949
@@ -71730,7 +71730,7 @@ RectTransform:
   m_Children:
   - {fileID: 1127253405}
   m_Father: {fileID: 1346090456}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -72540,6 +72540,17 @@ PrefabInstance:
       propertyPath: Oscuro
       value: 
       objectReference: {fileID: 1311578949}
+    - target: {fileID: 7441124458371313997, guid: 590fbc4910c042240aa096617ed075a8,
+        type: 3}
+      propertyPath: playerInventory
+      value: 
+      objectReference: {fileID: 11400000, guid: 5ae6bec0becc53647a5f023834fdd5bb,
+        type: 2}
+    - target: {fileID: 7441124458371313997, guid: 590fbc4910c042240aa096617ed075a8,
+        type: 3}
+      propertyPath: receivedItemSprite
+      value: 
+      objectReference: {fileID: 1253977987}
     - target: {fileID: 7441124458925328888, guid: 590fbc4910c042240aa096617ed075a8,
         type: 3}
       propertyPath: m_LocalPosition.x
