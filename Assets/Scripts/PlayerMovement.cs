@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public enum PlayerState
 {
@@ -64,8 +65,14 @@ public class PlayerMovement : MonoBehaviour
         }
 
         //manejar tela negra
-        float valorAlfa = Mathf.Lerp(Oscuro.color.a, valorAlfaDeseado, 0.04f);
+        float valorAlfa = Mathf.Lerp(Oscuro.color.a, valorAlfaDeseado, 0.02f);
         Oscuro.color = new Color(0, 0, 0, valorAlfa);
+
+        //reiniciar escena (muerte)
+        if (valorAlfa > 0.9)
+        {
+            SceneManager.LoadScene("Scenes/House");
+        }
     }
         
     private IEnumerator AttackCo()
@@ -79,7 +86,7 @@ public class PlayerMovement : MonoBehaviour
         {
             currentState = PlayerState.walk;
         }
-        
+      
     }
     public void RaiseItem()
     {
@@ -101,7 +108,6 @@ public class PlayerMovement : MonoBehaviour
                 playerInventory.currentItem = null;
             }
         //}
-
 
     }
         void UpdateAnimationAndMove ()
@@ -138,12 +144,12 @@ public class PlayerMovement : MonoBehaviour
 
         }
         else
-        {
-            
+        {  
             //this.gameObject.SetActive(false);
 
             //animacion muerte
             animator.SetTrigger("death");
+            valorAlfaDeseado = 1;
             
         }
         playerHealthSignal.Raise();
@@ -162,7 +168,6 @@ public class PlayerMovement : MonoBehaviour
             //myRigidbody.velocity = Vector2.zero;
 
         }
-
     }
 
     public void FadeOut() {
