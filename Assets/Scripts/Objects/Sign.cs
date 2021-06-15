@@ -54,6 +54,7 @@ public class Sign : Interactable
             //dialogBox.SetActive(false);
         }
     }
+    
 
 
 }

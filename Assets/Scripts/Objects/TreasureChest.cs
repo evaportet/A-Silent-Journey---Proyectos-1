@@ -12,6 +12,7 @@ public class TreasureChest : Interactable
     public GameObject dialogBox;
     public Text dialogText;
     private Animator anim;
+    public Transform target;
 
     // Start is called before the first frame update
     
@@ -60,7 +61,11 @@ public class TreasureChest : Interactable
         }
         else if (!playerInRange)
         {
-            contextOff.Raise();
+            if(transform.position.x == -91.49F && target.position.x <-90.42F && target.position.y > 21.8F)
+            {
+                contextOff.Raise();
+            }
+            
 
             if (dialogBox.activeInHierarchy)
             {
@@ -136,21 +141,21 @@ public class TreasureChest : Interactable
 
 
     }
-    private void OnTriggerExit2D(Collider2D other)
-    {
-        playerInRange = false;
-        contextOff.Raise();
+    //private voidOnTriggerExit2D(Collider2D other)
+    //{
+    //    playerInRange = false;
+    //    //contextOff.Raise();
         
-        //if (other.CompareTag("Player")  && isOpen)
-        //{
-        //    playerInRange = false;
-        //    //dialogBox1.SetActive(false);
+    //    //if (other.CompareTag("Player")  && isOpen)
+    //    //{
+    //    //    playerInRange = false;
+    //    //    //dialogBox1.SetActive(false);
 
-        //    //dialogText.text = dialog;                    
-        //    contextOff.Raise();
+    //    //    //dialogText.text = dialog;                    
+    //    //    contextOff.Raise();
 
-        //    //dialogBox.SetActive(false);
-        //}
-    }
+    //    //    //dialogBox.SetActive(false);
+    //    //}
+    //}
    
 }
