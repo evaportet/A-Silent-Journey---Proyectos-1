@@ -144,13 +144,20 @@ public class PlayerMovement : MonoBehaviour
 
         }
         else
-        {  
+        {
             //this.gameObject.SetActive(false);
 
             //animacion muerte
-            animator.SetTrigger("death");
+            //currentState = PlayerState.idle;
+           
+
+            animator.SetTrigger("death");            
             valorAlfaDeseado = 1;
+            currentHealth.RuntimeValue = currentHealth.initialValue;
+            startingPosition.initialValue.x = 0F;
+            startingPosition.initialValue.y = -3F;
             
+
         }
         playerHealthSignal.Raise();
     }
@@ -168,9 +175,11 @@ public class PlayerMovement : MonoBehaviour
             //myRigidbody.velocity = Vector2.zero;
 
         }
+        
     }
 
     public void FadeOut() {
         valorAlfaDeseado = 1;
     }
+    
 }
