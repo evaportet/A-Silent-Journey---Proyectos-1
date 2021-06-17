@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class TreasureChest : Interactable
 {
@@ -13,25 +14,56 @@ public class TreasureChest : Interactable
     public Text dialogText;
     private Animator anim;
     public Transform target;
+    public ChestState1 myChest1;
+    
+    //public bool nextIsOpen = false;
 
     // Start is called before the first frame update
+    //void OnDisable()
+    //{
+    //    //PlayerPrefs.SetInt("openari", BoolToInt( isOpen));
+        
+    //}
     
+
+    void OnEnable()
+    {
+
+        anim = GetComponent<Animator>();
+
+        isOpen = myChest1.initialState;
+
+        if (isOpen)
+        {
+            anim.SetBool("directOpen", true);
+        }
+        else
+        {
+            anim.SetBool("directOpen", false);
+        }
+
+
+    }
     private void Start()
     {
-        anim = GetComponent<Animator>();
+        
+        
+        
+        
     }
 
     // Update is called once per frame
     void Update()
     {
+        
         if (Input.GetKeyDown(KeyCode.B) && playerInRange)
         {
             
 
             if (!isOpen)
             {
+               
 
-                
                 if (dialogBox.activeInHierarchy)
                 {
                     //if(Target.position.x == -13.37F)
@@ -51,8 +83,8 @@ public class TreasureChest : Interactable
 
             }
             else
-            {            
-                
+            {
+                //spriteRenderer.sprite = newSprite;
                 ChestAlreadyOpen();
                 
             }
@@ -75,6 +107,7 @@ public class TreasureChest : Interactable
             
             
         }
+        myChest1.initialState = isOpen;
     }
     public void OpenChest()
     {
@@ -137,15 +170,38 @@ public class TreasureChest : Interactable
         {
             playerInRange = false;
         }
-        
+
 
 
     }
+    //public void ChestStateOnScene()
+    //{
+    //    if (SceneManager.GetActiveScene() == SceneManager.GetSceneByName("SampleScene"))
+    //    {
+
+    //    }
+    //}
+    int BoolToInt(bool val)
+    {
+        if (val)
+            return 1;
+        else
+            return 0;
+    }
+
+    bool IntToBool(int val)
+    {
+        if (val != 0)
+            return true;
+        else
+            return false;
+    }
+
     //private voidOnTriggerExit2D(Collider2D other)
     //{
     //    playerInRange = false;
     //    //contextOff.Raise();
-        
+
     //    //if (other.CompareTag("Player")  && isOpen)
     //    //{
     //    //    playerInRange = false;
@@ -157,5 +213,5 @@ public class TreasureChest : Interactable
     //    //    //dialogBox.SetActive(false);
     //    //}
     //}
-   
+
 }
