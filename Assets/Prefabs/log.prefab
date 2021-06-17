@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &2155208311398037543
+--- !u!1 &6128566941811840618
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,42 +8,42 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 2155208311398037535}
-  - component: {fileID: 2155208311398037534}
-  - component: {fileID: 2155208311398037529}
-  - component: {fileID: 2155208311398037528}
-  - component: {fileID: 2155208311398037531}
-  - component: {fileID: 2155208311398037530}
-  - component: {fileID: 2155208311398037541}
-  - component: {fileID: 2155208311398037540}
+  - component: {fileID: 6128566941811840621}
+  - component: {fileID: 6128566941811840620}
+  - component: {fileID: 6128566941811840619}
+  - component: {fileID: 6128566941811840623}
+  - component: {fileID: 6128566941811840622}
+  - component: {fileID: 6128566941811840592}
+  - component: {fileID: 6128566941811840593}
+  - component: {fileID: 6128566941811840594}
   m_Layer: 0
-  m_Name: esqueleto
+  m_Name: log
   m_TagString: enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &2155208311398037535
+--- !u!4 &6128566941811840621
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2155208311398037543}
+  m_GameObject: {fileID: 6128566941811840618}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 11.64, y: 6.02, z: 0}
-  m_LocalScale: {x: 0.64842826, y: 0.64842826, z: 0.64842826}
+  m_LocalPosition: {x: -7.34, y: 3.41, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!212 &2155208311398037534
+--- !u!212 &6128566941811840620
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2155208311398037543}
+  m_GameObject: {fileID: 6128566941811840618}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -76,29 +76,29 @@ SpriteRenderer:
   m_SortingLayerID: 1346937017
   m_SortingLayer: 2
   m_SortingOrder: 0
-  m_Sprite: {fileID: 4103251036627630117, guid: 46d772936ec0a2d49baf7ac37eba5bfa,
+  m_Sprite: {fileID: -5034061168752090764, guid: 8d9a248ce0e13be49ac638f78b34e4ea,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 4, y: 4}
+  m_Size: {x: 2, y: 2}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!95 &2155208311398037529
+--- !u!95 &6128566941811840619
 Animator:
   serializedVersion: 3
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2155208311398037543}
+  m_GameObject: {fileID: 6128566941811840618}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 00e05e238449d454c90eb69952c1adc2, type: 2}
+  m_Controller: {fileID: 9100000, guid: 05ee5210029821242ab3d08ec0b1e7d8, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -107,54 +107,14 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &2155208311398037528
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2155208311398037543}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6b6291c6630607741b4ba393f90bb8e7, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  currentState: 0
-  maxHealth: {fileID: 11400000, guid: 12a4203c99a518146b191c763f06f1b0, type: 2}
-  health: 3
-  enemyName: Sam the Skeleton
-  baseAtack: 2
-  moveSpeed: 2
-  deathEffect: {fileID: 8372972169421058453, guid: ab5857e561b470f4c894a1d19891e504,
-    type: 3}
-  target: {fileID: 0}
-  chaseRadius: 6
-  atackRadius: 0.5
-  homePosition: {fileID: 0}
-  anim: {fileID: 0}
---- !u!114 &2155208311398037531
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2155208311398037543}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bbfe1d15b55fbce4ba8663625784ab87, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  thrust: 4.5
-  knockTime: 0.3
-  damage: 1.5
---- !u!50 &2155208311398037530
+--- !u!50 &6128566941811840623
 Rigidbody2D:
   serializedVersion: 4
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2155208311398037543}
+  m_GameObject: {fileID: 6128566941811840618}
   m_BodyType: 0
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
@@ -168,55 +128,95 @@ Rigidbody2D:
   m_SleepingMode: 0
   m_CollisionDetection: 0
   m_Constraints: 4
---- !u!61 &2155208311398037541
+--- !u!61 &6128566941811840622
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2155208311398037543}
+  m_GameObject: {fileID: 6128566941811840618}
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.03163995, y: -1.3606026}
+  m_Offset: {x: -0.011725217, y: -0.48073363}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 4, y: 4}
-    newSize: {x: 4, y: 4}
+    oldSize: {x: 2, y: 2}
+    newSize: {x: 2, y: 2}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.0256582, y: 0.814713}
+  m_Size: {x: 0.5932211, y: 0.6164241}
   m_EdgeRadius: 0
---- !u!61 &2155208311398037540
+--- !u!114 &6128566941811840592
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6128566941811840618}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c7524038d53a324c968717ad7330749, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentState: 0
+  maxHealth: {fileID: 11400000, guid: e93e3932b9647844d8ff012a36046998, type: 2}
+  health: 1
+  enemyName: Larry the log
+  baseAtack: 1
+  moveSpeed: 1.3
+  deathEffect: {fileID: 8372972169421058453, guid: ab5857e561b470f4c894a1d19891e504,
+    type: 3}
+  target: {fileID: 0}
+  chaseRadius: 6
+  atackRadius: 0.6
+  homePosition: {fileID: 0}
+  anim: {fileID: 0}
+--- !u!61 &6128566941811840593
 BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2155208311398037543}
+  m_GameObject: {fileID: 6128566941811840618}
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.016177356, y: -0.4477334}
+  m_Offset: {x: -0.01474309, y: -0.18370199}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 4, y: 4}
-    newSize: {x: 4, y: 4}
+    oldSize: {x: 2, y: 2}
+    newSize: {x: 2, y: 2}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.2253429, y: 2.7248282}
+  m_Size: {x: 0.67474854, y: 1.1902952}
   m_EdgeRadius: 0
+--- !u!114 &6128566941811840594
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6128566941811840618}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbfe1d15b55fbce4ba8663625784ab87, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  thrust: 4.5
+  knockTime: 0.3
+  damage: 1
