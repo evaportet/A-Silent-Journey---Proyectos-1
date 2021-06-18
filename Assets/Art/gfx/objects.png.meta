@@ -3405,10 +3405,10 @@ TextureImporter:
       name: objects_60
       rect:
         serializedVersion: 2
-        x: 6
+        x: 62
         y: 3
-        width: 129
-        height: 33
+        width: 68
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
