@@ -31,7 +31,7 @@ public class TreasureChest : Interactable
 
         anim = GetComponent<Animator>();
 
-        isOpen = myChest1.initialState;
+        isOpen = myChest1.RuntimeValue;
 
         if (isOpen)
         {
@@ -96,7 +96,7 @@ public class TreasureChest : Interactable
             if(transform.position.x == -91.49F && target.position.x <-90.42F && target.position.y > 21.8F)
             {
                 contextOff.Raise();
-            }
+            }   
             
 
             if (dialogBox.activeInHierarchy)
@@ -107,7 +107,7 @@ public class TreasureChest : Interactable
             
             
         }
-        myChest1.initialState = isOpen;
+        myChest1.RuntimeValue = isOpen;
     }
     public void OpenChest()
     {
@@ -129,6 +129,7 @@ public class TreasureChest : Interactable
         // add contents to the inventory
         
         playerInRange = false;
+        
 
 
 
