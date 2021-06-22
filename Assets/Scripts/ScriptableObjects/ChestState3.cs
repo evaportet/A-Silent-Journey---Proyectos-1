@@ -3,16 +3,17 @@ using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu]
-public class ChestState2 : ScriptableObject, ISerializationCallbackReceiver
+[System.Serializable]
+public class ChestState3 : ScriptableObject, ISerializationCallbackReceiver
 {
-    public bool initialState2;
+    public bool initialState3;
 
     //[HideInInspector]
-    public bool RuntimeValue2;
+    public bool RuntimeValue3;
 
     public void OnAfterDeserialize()
     {
-        RuntimeValue2 = initialState2;
+        RuntimeValue3 = initialState3;
     }
     public void OnBeforeSerialize()
     {

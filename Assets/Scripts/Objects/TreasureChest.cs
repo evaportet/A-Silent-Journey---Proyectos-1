@@ -93,7 +93,7 @@ public class TreasureChest : Interactable
         }
         else if (!playerInRange)
         {
-            if(transform.position.x == -91.49F && target.position.x <-90.42F && target.position.y > 21.8F)
+            if(SceneManager.GetActiveScene() == SceneManager.GetSceneByName("SampleScene") && transform.position.x == -91.49F && target.position.x <-90.42F && target.position.y > 21.8F)
             {
                 contextOff.Raise();
             }   
@@ -101,6 +101,7 @@ public class TreasureChest : Interactable
 
             if (dialogBox.activeInHierarchy)
             {
+
                 //if(Target.position.x == -13.37F)
                 dialogBox.SetActive(false);
             }
@@ -182,37 +183,6 @@ public class TreasureChest : Interactable
 
     //    }
     //}
-    int BoolToInt(bool val)
-    {
-        if (val)
-            return 1;
-        else
-            return 0;
-    }
-
-    bool IntToBool(int val)
-    {
-        if (val != 0)
-            return true;
-        else
-            return false;
-    }
-
-    //private voidOnTriggerExit2D(Collider2D other)
-    //{
-    //    playerInRange = false;
-    //    //contextOff.Raise();
-
-    //    //if (other.CompareTag("Player")  && isOpen)
-    //    //{
-    //    //    playerInRange = false;
-    //    //    //dialogBox1.SetActive(false);
-
-    //    //    //dialogText.text = dialog;                    
-    //    //    contextOff.Raise();
-
-    //    //    //dialogBox.SetActive(false);
-    //    //}
-    //}
+        
 
 }

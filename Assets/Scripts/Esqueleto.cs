@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Esqueleto : Enemy
 {
-    private Rigidbody2D myRigidbody;
+    public Rigidbody2D myRigidbody;
     public Transform target;
     public float chaseRadius;
     public float atackRadius;
@@ -25,7 +25,7 @@ public class Esqueleto : Enemy
     {
         CheckDistance();
     }
-    void CheckDistance()
+    public virtual void CheckDistance()
     {
         if (Vector3.Distance(target.position, transform.position) <= chaseRadius && Vector3.Distance(target.position, transform.position) > atackRadius)
         {
@@ -51,7 +51,7 @@ public class Esqueleto : Enemy
         anim.SetFloat("moveX", setVector.x);
         anim.SetFloat("moveY", setVector.y);
     }
-    private void changeAnim(Vector2 direction)
+    public void changeAnim(Vector2 direction)
     {
         if (Mathf.Abs(direction.x) > Mathf.Abs(direction.y))
         {
@@ -76,7 +76,7 @@ public class Esqueleto : Enemy
             }
         }
     }
-    private void ChangeState(EnemyState newState)
+    public void ChangeState(EnemyState newState)
     {
         if (currentState != newState)
         {

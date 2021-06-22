@@ -25,6 +25,7 @@ public class PlayerMovement : MonoBehaviour
     public VectorValue startingPosition;
     public Inventory playerInventory;
     public SpriteRenderer receivedItemSprite;
+    
     //public FloatValue initialHealth;
 
     //muerte
@@ -40,17 +41,21 @@ public class PlayerMovement : MonoBehaviour
         animator.SetFloat("moveX", 0);
         animator.SetFloat("moveY", -1);
         transform.position = startingPosition.initialValue;
+        //range = GameObject.Find("playerInRange").GetComponent<TreasureChest2>().playerInRange;
+        //glitchSolved = false;
         //currentHealth = initialHealth;
     }
 
     // Update is called once per frame
+   
     void Update()
     {
         // Is the player in an inteacticon
         if(currentState == PlayerState.interact)
         {
+            
             return;
-        }
+        }        
         change = Vector3.zero;
         change.x = Input.GetAxisRaw("Horizontal");
         change.y = Input.GetAxisRaw("Vertical");
@@ -73,6 +78,7 @@ public class PlayerMovement : MonoBehaviour
         {
             SceneManager.LoadScene("Scenes/House");
         }
+       
     }
         
     private IEnumerator AttackCo()
@@ -92,21 +98,24 @@ public class PlayerMovement : MonoBehaviour
     {
         //if (playerInventory.currentItem != null)
         //{
-            if (currentState != PlayerState.interact)
-            {
+        
+        if (currentState != PlayerState.interact )
+        {
 
                 animator.SetBool("Receive item", true);
                 currentState = PlayerState.interact;
                 
                 receivedItemSprite.sprite = playerInventory.currentItem.itemSprite;
-            }
-            else
-            {
-                animator.SetBool("Receive item", false);
-                currentState = PlayerState.idle;
-                receivedItemSprite.sprite = null;
-                playerInventory.currentItem = null;
-            }
+
+        }
+        
+        else 
+        {
+            animator.SetBool("Receive item", false);
+            currentState = PlayerState.idle;
+            receivedItemSprite.sprite = null;
+            playerInventory.currentItem = null;
+        }
         //}
 
     }

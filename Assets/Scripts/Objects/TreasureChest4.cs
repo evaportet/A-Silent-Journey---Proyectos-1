@@ -4,24 +4,24 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
-public class TreasureChest2 : Interactable
+public class TreasureChest4 : Interactable
 {
-    public item contents2;
+    public item contents4;
     public Inventory playerInventory;
     public bool isOpen;
     public SignalSender raiseItem;
-    public GameObject dialogBox2;
-    public Text dialogText2;
+    public GameObject dialogBox4;
+    public Text dialogText4;
     private Animator anim;
     public Transform target;
-    public ChestState2 myChest2;
-        
+    public ChestState4 myChest4;
+
     void OnEnable()
     {
 
         anim = GetComponent<Animator>();
 
-        isOpen = myChest2.RuntimeValue2;
+        isOpen = myChest4.RuntimeValue4;
 
         if (isOpen)
         {
@@ -32,73 +32,73 @@ public class TreasureChest2 : Interactable
             anim.SetBool("directOpen", false);
         }
 
-        
-    }    
+
+    }
 
     // Update is called once per frame
     void Update()
     {
-        
+
 
         if (Input.GetKeyDown(KeyCode.B) && playerInRange)
         {
 
 
-            if (!isOpen )
+            if (!isOpen)
             {
 
 
-                if (dialogBox2.activeInHierarchy)
+                if (dialogBox4.activeInHierarchy)
                 {
-                    
-                    dialogBox2.SetActive(false);
+
+                    dialogBox4.SetActive(false);
                 }
                 else
                 {
 
-                    dialogBox2.SetActive(true);
+                    dialogBox4.SetActive(true);
 
                 }
 
                 OpenChest();
 
             }
-            
+
             else
-            {               
-                    ChestAlreadyOpen();
-                         
+            {
+                ChestAlreadyOpen();
+
             }
         }
-        
+
         else if (!playerInRange)
         {
-            if (SceneManager.GetActiveScene() == SceneManager.GetSceneByName("Dungeon1"))
+            if (SceneManager.GetActiveScene() == SceneManager.GetSceneByName("Dungeon3"))
             {
 
 
-                dialogBox2.SetActive(false);
-                
+                dialogBox4.SetActive(false);
+
                 contextOff.Raise();
 
             }
-                        
+
 
         }
-        
-        myChest2.RuntimeValue2 = isOpen;
+
+        myChest4.RuntimeValue4 = isOpen;
     }
     public void OpenChest()
     {
         isOpen = true;
-              
+
         anim.SetBool("opened", true);
-        playerInventory.AddItem(contents2);
-        playerInventory.currentItem = contents2;
-        
+        playerInventory.AddItem(contents4);
+        playerInventory.currentItem = contents4;
+
         raiseItem.Raise();
 
-        dialogText2.text = contents2.itemDescription;       
+        dialogText4.text = contents4.itemDescription;
 
         playerInRange = false;
 
@@ -108,7 +108,7 @@ public class TreasureChest2 : Interactable
     public void ChestAlreadyOpen()
     {
 
-        dialogBox2.SetActive(false);
+        dialogBox4.SetActive(false);
 
 
         playerInRange = false;
@@ -131,6 +131,7 @@ public class TreasureChest2 : Interactable
 
 
 
-    }    
+    }
 
 }
+

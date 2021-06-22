@@ -4,7 +4,7 @@ using UnityEngine;
 
 [CreateAssetMenu]
 [System.Serializable]
-public class Inventory : ScriptableObject
+public class Inventory : ScriptableObject, ISerializationCallbackReceiver
 {
     public item currentItem;
     public List<item> items = new List<item>();
@@ -17,6 +17,16 @@ public class Inventory : ScriptableObject
     //    numberOfKeys = 0;
     //    numberOfStones = 0;
     //}
+    public void OnAfterDeserialize()
+    {
+        numberOfKeys = 0;
+        numberOfStones = 0;
+        items.Clear();
+    }
+    public void OnBeforeSerialize()
+    {
+
+    }
     public void AddItem(item itemToAdd)
     {
         if (itemToAdd.isKey)
