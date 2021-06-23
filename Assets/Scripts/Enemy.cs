@@ -26,6 +26,7 @@ public class Enemy : MonoBehaviour
 
     private void TakeDamage(float damage)
     {
+
         health -= damage;
         if (health <= 0)
         {
@@ -51,6 +52,12 @@ public class Enemy : MonoBehaviour
         TakeDamage(damage);
         StartCoroutine(KnockCo(myRigidbody, knockTime));
         
+    }
+    public void Knock2(Rigidbody2D myRigidbody, float knockTime)
+    {
+        
+        StartCoroutine(KnockCo(myRigidbody, knockTime));
+
     }
 
 
