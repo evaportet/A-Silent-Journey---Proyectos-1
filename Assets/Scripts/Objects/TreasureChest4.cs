@@ -73,7 +73,7 @@ public class TreasureChest4 : Interactable
 
         else if (!playerInRange)
         {
-            if (SceneManager.GetActiveScene() == SceneManager.GetSceneByName("Dungeon3"))
+            if (SceneManager.GetActiveScene() == SceneManager.GetSceneByName("Dungeon3") && target.position.x < 1.5F )
             {
 
 
