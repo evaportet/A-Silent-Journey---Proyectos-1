@@ -18,6 +18,7 @@ public class Enemy : MonoBehaviour
     public int baseAtack;
     public float moveSpeed;
     public GameObject deathEffect;
+    public GameObject coin;
 
     private void Awake()
     {
@@ -41,6 +42,10 @@ public class Enemy : MonoBehaviour
         {
             GameObject effect = Instantiate(deathEffect, transform.position, Quaternion.identity);
             Destroy(effect, 1f);
+            coin.SetActive(true);
+            coin.transform.position = transform.position;
+            
+            
         }
 
 
@@ -75,4 +80,11 @@ public class Enemy : MonoBehaviour
         }
 
     }
+    //private void OnTriggerEnter2D(Collider2D other)
+    //{
+    //    if(health<=0 && other.isTrigger)
+    //    {
+
+    //    }
+    //}
 }
