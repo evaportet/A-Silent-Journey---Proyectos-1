@@ -10,6 +10,7 @@ public class Inventory : ScriptableObject, ISerializationCallbackReceiver
     public List<item> items = new List<item>();
     public int numberOfKeys;
     public int numberOfStones;
+    public int coins;
 
     //public void OnEnable()
     //{
@@ -21,6 +22,7 @@ public class Inventory : ScriptableObject, ISerializationCallbackReceiver
     {
         numberOfKeys = 0;
         numberOfStones = 0;
+        coins = 0;
         items.Clear();
     }
     public void OnBeforeSerialize()
