@@ -41,16 +41,18 @@ public class Enemy : MonoBehaviour
         if( deathEffect != null)
         {
             GameObject effect = Instantiate(deathEffect, transform.position, Quaternion.identity);
-            Destroy(effect, 1f);
-            coin.SetActive(true);
+            Destroy(effect, 1f);            
+            
+            
             coin.transform.position = transform.position;
-            
-            
+            coin.SetActive(true);
+
+
         }
 
 
     }
-
+       
 
     public void Knock(Rigidbody2D myRigidbody, float knockTime, float damage)
     {
