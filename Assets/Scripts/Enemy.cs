@@ -19,6 +19,10 @@ public class Enemy : MonoBehaviour
     public float moveSpeed;
     public GameObject deathEffect;
     public GameObject coin;
+    public GameObject burnEffectObject;
+    public AudioSource enemySound;
+    public AudioSource burnEffect;    
+    public Inventory playerInventory;
 
     private void Awake()
     {
@@ -31,15 +35,26 @@ public class Enemy : MonoBehaviour
         health -= damage;
         if (health <= 0)
         {
+            
             DeathEffect();
             this.gameObject.SetActive(false);
+            if (playerInventory.numberOfStones >= 2)
+            {
+                Instantiate(burnEffectObject);
+            }
         }
+        if (playerInventory.numberOfStones >= 2)
+        {
+            enemySound.Play();
+        }
+        
     }
 
     private void DeathEffect()
     {
         if( deathEffect != null)
         {
+                    
             GameObject effect = Instantiate(deathEffect, transform.position, Quaternion.identity);
             Destroy(effect, 1f);            
             

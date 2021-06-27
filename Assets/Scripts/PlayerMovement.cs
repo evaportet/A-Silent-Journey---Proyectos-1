@@ -25,6 +25,10 @@ public class PlayerMovement : MonoBehaviour
     public VectorValue startingPosition;
     public Inventory playerInventory;
     public SpriteRenderer receivedItemSprite;
+    public AudioSource pasos;
+    public AudioSource pasosArena;
+    public AudioSource atack;
+    
     
     //public FloatValue initialHealth;
 
@@ -61,13 +65,21 @@ public class PlayerMovement : MonoBehaviour
         change.y = Input.GetAxisRaw("Vertical");
         if (Input.GetButtonDown("attack")&& currentState != PlayerState.attack && currentState != PlayerState.stagger)
         {
+            if (playerInventory.numberOfStones >= 2)
+            {
+                atack.Play();
+            }            
             StartCoroutine(AttackCo());
             
         }
         else if (currentState == PlayerState.walk || currentState == PlayerState.idle)
         {
             UpdateAnimationAndMove();
+            
+            
         }
+        
+               
 
         //manejar tela negra
         float valorAlfa = Mathf.Lerp(Oscuro.color.a, valorAlfaDeseado, 0.02f);
@@ -120,17 +132,53 @@ public class PlayerMovement : MonoBehaviour
 
     }
         void UpdateAnimationAndMove ()
-    {
+    { 
         if (change != Vector3.zero)
         {
             MoveCharacter();
             animator.SetFloat("moveX", change.x);
             animator.SetFloat("moveY", change.y);
             animator.SetBool("moving", true);
+            if (playerInventory.numberOfStones >= 2) //&& !pasos.isPlaying) target.position.x > -19.6F && target.position.y > 7.8F && target.position.y < 35.6F)
+            {
+                //if(SceneManager.GetActiveScene() != SceneManager.GetSceneByName("SampleScene"))
+                //{
+                //    pasosArena.Stop();
+                //}
+                if(SceneManager.GetActiveScene() == SceneManager.GetSceneByName("SampleScene") && transform.position.x > -19.6F && transform.position.y > 7.8F && transform.position.y < 35.6F && !pasosArena.isPlaying)
+                {
+                    
+                    pasosArena.Play();                    
+                    pasos.Stop();
+                    
+                }
+                else if (!pasos.isPlaying )
+                {
+                    if(SceneManager.GetActiveScene() == SceneManager.GetSceneByName("SampleScene") && (transform.position.x < -19.6F || transform.position.y < 7.8F || transform.position.y > 35.6F))
+                    {
+                        pasosArena.Stop();
+                        pasos.Play();
+                    }
+                    else if(SceneManager.GetActiveScene() != SceneManager.GetSceneByName("SampleScene"))
+                    {
+                        pasos.Play();
+                    }
+                    
+                }
+                                
+            }
         }
         else
         {
             animator.SetBool("moving", false);
+            if (pasos.isPlaying)
+            {
+                pasos.Stop();
+            }
+            if (pasosArena.isPlaying)
+            {
+                pasosArena.Stop();
+            }
         }
     }
 
@@ -138,7 +186,8 @@ public class PlayerMovement : MonoBehaviour
     {
         change.Normalize();
         myRigidbody.MovePosition(
-            transform.position + change * speed * Time.deltaTime);
+            transform.position + change * speed * Time.deltaTime);        
+
     }
     public void Knock(float knockTime, float damage)
     {

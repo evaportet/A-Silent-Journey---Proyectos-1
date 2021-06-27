@@ -9,6 +9,9 @@ public class RoomMove : MonoBehaviour
     public Vector2 newMaxMap;
     public Vector3 playerChange;
     private CameraMovement cam;
+    
+
+    public float volume = 1;
     // Start is called before the first frame update
     void Start()
     {
@@ -28,6 +31,7 @@ public class RoomMove : MonoBehaviour
             cam.maxPosition = newMaxMap;
 
             other.transform.position += playerChange;
+
         }
     }
 }

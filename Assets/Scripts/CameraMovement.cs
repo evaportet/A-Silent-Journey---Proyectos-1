@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class CameraMovement : MonoBehaviour
 {
@@ -9,13 +10,106 @@ public class CameraMovement : MonoBehaviour
     public Vector2 maxPosition;
     public Vector2 minPosition;
 
+    //public AudioSource forest;
+   
+    public AudioSource forest;
+    public AudioSource desert;
+    public AudioSource cave;
+    public AudioSource dungeon;
+    public AudioSource house;
+    private AudioSource actualClip;
+    public Inventory playerInventory;
+    
+    
+
+    float volume = 1;
     // Start is called before the first frame update
     void Start()
     {
-        //transform.position = new Vector3(target.position.x, target.position.y, transform.position.z);
+        if (playerInventory.numberOfStones >= 1)
+        {
+            forest.Play();
+            actualClip = forest;
+        }
+        
+
+
+            //audioSource = GetComponent<AudioSource>();
+            //desert = GetComponent<AudioClip>();
+            //transform.position = new Vector3(target.position.x, target.position.y, transform.position.z);
     }
 
     // Update is called once per frame
+    private void Update()
+    {
+        if (playerInventory.numberOfStones >= 1)
+        {
+            if (SceneManager.GetActiveScene() == SceneManager.GetSceneByName("SampleScene") && target.position.x > -19.6F && target.position.y > 7.8F && target.position.y < 35.6F)
+            {
+                cave.Stop();
+                dungeon.Stop();
+                house.Stop();
+                if (actualClip != desert)
+                {
+                    forest.Stop();
+                    desert.Play();
+                    actualClip = desert;
+                }
+
+
+            }
+            else if (SceneManager.GetActiveScene() == SceneManager.GetSceneByName("SampleScene"))
+            {
+                cave.Stop();
+                dungeon.Stop();
+                house.Stop();
+                if (actualClip != forest)
+                {
+                    desert.Stop();
+                    forest.Play();
+                    actualClip = forest;
+                }
+            }
+            else if(SceneManager.GetActiveScene() == SceneManager.GetSceneByName("Dungeon1") || SceneManager.GetActiveScene() == SceneManager.GetSceneByName("Dungeon2")|| SceneManager.GetActiveScene() == SceneManager.GetSceneByName("Dungeon3"))
+            {
+                desert.Stop();
+                forest.Stop();
+                cave.Stop();
+                house.Stop();
+                if (actualClip != dungeon)
+                {                    
+                    dungeon.Play();
+                    actualClip = dungeon;
+                }
+            }
+            else if(SceneManager.GetActiveScene() == SceneManager.GetSceneByName("Cueva"))
+            {
+                desert.Stop();
+                forest.Stop();
+                dungeon.Stop();
+                house.Stop();
+                if (actualClip != cave)
+                {
+                    cave.Play();
+                    actualClip = cave;
+                }
+
+            }
+            else if(SceneManager.GetActiveScene() == SceneManager.GetSceneByName("House"))
+            {
+                desert.Stop();
+                forest.Stop();
+                dungeon.Stop();
+                cave.Stop();
+                if (actualClip != house)
+                {
+                    house.Play();
+                    actualClip = house;
+                }
+            }
+        }
+       
+    }
     void LateUpdate()
     {
         if(transform.position != target.position)
@@ -27,4 +121,4 @@ public class CameraMovement : MonoBehaviour
             
         }
     }
-}
+ }
