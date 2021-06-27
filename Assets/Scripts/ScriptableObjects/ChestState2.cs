@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 [CreateAssetMenu]
 public class ChestState2 : ScriptableObject, ISerializationCallbackReceiver
@@ -18,4 +19,5 @@ public class ChestState2 : ScriptableObject, ISerializationCallbackReceiver
     {
 
     }
+    
 }

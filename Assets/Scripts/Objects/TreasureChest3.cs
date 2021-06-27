@@ -15,10 +15,16 @@ public class TreasureChest3 : Interactable
     private Animator anim;
     public Transform target;
     public ChestState3 myChest3;
+    public FixCounter3 myCounter3;
+    public DeathCounter myDeaths;
 
     void OnEnable()
     {
-
+        if (myDeaths.counter != myCounter3.counter)
+        {
+            myCounter3.counter++;
+            myChest3.RuntimeValue3 = myChest3.initialState3;
+        }
         anim = GetComponent<Animator>();
 
         isOpen = myChest3.RuntimeValue3;

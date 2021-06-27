@@ -1905,6 +1905,31 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 194126123408308777, guid: d2d56e984bf80d142b43f0011871c4b3,
+        type: 3}
+      propertyPath: Loop
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 194126123408308778, guid: d2d56e984bf80d142b43f0011871c4b3,
+        type: 3}
+      propertyPath: Loop
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 194126123408308779, guid: d2d56e984bf80d142b43f0011871c4b3,
+        type: 3}
+      propertyPath: Loop
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 194126123408308780, guid: d2d56e984bf80d142b43f0011871c4b3,
+        type: 3}
+      propertyPath: Loop
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 194126123408308781, guid: d2d56e984bf80d142b43f0011871c4b3,
+        type: 3}
+      propertyPath: Loop
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 194126123408308948, guid: d2d56e984bf80d142b43f0011871c4b3,
         type: 3}
       propertyPath: m_Name
@@ -1983,6 +2008,18 @@ PrefabInstance:
       propertyPath: atack
       value: 
       objectReference: {fileID: 349975422}
+    - target: {fileID: 6976319221897975018, guid: e78b731efcd1a6e48b8da6f1fbd7d0f2,
+        type: 3}
+      propertyPath: myDeaths
+      value: 
+      objectReference: {fileID: 11400000, guid: ed3809a39e125c34492a2b9a6ac00017,
+        type: 2}
+    - target: {fileID: 6976319221897975018, guid: e78b731efcd1a6e48b8da6f1fbd7d0f2,
+        type: 3}
+      propertyPath: myCounter6
+      value: 
+      objectReference: {fileID: 11400000, guid: 09240135cb9226e4d88bef787955d2c8,
+        type: 2}
     - target: {fileID: 6976319221897975019, guid: e78b731efcd1a6e48b8da6f1fbd7d0f2,
         type: 3}
       propertyPath: m_Name

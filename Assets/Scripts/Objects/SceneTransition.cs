@@ -9,6 +9,7 @@ public class SceneTransition : MonoBehaviour
     public Vector2 playerPosition;
     public VectorValue playerStorage;
     
+    
 
     //public Collider2D other;
 
@@ -58,37 +59,7 @@ public class SceneTransition : MonoBehaviour
 
     }
 
-    //public void OnTriggerEnter2D(Collider2D other)
-    //{
-    //    do {
-    //        if (other.CompareTag("Player") && !other.isTrigger)
-    //        {
-    //            if (SceneManager.GetActiveScene() == SceneManager.GetSceneByName("SampleScene"))
-    //            {
-    //                if (other.transform.position.x > 10 && other.transform.position.x < 14)
-    //                {
-    //                    SceneManager.LoadScene("House");
+    
 
-    //                }
-    //                if (other.transform.position.x > 16 && other.transform.position.x < -14)
-    //                {
-    //                    SceneManager.LoadScene("Dungeon1");
-    //                }
-    //            }
-    //            else
-    //            {
-    //                SceneManager.LoadScene("SampleScene");
-    //            }
-    //        }
 
-    //        playerStorage.initialValue = playerPosition;
-    //        WaitTime();
-    //    } while (other.GetComponent<PlayerMovement>().);
-            
-
-        
-        
-    //}
-
-        
 }

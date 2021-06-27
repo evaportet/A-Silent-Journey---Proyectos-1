@@ -21,15 +21,18 @@ public class PlayerMovement : MonoBehaviour
     private Vector3 change; //vector
     private Animator animator; //animator
     public FloatValue currentHealth;
-    public SignalSender playerHealthSignal;
+    public SignalSender playerHealthSignal;    
     public VectorValue startingPosition;
     public Inventory playerInventory;
     public SpriteRenderer receivedItemSprite;
     public AudioSource pasos;
     public AudioSource pasosArena;
     public AudioSource atack;
-    
-    
+    public FixCounter6 myCounter6;
+    public DeathCounter myDeaths;
+
+
+
     //public FloatValue initialHealth;
 
     //muerte
@@ -39,6 +42,7 @@ public class PlayerMovement : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        
         currentState = PlayerState.walk;
         animator = GetComponent<Animator>();
         myRigidbody = GetComponent<Rigidbody2D>();
@@ -54,6 +58,14 @@ public class PlayerMovement : MonoBehaviour
    
     void Update()
     {
+        
+        if (myDeaths.counter != myCounter6.counter)
+        {
+            myCounter6.counter++;
+            playerInventory.numberOfKeys = 0;
+            playerInventory.numberOfStones = 0;
+            playerInventory.coins = 0;
+        }
         // Is the player in an inteacticon
         if(currentState == PlayerState.interact)
         {
@@ -88,7 +100,9 @@ public class PlayerMovement : MonoBehaviour
         //reiniciar escena (muerte)
         if (valorAlfa > 0.9)
         {
-            SceneManager.LoadScene("Scenes/House");
+           
+            SceneManager.LoadScene("Scenes/Main_Menu");
+
         }
        
     }
@@ -214,6 +228,7 @@ public class PlayerMovement : MonoBehaviour
             currentHealth.RuntimeValue = currentHealth.initialValue;
             startingPosition.initialValue.x = 0F;
             startingPosition.initialValue.y = -3F;
+            
             
 
         }

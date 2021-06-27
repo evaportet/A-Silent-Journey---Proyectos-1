@@ -13,9 +13,16 @@ public class Door : Interactable
     public SpriteRenderer doorSprite;
     public BoxCollider2D physicsCollider;
     public Transform target;
+    public FixCounter5 myCounter5;
+    public DeathCounter myDeaths;
 
     public void OnEnable()
     {
+        if (myDeaths.counter != myCounter5.counter)
+        {
+            myCounter5.counter++;
+            myKDState.RuntimeValue = myKDState.initialState;
+        }
         isOpen = myKDState.RuntimeValue;
        
     }
