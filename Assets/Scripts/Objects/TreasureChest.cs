@@ -15,22 +15,28 @@ public class TreasureChest : Interactable
     private Animator anim;
     public Transform target;
     public ChestState1 myChest1;
-    
+    public FixCounter myCounter;
+    public DeathCounter myDeaths;
+
     //public bool nextIsOpen = false;
 
     // Start is called before the first frame update
     //void OnDisable()
     //{
     //    //PlayerPrefs.SetInt("openari", BoolToInt( isOpen));
-        
+
     //}
-    
+
 
     void OnEnable()
     {
+        if(myDeaths.counter != myCounter.counter)
+        {
+            myCounter.counter++;
+            myChest1.RuntimeValue = myChest1.initialState;
+        }
 
         anim = GetComponent<Animator>();
-
         isOpen = myChest1.RuntimeValue;
 
         if (isOpen)
@@ -55,6 +61,7 @@ public class TreasureChest : Interactable
     // Update is called once per frame
     void Update()
     {
+        
         
         if (Input.GetKeyDown(KeyCode.B) && playerInRange)
         {

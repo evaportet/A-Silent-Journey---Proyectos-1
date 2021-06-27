@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 [CreateAssetMenu]
 [System.Serializable]
@@ -45,5 +46,5 @@ public class Inventory : ScriptableObject, ISerializationCallbackReceiver
                 items.Add(itemToAdd);
             }
         }
-    }
+    }    
 }

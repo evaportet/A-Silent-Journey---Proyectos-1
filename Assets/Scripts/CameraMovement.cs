@@ -108,6 +108,15 @@ public class CameraMovement : MonoBehaviour
                 }
             }
         }
+        else
+        {
+            desert.Stop();
+            forest.Stop();
+            dungeon.Stop();
+            cave.Stop();
+            house.Stop();
+        }
+        
        
     }
     void LateUpdate()
