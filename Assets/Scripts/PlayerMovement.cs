@@ -66,8 +66,12 @@ public class PlayerMovement : MonoBehaviour
             playerInventory.numberOfStones = 0;
             playerInventory.coins = 0;
         }
+        if(playerInventory.numberOfStones == 3 && SceneManager.GetActiveScene() == SceneManager.GetSceneByName("SampleScene"))
+        {
+            SceneManager.LoadScene("GameWinned");
+        }
         // Is the player in an inteacticon
-        if(currentState == PlayerState.interact)
+        if (currentState == PlayerState.interact)
         {
             
             return;

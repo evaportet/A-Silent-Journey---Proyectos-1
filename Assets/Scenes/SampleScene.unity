@@ -21721,7 +21721,8 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: Here you can exchange your coins for magic items that recover health (everything
-    you buy  will be consumed at the moment)
+    you buy  will be consumed at the moment, and you will see your new health when
+    leaving the shop)
 --- !u!222 &290700379
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -74715,7 +74716,8 @@ MonoBehaviour:
   dialogBox: {fileID: 680088140}
   dialogText: {fileID: 1273289364}
   dialog: Here you can exchange your coins for magic items that recover health (everything
-    you buy  will be consumed at the moment)
+    you buy  will be consumed at the moment, and you will see your new health when
+    leaving the shop)
 --- !u!4 &1556306996 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 56958494427134529, guid: 7605249866b8d7c48a10ae9aeffd7b5f,

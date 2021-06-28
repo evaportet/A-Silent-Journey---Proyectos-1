@@ -23,8 +23,8 @@ public class ShopManagerScript : MonoBehaviour
         shopItems[1, 2] = 2;
 
         //Price
-        shopItems[2, 1] = 1;
-        shopItems[2, 2] = 2;
+        shopItems[2, 1] = 5;
+        shopItems[2, 2] = 9;
 
         //Quantity
         //shopItems[3, 1] = 0;
@@ -50,7 +50,7 @@ public class ShopManagerScript : MonoBehaviour
            playerInventory.coins = coins;
             CoinsTXT.text = "Coins:" + coins.ToString();
             shopItems[3, ButtonRef.GetComponent<ButtonInfo>().itemID]++;
-            //playerHealthSignal.Raise();
+            
             
             //ButtonRef.GetComponent<ButtonInfo>().QuantityTxt.text = shopItems[3, ButtonRef.GetComponent<ButtonInfo>().itemID].ToString();
 
@@ -63,5 +63,9 @@ public class ShopManagerScript : MonoBehaviour
         playerPosition.initialValue.x = -86.4F;
         playerPosition.initialValue.y = -5F;
         
+    }
+    public void RaiseHearth()
+    {
+        playerHealthSignal.Raise();
     }
 }
