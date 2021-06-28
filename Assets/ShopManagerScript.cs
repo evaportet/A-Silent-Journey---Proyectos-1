@@ -39,7 +39,7 @@ public class ShopManagerScript : MonoBehaviour
         if(coins >= shopItems[2, ButtonRef.GetComponent<ButtonInfo>().itemID] && playerHealth.RuntimeValue < playerHealth.initialValue)
         {
             coins -= shopItems[2, ButtonRef.GetComponent<ButtonInfo>().itemID];
-            if (playerInventory.coins - coins == 2)
+            if (playerInventory.coins - coins == 5)
             {
                 playerHealth.RuntimeValue += 2;
             }
