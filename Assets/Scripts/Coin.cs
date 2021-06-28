@@ -31,5 +31,9 @@ public class Coin : Powerup
         }
         
     }
+    public void RaiseCash()
+    {
+        powerupSignal.Raise();
+    }
 
 }

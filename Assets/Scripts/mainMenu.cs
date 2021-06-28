@@ -17,4 +17,5 @@ public class mainMenu : MonoBehaviour
         Debug.Log("THANK YOU FOR PLAYING, SEE YOU SOON!");
         Application.Quit();
     }
+    
 }

@@ -26,6 +26,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Cueva.unity
     guid: 48ae8a6ef9c58684fb16a83de7a1bfeb
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 41b786ee77dbcff44ae5219f0a56b8f4
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
