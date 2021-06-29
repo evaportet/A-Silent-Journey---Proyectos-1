@@ -14,6 +14,7 @@ public class ShopManagerScript : MonoBehaviour
     public FloatValue playerHealth;
     public VectorValue playerPosition;
     public SignalSender playerHealthSignal;
+    public AudioSource button;
     void Start()
     {
         coins = playerInventory.coins;
@@ -36,7 +37,9 @@ public class ShopManagerScript : MonoBehaviour
     {
         GameObject ButtonRef = GameObject.FindGameObjectWithTag("Event").GetComponent<EventSystem>().currentSelectedGameObject;
 
-        if(coins >= shopItems[2, ButtonRef.GetComponent<ButtonInfo>().itemID] && playerHealth.RuntimeValue < playerHealth.initialValue)
+        button.Play();
+
+        if (coins >= shopItems[2, ButtonRef.GetComponent<ButtonInfo>().itemID] && playerHealth.RuntimeValue < playerHealth.initialValue)
         {
             coins -= shopItems[2, ButtonRef.GetComponent<ButtonInfo>().itemID];
             if (playerInventory.coins - coins == 9)
@@ -59,13 +62,20 @@ public class ShopManagerScript : MonoBehaviour
     }
     public void StopBuying()
     {
-        SceneManager.LoadScene("SampleScene");
-        playerPosition.initialValue.x = -86.4F;
-        playerPosition.initialValue.y = -5F;
+        StartCoroutine(BackToSample());
+        
         
     }
     public void RaiseHearth()
     {
         playerHealthSignal.Raise();
-    }
+    }   
+    private IEnumerator BackToSample()
+    {
+        button.Play();
+        yield return new WaitForSeconds(0.5f);
+        SceneManager.LoadScene("SampleScene");
+        playerPosition.initialValue.x = -86.4F;
+        playerPosition.initialValue.y = -5F;
+    } 
 }

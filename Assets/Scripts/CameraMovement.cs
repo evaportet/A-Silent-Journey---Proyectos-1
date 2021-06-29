@@ -17,6 +17,7 @@ public class CameraMovement : MonoBehaviour
     public AudioSource cave;
     public AudioSource dungeon;
     public AudioSource house;
+    public AudioSource tienda;    
     private AudioSource actualClip;
     public Inventory playerInventory;
     
@@ -49,6 +50,7 @@ public class CameraMovement : MonoBehaviour
                 cave.Stop();
                 dungeon.Stop();
                 house.Stop();
+                tienda.Stop();
                 if (actualClip != desert)
                 {
                     forest.Stop();
@@ -63,6 +65,7 @@ public class CameraMovement : MonoBehaviour
                 cave.Stop();
                 dungeon.Stop();
                 house.Stop();
+                tienda.Stop();
                 if (actualClip != forest)
                 {
                     desert.Stop();
@@ -76,6 +79,7 @@ public class CameraMovement : MonoBehaviour
                 forest.Stop();
                 cave.Stop();
                 house.Stop();
+                tienda.Stop();
                 if (actualClip != dungeon)
                 {                    
                     dungeon.Play();
@@ -88,6 +92,7 @@ public class CameraMovement : MonoBehaviour
                 forest.Stop();
                 dungeon.Stop();
                 house.Stop();
+                tienda.Stop();
                 if (actualClip != cave)
                 {
                     cave.Play();
@@ -101,10 +106,24 @@ public class CameraMovement : MonoBehaviour
                 forest.Stop();
                 dungeon.Stop();
                 cave.Stop();
+                tienda.Stop();
                 if (actualClip != house)
                 {
                     house.Play();
                     actualClip = house;
+                }
+            }
+            else if(SceneManager.GetActiveScene() == SceneManager.GetSceneByName("Shop"))
+            {
+                desert.Stop();
+                forest.Stop();
+                dungeon.Stop();
+                cave.Stop();
+                house.Stop();
+                if (actualClip != tienda)
+                {
+                    tienda.Play();
+                    actualClip = tienda;
                 }
             }
         }
@@ -115,6 +134,7 @@ public class CameraMovement : MonoBehaviour
             dungeon.Stop();
             cave.Stop();
             house.Stop();
+            tienda.Stop();
         }
         
        

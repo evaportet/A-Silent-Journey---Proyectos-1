@@ -5,12 +5,28 @@ using UnityEngine.SceneManagement;
 
 public class loadScene : MonoBehaviour
 {
+    public AudioSource button;
     public void LoadMain()
     {
-        SceneManager.LoadScene("Main_Menu");
+        StartCoroutine(MainFunction());
+        
+        
     }
     public void LoadCredits()
     {
+        StartCoroutine(Credits());
+    }
+    IEnumerator MainFunction()
+    {
+        button.Play();
+        yield return new WaitForSeconds(0.5f);
+        SceneManager.LoadScene("Main_Menu");
+    }
+    IEnumerator Credits()
+    {
+        button.Play();
+        yield return new WaitForSeconds(0.5f);
         SceneManager.LoadScene("Credits");
     }
+   
 }
