@@ -728,7 +728,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: c9f6d0e7bc8541498c9a4799ba184ede, type: 3}
+    m_Font: {fileID: 12800000, guid: 80adfcebcae25814c8f6f14132c2da37, type: 3}
     m_FontSize: 70
     m_FontStyle: 0
     m_BestFit: 0
@@ -740,7 +740,10 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: You Winned!!!
+  m_Text: 'Thanks to you, the world can listen to
+
+    every single sound again...
+    You''re a hero.'
 --- !u!222 &1637330727
 CanvasRenderer:
   m_ObjectHideFlags: 0

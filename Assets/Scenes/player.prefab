@@ -164,4 +164,16 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1ba696c3af15363448c20b215338904f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 16
+  currentState: 0
+  speed: 80
+  currentHealth: {fileID: 0}
+  playerHealthSignal: {fileID: 0}
+  startingPosition: {fileID: 0}
+  playerInventory: {fileID: 0}
+  receivedItemSprite: {fileID: 0}
+  pasos: {fileID: 0}
+  pasosArena: {fileID: 0}
+  atack: {fileID: 0}
+  myCounter6: {fileID: 0}
+  myDeaths: {fileID: 0}
+  Oscuro: {fileID: 0}

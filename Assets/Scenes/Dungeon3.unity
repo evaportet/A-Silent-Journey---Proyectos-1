@@ -433,7 +433,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 160492756}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -1191,6 +1191,36 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: CoinCounter
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467065148890453302, guid: 335cbae5cfe4fdf4d8e78652e00d3de1,
+        type: 3}
+      propertyPath: m_text
+      value: 000
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467065148890453302, guid: 335cbae5cfe4fdf4d8e78652e00d3de1,
+        type: 3}
+      propertyPath: m_margin.x
+      value: -1.3091431
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467065148890453302, guid: 335cbae5cfe4fdf4d8e78652e00d3de1,
+        type: 3}
+      propertyPath: m_margin.z
+      value: -3.9274902
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467065148890453302, guid: 335cbae5cfe4fdf4d8e78652e00d3de1,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467065148890453302, guid: 335cbae5cfe4fdf4d8e78652e00d3de1,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467065148890453302, guid: 335cbae5cfe4fdf4d8e78652e00d3de1,
+        type: 3}
+      propertyPath: m_margin.y
+      value: 3.9274902
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 335cbae5cfe4fdf4d8e78652e00d3de1, type: 3}
@@ -9727,7 +9757,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentState: 0
-  speed: 15
+  speed: 40
   currentHealth: {fileID: 11400000, guid: 9e41478fcfa2fee46a19220d8d56e85e, type: 2}
   playerHealthSignal: {fileID: 11400000, guid: e44acbe643717aa41a6378fbcd64ce9a, type: 2}
   startingPosition: {fileID: 11400000, guid: ff0a13f55e393a64a87dd863848d882b, type: 2}

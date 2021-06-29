@@ -21708,9 +21708,9 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 20
-    m_FontStyle: 1
+    m_Font: {fileID: 12800000, guid: 80adfcebcae25814c8f6f14132c2da37, type: 3}
+    m_FontSize: 35
+    m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
     m_MaxSize: 300
@@ -21721,7 +21721,7 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: Here you can exchange your coins for magic items that recover health (everything
-    you buy  will be consumed at the moment, and you will see your new health when
+    you buy will be consumed at the moment, and you will see your new health when
     leaving the shop)
 --- !u!222 &290700379
 CanvasRenderer:
@@ -72120,9 +72120,9 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 20
-    m_FontStyle: 1
+    m_Font: {fileID: 12800000, guid: 80adfcebcae25814c8f6f14132c2da37, type: 3}
+    m_FontSize: 35
+    m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
     m_MaxSize: 300
@@ -76117,9 +76117,9 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 20
-    m_FontStyle: 1
+    m_Font: {fileID: 12800000, guid: 80adfcebcae25814c8f6f14132c2da37, type: 3}
+    m_FontSize: 35
+    m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
     m_MaxSize: 300
@@ -77894,6 +77894,41 @@ PrefabInstance:
       propertyPath: m_Name
       value: CoinCounter
       objectReference: {fileID: 0}
+    - target: {fileID: 5467065148890453302, guid: 335cbae5cfe4fdf4d8e78652e00d3de1,
+        type: 3}
+      propertyPath: m_text
+      value: 000
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467065148890453302, guid: 335cbae5cfe4fdf4d8e78652e00d3de1,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467065148890453302, guid: 335cbae5cfe4fdf4d8e78652e00d3de1,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467065148890453303, guid: 335cbae5cfe4fdf4d8e78652e00d3de1,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -6.18
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467065148890453303, guid: 335cbae5cfe4fdf4d8e78652e00d3de1,
+        type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 21.858742
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467065148890453303, guid: 335cbae5cfe4fdf4d8e78652e00d3de1,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 16.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467065148890453303, guid: 335cbae5cfe4fdf4d8e78652e00d3de1,
+        type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 68.28538
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 335cbae5cfe4fdf4d8e78652e00d3de1, type: 3}
 --- !u!1001 &5828030809257142252
@@ -78188,12 +78223,12 @@ PrefabInstance:
     - target: {fileID: 6686835970212923215, guid: dc82a5ce288c3ae499187297666e0d9d,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 163
+      value: 107
       objectReference: {fileID: 0}
     - target: {fileID: 6686835970212923215, guid: dc82a5ce288c3ae499187297666e0d9d,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -113
+      value: -93
       objectReference: {fileID: 0}
     - target: {fileID: 6686835970212923215, guid: dc82a5ce288c3ae499187297666e0d9d,
         type: 3}
@@ -78372,7 +78407,7 @@ PrefabInstance:
     - target: {fileID: 7204769969142001730, guid: 466a5ce1190e0ac42bcc08ee91e71e5c,
         type: 3}
       propertyPath: m_FontData.m_FontSize
-      value: 20
+      value: 35
       objectReference: {fileID: 0}
     - target: {fileID: 7204769969142001730, guid: 466a5ce1190e0ac42bcc08ee91e71e5c,
         type: 3}
@@ -78398,6 +78433,17 @@ PrefabInstance:
     - target: {fileID: 7204769969142001730, guid: 466a5ce1190e0ac42bcc08ee91e71e5c,
         type: 3}
       propertyPath: m_FontData.m_BestFit
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7204769969142001730, guid: 466a5ce1190e0ac42bcc08ee91e71e5c,
+        type: 3}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: 80adfcebcae25814c8f6f14132c2da37,
+        type: 3}
+    - target: {fileID: 7204769969142001730, guid: 466a5ce1190e0ac42bcc08ee91e71e5c,
+        type: 3}
+      propertyPath: m_FontData.m_FontStyle
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7204769969142001731, guid: 466a5ce1190e0ac42bcc08ee91e71e5c,
@@ -78709,6 +78755,11 @@ PrefabInstance:
       propertyPath: Oscuro
       value: 
       objectReference: {fileID: 1311578949}
+    - target: {fileID: 8318469891215137087, guid: 1abf07760f68de546b62936096f547c8,
+        type: 3}
+      propertyPath: speed
+      value: 40
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1abf07760f68de546b62936096f547c8, type: 3}
 --- !u!1001 &8919514427396988596
