@@ -3526,6 +3526,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1669136824}
     m_Modifications:
+    - target: {fileID: 5467065148869834406, guid: 335cbae5cfe4fdf4d8e78652e00d3de1,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5467065148869834407, guid: 335cbae5cfe4fdf4d8e78652e00d3de1,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3635,6 +3640,31 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: CoinCounter
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467065148890453302, guid: 335cbae5cfe4fdf4d8e78652e00d3de1,
+        type: 3}
+      propertyPath: m_text
+      value: 000
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467065148890453302, guid: 335cbae5cfe4fdf4d8e78652e00d3de1,
+        type: 3}
+      propertyPath: m_fontSize
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467065148890453302, guid: 335cbae5cfe4fdf4d8e78652e00d3de1,
+        type: 3}
+      propertyPath: m_fontSizeBase
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467065148890453303, guid: 335cbae5cfe4fdf4d8e78652e00d3de1,
+        type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 22.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5467065148890453303, guid: 335cbae5cfe4fdf4d8e78652e00d3de1,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -4.6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 335cbae5cfe4fdf4d8e78652e00d3de1, type: 3}
