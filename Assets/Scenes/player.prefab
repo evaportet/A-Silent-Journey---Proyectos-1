@@ -165,15 +165,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentState: 0
-  speed: 80
-  currentHealth: {fileID: 0}
-  playerHealthSignal: {fileID: 0}
-  startingPosition: {fileID: 0}
-  playerInventory: {fileID: 0}
+  speed: 30
+  currentHealth: {fileID: 11400000, guid: 9e41478fcfa2fee46a19220d8d56e85e, type: 2}
+  playerHealthSignal: {fileID: 11400000, guid: e44acbe643717aa41a6378fbcd64ce9a, type: 2}
+  startingPosition: {fileID: 11400000, guid: ff0a13f55e393a64a87dd863848d882b, type: 2}
+  playerInventory: {fileID: 11400000, guid: 5ae6bec0becc53647a5f023834fdd5bb, type: 2}
   receivedItemSprite: {fileID: 0}
   pasos: {fileID: 0}
   pasosArena: {fileID: 0}
   atack: {fileID: 0}
-  myCounter6: {fileID: 0}
-  myDeaths: {fileID: 0}
+  myCounter6: {fileID: 11400000, guid: 09240135cb9226e4d88bef787955d2c8, type: 2}
+  myDeaths: {fileID: 11400000, guid: ed3809a39e125c34492a2b9a6ac00017, type: 2}
   Oscuro: {fileID: 0}
